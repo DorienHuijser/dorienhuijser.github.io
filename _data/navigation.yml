@@ -1,14 +1,14 @@
 - title: Home
   url: "/"
-  side: left
+  side: center
 
 - title: Bio
   url: "/bio/"
-  side: left
+  side: center
 
 - title: "What I do"
-  url: "/design/"
-  side: left
+  url: "/what-i-do/"
+  side: center
   dropdown:
   - title: "Open science"
     url: "/open-science/"
@@ -21,11 +21,11 @@
   
 - title: "Testimonials"
   url: "/testimonials/"
-  side: left
+  side: center
   
 - title: CV
   url: "/cv/"
-  side: left
+  side: center
   
 - title: "Search"
   url: "/search/"
