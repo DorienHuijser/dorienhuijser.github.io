@@ -1,31 +1,31 @@
 - title: Home
   url: "/"
-  side: center
+  side: right
 
 - title: Bio
   url: "/bio/"
-  side: center
+  side: right
 
 - title: "What I do"
   url: "/what-i-do/"
-  side: center
+  side: right
   dropdown:
   - title: "Open science"
-    url: "/open-science/"
+    url: "/what-i-do/"
   - title: "Science communication"
-    url: "/scicom/"
+    url: "/what-i-do/"
   - title: "Lab and data management"
-    url: "/lab-data-management/"
+    url: "/what-i-do/"
   - title: "Research and education"
-    url: "/research-education/"
+    url: "/what-i-do/"
   
 - title: "Testimonials"
   url: "/testimonials/"
-  side: center
+  side: right
   
 - title: CV
   url: "/cv/"
-  side: center
+  side: right
   
 - title: "Search"
   url: "/search/"
