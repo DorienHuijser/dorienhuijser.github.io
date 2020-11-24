@@ -1,8 +1,10 @@
 # Testimonials
 
-Insert Jekyll frontmatter
-
-
+layout: page
+title: "Testimonials"
+meta_title: "Testimonials"
+subheadline: "What others say about me"
+permalink: "/testimonials/"
 
 <html><head>
 

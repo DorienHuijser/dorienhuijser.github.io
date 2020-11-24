@@ -1,8 +1,10 @@
 # Bio
 
-Insert Jekyll info
-
-
+layout: page
+title: "Bio"
+meta_title: "Biography"
+subheadline: "The journey so far"
+permalink: "/bio/"
 
 <html>
 

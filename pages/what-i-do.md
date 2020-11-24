@@ -1,8 +1,10 @@
 # What I do
 
-Insert Jekyll info
-
-
+layout: page
+title: "What I do"
+meta_title: "My work activities"
+subheadline: "My work activities"
+permalink: "/what-i-do/"
 
 <html><head>
 

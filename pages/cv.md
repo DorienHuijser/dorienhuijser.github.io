@@ -1,8 +1,9 @@
 # CV
 
-Insert Jekyll info
-
-
+layout: page
+title: "CV"
+meta_title: "Curriculum Vitae"
+permalink: "/cv/"
 
 <html><head>
 
