@@ -13,8 +13,15 @@
   url: https://www.linkedin.com/in/dorienhuijser/
   class: icon-linkedin
   title: "LinkedIn profile"
-
 - name: Erasmus University Rotterdam
   url: https://www.eur.nl/people/dorien-huijser
   class: icon-network
-  title: "Erasmus University Rotterdam"
+  title: "Erasmus University Rotterdam profile"
+- name: Leiden University
+  url: https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser
+  class: icon-network
+  title: "Leiden University profile"
+- name: Erasmus SYNC lab website
+  url: https://erasmus-synclab.nl/dorien-huijser/
+  class: icon-network
+  title: "Erasmus SYNC lab website"
