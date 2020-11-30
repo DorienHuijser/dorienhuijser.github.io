@@ -9,25 +9,20 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Bio"
-  url: 'https://dorienhuijser.github.io/bio/'
+  url: '/bio/'
   image: widget-1-302x182.jpg
-  text: 'Read more about me in my bio.'
+  text: 'Read more about my journey so far in my bio.'
 widget2:
   title: "What I do"
-  url: 'http://dorienhuijser.github.io/what-i-do/'
+  url: '/what-i-do/'
   text: 'Read more about what I do.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: widget-1-302x182.jpg
 widget3:
   title: "Testimonials"
-  url: 'http://dorienhuijser.github.io/testimonials/'
+  url: '/testimonials/'
   image: widget-github-303x182.jpg
   text: 'Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page'
-#
 # Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
@@ -43,8 +38,6 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<html><head>
 
 <html>
     <head>
@@ -70,9 +63,7 @@ homepage: true
         </style>
             </head>
 
-</html>
 
-<html>
 <body>
 
 
@@ -81,26 +72,25 @@ homepage: true
 
 
 
-<p style="text-align:center;">
-    <h1>Welcome!</h1>
-You have somehow landed on my personal website, congratulations!<br>
+<h1>
+    <p style="text-align:center;">Welcome!</p>
+</h1>
+<p style="text-align:center;">You have somehow landed on my personal website, congratulations!<br>
 Click on the menu above if you want to know more about me.
 </p>
-<br>
 
+<h2>About me</h2>
 
-## About me
-
-My name is Dorien. I am currently a research assistant, but I aspire to be much more than that title suggests. My current job mostly consists of building bridges:
+<p>My name is Dorien. I am currently a research assistant, but I aspire to be much more than that title suggests. My current job mostly consists of building bridges:</p>
 
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
          <p><ul>
-      <li>As data manager, I am the bridge between developmental psychologists (at the <a href=http://erasmus-synclab.nl/>SYNC lab</a> and the <a href=https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid>L-CID study</a>) and their aims to work more in line with principles of open science. I do this by helping them get more information, looking for new research tools, connecting with other researchers and support staff about struggles we run into and educating myself with knowledge of others.</li>
+      <li>As data manager, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of open science. I do this by helping them get more information, looking for new research tools, connecting with other researchers and support staff about struggles we run into and educating myself with knowledge of others.</li>
     <li>As lab manager, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, because I also help with our citizen science initiatives, I am also part of the important two-way bridge we are building between our science and society.</li>
       </ul></p>
   </div>
-  <div class="column" style="background-color:#FFFFFF;">
+  <div class="column" style="background-color:#FFFFFF;text-align:center">
       <figure>
  <img src="images/bridge.jpg" alt="Bridge building" style="zoom:50%;"/>
  <figcaption>
@@ -108,6 +98,7 @@ My name is Dorien. I am currently a research assistant, but I aspire to be much 
  </figcaption>
 </figure>
     </div> </div>
+
 
 
 
