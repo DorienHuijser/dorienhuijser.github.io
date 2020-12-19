@@ -11,7 +11,7 @@ permalink: "/testimonials/"
 
   <head>
 
-        <meta name="viewport" content="width-device-width, initial-scale=1"></meta>
+        <meta name="viewport" content="width-device-width, initial-scale=1">
 
         <style>
 
