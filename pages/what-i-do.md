@@ -10,8 +10,7 @@ permalink: "/what-i-do/"
 <html>
 
   <head>
-
-        <meta name="viewport" content="width-device-width, initial-scale=1"></meta>
+        <meta name="viewport" content="width-device-width, initial-scale=1">
 
         <style>
 
@@ -40,7 +39,6 @@ permalink: "/what-i-do/"
     <li>Contributing to initiatives of the Brainhack community, e.g., inclusivity paper, overview of what Brainhacks are</li>
 </ul>
 
-</ul>
 
 
 
