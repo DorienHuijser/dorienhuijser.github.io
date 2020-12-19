@@ -10,7 +10,6 @@ permalink: "/testimonials/"
 <html>
 
   <head>
-
         <meta name="viewport" content="width-device-width, initial-scale=1">
 
         <style>
@@ -23,7 +22,7 @@ permalink: "/testimonials/"
 
 <body>
 
-I generally don't like talking about myself. In fact, you will probably get a better impression of me through the impression that I leave on my colleagues and friends. Therefore, I collected some data and summarized my findings on this page.
+I generally don't like talking about myself. In fact, you will probably get a better impression of me through my colleagues, friends and family. Therefore, I collected some data and summarized the results on this page[^1].
 
 
 
@@ -97,6 +96,10 @@ I generally don't like talking about myself. In fact, you will probably get a be
 <h2>Testimonials</h2>
 
 This part will be filled with testimonials that I am still collecting.
+
+
+
+[^1]: I created a [google form questionnaire](https://forms.gle/W2JS3bbmcUcjYYCV9) that I asked everyone to fill out if they had the time.
 
 </body>  
 
