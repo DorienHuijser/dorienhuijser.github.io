@@ -1,63 +1,66 @@
+---
 layout: page
 title: "What I do"
-meta_title: "What I do - My work activities"
+meta_title: "What I do - my work activities"
 subheadline: "Work activities and output"
 permalink: "/what-i-do/"
+---
 
-<html><head>
 
 <html>
-    <head>
-        <meta name="viewport" content="width-device-width, initial-scale=1"></meta>
-        <style>
-            img{border-radius: 50%;}
-        </style>
-    </head>
+
+  <head>
+
+        <meta name="viewport" content="width-device-width, initial-scale=1"></meta>
+
+        <style>
+
+​      img{border-radius: 50%;}
+
+​    </style>
+
+  </head>
+
 <body>
 
 
 
-<h2>Open science</h2>
-<ul>
-    <li>Talks OSCR en OHBM en LIBC 3 december</li>
-    <li>Hackathon & flowchart</li>
-    <li>OpenMR Benelux</li>
-    <li>Brainhack community contributions (inclusivity paper, Brainhack neuroview paper)</li>
-</ul>
+## Open science
+
+- Aiding our research group in the transition towards open science practices, such as open access publishing, data sharing, preregistrering research, sharing research materials and code and working with open science tools
+- Giving talks, e.g.,:
+  - OHBM Open Science room
+  - Open Science Community Rotterdam
+  - Leiden Institute on Brain and Cognition
+- Creating a flow chart for researchers who want to share MRI data, which started with a hackathon in October 2019 from the Open Science Community Leiden 
+- Organization of OpenMR Benelux 2021 symposium
+- Contributing to initiatives of the Brainhack community, e.g., inclusivity paper, overview of what Brainhacks are
 
 
 
-<h2>Data and lab management</h2>
+## Data and lab management
 
-<ul>
-    <li>How are we using data</li>
-    <li>L-CID data management & metadata project</li>
-    <li>Organizing lab meetings</li>
-    <li>Keeping track of everything in the lab...</li>
-</ul>
+- Figure out and keep improving how we work with research data at the SYNC lab and the Leiden Consortium on Individual Development (L-CID) twin project
+- Data management for the L-CID project, including working on a metadata infrastructure that harmonizes the metadat of all child development cohorts in the Netherlands
+- Organizational taslks, such as organizing labmeetings, improving how we work, keeping in touch with university support staff, aiding with our citizen science project YoungXperts (see below), etc. 
 
 
 
-<h2>Science communication & citizen science</h2>
+## Science communication & citizen science
 
-<ul>
-    <li>Blogs</li>
-    <li>Twitter SYNC lab</li>
-    <li>YoungXperts platform and living lab (evaluating research quality)</li>
-    <li>Educational program for youth (Utrecht University Museum)</li>
-</ul>
+- Writing blogs
+- Co-managing the SYNC-lab twitter account
+- Helping in the organization and maintenance of our YoungXperts citizen science platform (website and process) and evaluating our citizen science activities
+- Created an educational program for youth (12-14 year olds) about Attention and Multitasking (Utrecht University Museum)
 
 
 
-<h2>Research and education</h2>
+## Research and education
 
-<ul>
-<li>Lab wiki</li>
-    <li>Onderwijsraad rapport</li>
-    <li>Educational module PhD students in animal research</li>
-</ul>
+- Created the SYNC lab wiki together with colleague Eduard Klapwijk, which exhibits how we work and contains practical instructions on open science, data management, data analysis, general administration, etc. 
+- In September 2019, conducted a literature review which formed the basis of this report for the Dutch Educational Board (Onderwijsraad) about gender differences in cognitive development
+- Developed an educational module for PhD students in animal research about Experimental Design
 
+</body>  
 
-
-</body>    
 </html>
