@@ -3,7 +3,7 @@ title: "Dorien Huijser"
 
 slogan: "Dorien Huijser's personal website"
 
-description: "Find everything you always wanted to know about Dorien's professional journey."
+description: "Everything you always wanted to know about Dorien's professional journey."
 
 credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme.</p>'
 
@@ -115,7 +115,7 @@ socialmedia:
 
 # DISQUS, _includes/comments
 
-disqus_shortname: feelingresponsive
+#disqus_shortname: feelingresponsive
 
 #    SASS, http://sass-lang.com/, http://jekyllrb.com/docs/assets/#sassscss
 sass:
