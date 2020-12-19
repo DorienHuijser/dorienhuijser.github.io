@@ -2,7 +2,7 @@
   url: "/"
   side: right
 
-- title: Bio
+- title: About
   url: "/bio/"
   side: right
 
@@ -31,6 +31,6 @@
   url: "/search/"
   side: right
 
-- title: "Get in touch"
+- title: "Contact"
   url: "/contact/"
   side: right
