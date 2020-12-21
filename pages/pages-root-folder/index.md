@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Bio"
   url: '/bio/'
-  image: widget-1-302x182.jpg
-  text: 'Read more about my journey so far in my bio.'
+  image: nov2020_squarebw2.jpg
+  text: 'Read more about my journey so far.'
 widget2:
   title: "What I do"
   url: '/what-i-do/'
   text: 'Read more about what I do.'
-  image: widget-1-302x182.jpg
+  image: bridge.jpg
 widget3:
   title: "Testimonials"
   url: '/testimonials/'
-  image: widget-github-303x182.jpg
+  image: header_unsplash_1.jpg
   text: 'Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page'
 # Use the call for action to show a button on the frontpage
 # To style the button in different colors, use no value
@@ -72,22 +72,21 @@ homepage: true
 
 
 
-<h1>
-    <p style="text-align:center;">Welcome!</p>
-</h1>
+<h1><p style="text-align:center;">Welcome!</p></h1>
 <p style="text-align:center;">You have somehow landed on my personal website, congratulations!<br>
 Click on the menu above if you want to know more about me.
 </p>
 
+
 <h2>About me</h2>
 
-<p>My name is Dorien. I am currently a research assistant, but I aspire to be much more than that title suggests. My current job mostly consists of building bridges:</p>
+<p>My name is Dorien. I am a research assistant who builds bridges as a data and lab manager:</p>
 
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
          <p><ul>
-      <li>As data manager, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of open science. I do this by helping them get more information, looking for new research tools, connecting with other researchers and support staff about struggles we run into and educating myself with knowledge of others.</li>
-    <li>As lab manager, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, because I also help with our citizen science initiatives, I am also part of the important two-way bridge we are building between our science and society.</li>
+      <li>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I do this by helping them get more information, looking for new research tools, connecting with other researchers and support staff about struggles we run into and educating myself with knowledge of others.</li>
+    <li>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, because I also help with our <strong>citizen science</strong> initiative "YoungXperts", I am also part of the important two-way bridge we are building between our science and society.</li>
       </ul></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;text-align:center">
@@ -98,6 +97,7 @@ Click on the menu above if you want to know more about me.
  </figcaption>
 </figure>
     </div> </div>
+
 
 
 
