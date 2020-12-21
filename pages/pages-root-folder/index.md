@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: bridge.jpg
 widget1:
   title: "Bio"
   url: '/bio/'
@@ -88,15 +88,7 @@ Click on the menu above if you want to know more about me.
       <li>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I do this by helping them get more information, looking for new research tools, connecting with other researchers and support staff about struggles we run into and educating myself with knowledge of others.</li>
     <li>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, because I also help with our <strong>citizen science</strong> initiative "YoungXperts", I am also part of the important two-way bridge we are building between our science and society.</li>
       </ul></p>
-  </div>
-  <div class="column" style="background-color:#FFFFFF;text-align:center">
-      <figure>
- <img src="images/bridge.jpg" alt="Bridge building" style="zoom:50%;"/>
- <figcaption>
- <i>Source: <a href="https://pixabay.com/nl/photos/mist-bos-catwalk-brug-1957493/">Pixabay</a></i>
- </figcaption>
-</figure>
-    </div> </div>
+
 
 
 
