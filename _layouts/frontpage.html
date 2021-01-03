@@ -12,7 +12,17 @@ format: frontpage
 
 {% comment %}
 *
-* First check, if widget is empty or not by checking if there is a title
+* If there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+{% comment %}
+*
+* Check if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
 <div class="row t60">
@@ -23,7 +33,7 @@ format: frontpage
 	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
 		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
-
+	
 	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
@@ -100,12 +110,3 @@ format: frontpage
 {% endunless %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
