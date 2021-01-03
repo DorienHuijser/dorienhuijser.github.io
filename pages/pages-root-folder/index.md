@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: bridge.jpg
+  title: "Dorien Huijser"
+  #background-color: "#45B29D"
 widget1:
   title: "Bio"
   url: '/bio/'
@@ -41,7 +42,7 @@ homepage: true
 
 <html>
     <head>
-        <meta name="viewport" content="width-device-width, initial-scale=1"></meta>
+        <meta name="viewport" content="width-device-width, initial-scale=1">
         <style>
             img{border-radius: 80%;}
 
@@ -73,30 +74,23 @@ homepage: true
 
 
 <h1><p style="text-align:center;">Welcome!</p></h1>
-<p style="text-align:center;">You have somehow landed on my personal website, congratulations!<br>
-Click on the menu above if you want to know more about me.
-</p>
-
-
-<h2>About me</h2>
-
-<p>My name is Dorien. I am a research assistant who builds bridges as a data and lab manager:</p>
+<p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p><br>
 
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
          <p><ul>
-      <li>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I do this by helping them get more information, looking for new research tools, connecting with other researchers and support staff about struggles we run into and educating myself with knowledge of others.</li>
-    <li>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, because I also help with our <strong>citizen science</strong> initiative "YoungXperts", I am also part of the important two-way bridge we are building between our science and society.</li>
-      </ul></p>
+      <li>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I help them get more information, look for new research tools and connect with other researchers and support staff about struggles we run into.</li>
+    <li>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, I help with our <strong>citizen science</strong> initiative "YoungXperts", building a two-way bridge between our science and society.</li>
+      </ul></p></div><br>
 
 
+<h3 style="text-align:center">Follow me on Twitter!</h3>
 
+<p style="text-align:center;"><a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
+<br>
 
-
-<a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+<h2 style="text-align:center">More about me</h2><br>
 
 
 
