@@ -4,7 +4,7 @@ title: "Bio"
 meta_title: "Biography"
 permalink: "/bio/"
 breadcrumb: true
-sidebar: left
+sidebar: right
 header:
     background-color: "#45b29d"
 ---
