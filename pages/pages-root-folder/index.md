@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: "Dorien Huijser"
-  #background-color: "#45B29D"
+  image_fullwidth: home.jpg
 widget1:
   title: "Bio"
   url: '/bio/'
@@ -17,11 +17,11 @@ widget2:
   title: "What I do"
   url: '/what-i-do/'
   text: 'Read more about what I do.'
-  image: bridge.jpg
+  image: bridgesq.jpg
 widget3:
   title: "Testimonials"
   url: '/testimonials/'
-  image: header_unsplash_1.jpg
+  image: talkingsq.jpg
   text: 'Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page'
 # Use the call for action to show a button on the frontpage
 # To style the button in different colors, use no value
@@ -82,16 +82,6 @@ homepage: true
       <li>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I help them get more information, look for new research tools and connect with other researchers and support staff about struggles we run into.</li>
     <li>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, I help with our <strong>citizen science</strong> initiative "YoungXperts", building a two-way bridge between our science and society.</li>
       </ul></p></div><br>
-
-
-<h3 style="text-align:center">Follow me on Twitter!</h3>
-
-<p style="text-align:center;"><a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
-<br>
-
-<h2 style="text-align:center">More about me</h2><br>
-
 
 
 
