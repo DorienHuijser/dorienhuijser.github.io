@@ -66,8 +66,6 @@ header:
 
  <h2> What I find important</h2>
 
-```
-<p>
   <ul> 
   <li>Transparency</li>
   <li>Honesty</li>
@@ -79,14 +77,6 @@ header:
   <li>Science in society</li>
   <li>Collaboration</li>
   </ul>
-</p>
-```
-
-<br>
-
-
-
-<p style="text-align:center;"><a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 
 
