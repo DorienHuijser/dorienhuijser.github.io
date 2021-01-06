@@ -3,6 +3,7 @@ layout: page
 title: "Bio"
 meta_title: "Biography"
 permalink: "/bio/"
+breadcrumb: true
 ---
 
 
