@@ -4,6 +4,7 @@ title: "Contact"
 meta_title: "Contact"
 permalink: "/contact/"
 breadcrumb: true
+sidebar: true
 header:
     background-color: "#45b29d"
 ---
