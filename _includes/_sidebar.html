@@ -1,22 +1,13 @@
 <aside>
-	<div>
-		<p>
-			{% if page.breadcrumb == true %}
-			{% include _breadcrumb.html %}
-			{% endif %}
-		</p>
-	</div>
+	{% comment %}
+	Need to figure out how to create an on-page navigation using loops and references
+   {% endcomment %}
 
 <p style="text-align:center;"><a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius" style="alert" href="{{ url }} /contact/">"Get in touch"</a>
+            <a class="button large radius" style="alert" href="{{ url }} /contact/"> >> Get in touch <<</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
-
-	<div class="border-dotted radius b30">
-		<img src="http://placekitten.com/271/270" alt="Kitten">
-		</p>
-	</div>
 </aside>
