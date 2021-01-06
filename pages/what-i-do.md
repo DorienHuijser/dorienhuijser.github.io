@@ -4,6 +4,10 @@ title: "What I do"
 meta_title: "What I do - my work activities"
 subheadline: "Work activities and output"
 permalink: "/what-i-do/"
+breadcrumb: true
+sidebar: right
+header:
+    background-color: "#45b29d"
 ---
 
 
