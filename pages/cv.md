@@ -3,6 +3,10 @@ layout: page
 title: "CV"
 meta_title: "CV"
 permalink: "/cv/"
+breadcrumb: true
+sidebar: right
+header:
+    background-color: "#45b29d"
 ---
 
 
@@ -86,7 +90,7 @@ permalink: "/cv/"
 <h4 style="color:orange">Online courses</h4>
 
 <p>To gain some more relevant skills, I followed several online courses, including:
-    
+
 </p>
 
 <ul>
