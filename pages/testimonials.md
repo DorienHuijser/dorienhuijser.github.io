@@ -4,6 +4,10 @@ title: "Testimonials"
 meta_title: "Testimonials"
 subheadline: "What others say about me"
 permalink: "/testimonials/"
+breadcrumb: true
+sidebar: right
+header:
+    background-color: "#45b29d"
 ---
 
 
