@@ -35,70 +35,87 @@ header:
 
 <h2>Work experience</h2>
 
- <h4 style="color:green">2020-current: Lab and data manager at Society, Youth and Neuroscience Connected (SYNC) lab</h4>
+ <h4 style="color:green">2020-current: Lab and data manager</h4>
 
-<p><em>Erasmus University Rotterdam, Rotterdam</em>, see the <a href="bio.md">About page</a> for more detailed information.</p>
+<p><em>Society, Youth and Neuroscience Connected (<a href="https://erasmus-synclab.nl/">SYNC</a>) lab, Erasmus University Rotterdam, Rotterdam</em></p> 
+<p>See the <a href="bio.md">About page</a> for more detailed information.</p>
 
- <h4 style="color:green">2020-current: Data manager at Leiden Consortium on Individual Development</h4>
+ <h4 style="color:green">2020-current: Data manager</h4>
 
-<p><em>Leiden University, Leiden</em>, see the <a href="bio.md">About page</a> for more detailed information.</p>
+<p><em>Leiden Consortium on Individual Development (<a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid">L-CID</a>), Leiden University, Leiden</em></p>
+<p>See the <a href="bio.md">About page</a> for more detailed information.</p>
 
- <h4 style="color:green">2019-2020: Data manager at Brain and Development Research Center</h4>
+ <h4 style="color:green">2019-2020: Data manager</h4>
 
-<p><em>Leiden University, Leiden</em>. In this developmental psychology group, I helped researchers transition towards applying better data management and open research practices, such as folder structures and versioning, preregistration, data sharing and privacy issues. I continued this job when the Research Center was split up into the <a href="https://erasmus-synclab.nl">SYNC lab</a> and the <a href="https://changeleiden.nl">CHANGE Leiden</a> research platform.</p>
+<p><em><a href="https://brainanddevelopment.nl/">Brain and Development Research Center</a>, Leiden University, Leiden</em></p> 
+<p>In this developmental psychology group, I helped researchers transition towards applying better data management and open research practices, such as folder structures and versioning, preregistration, data sharing and privacy issues. I continued this job when the Research Center was split up into the <a href="https://erasmus-synclab.nl">SYNC lab</a> and the <a href="https://changeleiden.nl">CHANGE Leiden</a> research platform.</p>
 
  <h4 style="color:green">2019-2020: Educational content developer and e-moderator</h4>
 
-<p><em>Utrecht University Medical Center and Animal Welfare Body, Utrecht.</em> In the development and testing phase of the learning track "My Animal Research: Experimental Design", a learning track for PhD students who are setting up an animal experiment, I developed the contents of the online learning environment and functioned as e-moderator during the pilot phase of the project (Sept.-Dec. 2019), keeping contact with all involved participants, teachers and coordinators.</p>
+<p><em><a href="https://www.umcutrecht.nl/en/educational-expertise">Utrecht University Medical Center</a> and <a href="https://www.ivd-utrecht.nl/en">Animal Welfare Body</a>, Utrecht.</em></p>
+<p>In the development and testing phase of the learning track <a href="https://www.uu.nl/en/events/my-animal-research-experimental-design-fully-booked">"My Animal Research: Experimental Design"</a>, a learning track for PhD students who are setting up an animal experiment, I developed the contents of the online learning environment and functioned as e-moderator during the pilot phase of the project (Sept.-Dec. 2019), keeping contact with all involved participants, teachers and coordinators.</p>
 
  <h4 style="color:green">2010-2019: Several side-jobs</h4>
 
 <p>During my secondary school and university studies, I had several side jobs, including:
 <ul>
     <li>2016-2019: Tutor for several secondary school pupils in several subjects (e.g, maths, chemistry, Latin, Greek)</li>
-    <li>2018-2019: Student assistant on the Brainlinks project at the Brain and Development Research Center, Leiden University</li>
-    <li>2016: Summer school tutor (maths and Latin): pupils had the chance to still go to the next year if they passed a test after two weeks of additional study in the summer</li>
-    <li>2014-2016: Sales employee at Blokker, Utrecht</li>
-    <li>2012-2013: Cashier at Jumbo supermarket, Leeuwarden</li>
+    <li>2018-2019: Student assistant on the <a href="https://juniorhersenen.nl/onderzoeken/brainlinks/">Brainlinks</a> project at the <a href="https://brainanddevelopment.nl/">Brain and Development Research Center</a>, Leiden University</li>
+    <li>2016: <a href="https://www.studiekring.nl/samenwerken/zomerschool">Summer school</a> tutor (maths and Latin): pupils had the chance to still go to the next year if they passed a test after two weeks of additional study in the summer</li>
+    <li>2014-2016: Sales employee at <a href="https://www.blokker.nl/">Blokker</a>, Utrecht</li>
+    <li>2012-2013: Cashier at <a href="https://www.jumbo.com/">Jumbo</a> supermarket, Leeuwarden</li>
 </ul></p>
+
 
 
 
 <h2>Education</h2>
 
- <h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition (8.5)</h4>
+ <h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition/study-programme">(8.5)</a></h4>
 
-<p><em>Utrecht University, Utrecht</em>, incl. minor Science Education and Communication</p>
+<p><em>Utrecht University, Utrecht</em>, incl. <a href="https://studyguidelifesciences.nl/profiles/communication-profile">minor</a> Science Education and Communication</p>
 
 <h6 style="color:grey">Additional activities</h6>
 
 <p><ul>
-    <li>2018-2019: Intern education - <i>Utrecht University Museum, Utrecht</i><br> As part of my minor Science education and communication, I developed an educational program for the University Museum Utrecht for secondary school pupils (havo/vwo 1-2 and vmbo 1-3) about social sciences (attention), using the methods of inquiry-based learning (onderzoekend leren)</li>
-    <li>2017-2018: Research intern - <i>Brain and Development Research Center, Leiden University, Leiden</i><br>During this internship, I set up, carried out and wrote about an fMRI study and planned and tested many adolescents (9-17 years old) for a large longitudinal research project (Brainlinks)</li>
-    <li>2016-2017: Secretary - <i>Mind the Brain symposium, Utrecht University, Utrecht</i><br>With 8 students, we organized a two-day neuroscience symposium, themed "Criminal Minds"</li>
-    <li>2016-2017: Research intern - <i>Experimental Psychology, Utrecht University, Utrecht</i><br>During this project, I set up, carried out and wrote about a longitudinal experiment into unilateral hearing loss and sound localization among healthy adults</li>
+    <li>2018-2019: Intern education - <i><a href="https://umu.nl/">Utrecht University Museum</a>, Utrecht</i><br> As part of my minor Science education and communication, I developed an <a href="https://umu.nl/onderwijs/vo/wetenschapsworkshop-aandacht-havo-vwo/">educational program</a> for the University Museum Utrecht for secondary school pupils (havo/vwo 1-2 and vmbo 1-3) about social sciences (attention), using the methods of inquiry-based learning (onderzoekend leren)</li>
+    <li>2018: Literature research: "Neural mechanisms of adolescent fear extinction and fear extinction during reconsolidation: a literature review", supervised by dr. Marieke Bos and prof. dr. Joke Baas</li>
+    <li>2017-2018: Research intern - <i><a href="https://brainanddevelopment.nl/">Brain and Development Research Center</a>, Leiden University, Leiden</i><br>During this internship, I set up, carried out and wrote about an fMRI study and planned and tested many adolescents (9-17 years old) for a large longitudinal research project (<a href="https://juniorhersenen.nl/onderzoeken/brainlinks/">Brainlinks</a>)</li>
+   <li>2017-2018: Author (<a href="http://journal.neuroscience-cognition.org/archive/19">2017: 11(1)</a>) and reviewer (<a href="http://journal.neuroscience-cognition.org/archive">2017: 11(1-2) & 2018: 12(1-2)</a>) at the Neuroscience and Cognition Journal</li>
+    <li>2016-2017: Secretary - <i><a href="https://www.mindthebrain.nl/">Mind the Brain</a> symposium, Utrecht University, Utrecht</i><br>With 8 students, we organized a two-day neuroscience symposium, themed "Criminal Minds"</li>
+    <li>2016-2017: Research intern - <i><a href="https://www.uu.nl/medewerkers/organogram/FSW/54/269">Experimental Psychology</a>, Utrecht University, Utrecht</i><br>During this project, I set up, carried out and wrote about a longitudinal experiment into unilateral hearing loss and sound localization among healthy adults</li>
+
 </ul></p>
 
- <h4 style="color:orange">2013-2016: BSc Liberal Arts and Sciences (8.2)</h4>
+ <h4 style="color:orange">2013-2016: BSc Liberal Arts and Sciences <a href="https://www.uu.nl/bachelors/liberal-arts-and-sciences">(8.2)</a></h4>
 
-<p><em>Utrecht University, Utrecht</em>, incl. major Cognitive and Neurobiological Psychology & minor Language Development</p>
+<p><em>Utrecht University, Utrecht</em>, incl. <a href="https://students.uu.nl/gw/las/studieprogramma/major/hoofdrichting">major</a> Cognitive and Neurobiological Psychology + <a href="https://students.uu.nl/gw/taalontwikkeling">minor</a> Language Development</p>
+
+<p>
+Theses:
+    <ol>
+        <li>Huijser, D.C., & Lichtenberg, L. (2016). Social Status and Status Motivations: The Association between the Wish for Popularity and Social Status in Late Childhood, doi: <a href="http://dspace.library.uu.nl/handle/1874/338248">http://dspace.library.uu.nl/handle/1874/338248</a><br>
+            Bachelor thesis (8.0), supervised by dr. Aart Franken</li>
+        <li>Huijser, D.C., Bakermans, M., Purkins, M. (2015). Looking down, moving up. An interdisciplinary approach to the consequences of the current language situation that has developed as a result of the elite status of the English language in India.<br>
+        Interdisciplinary thesis (7.9), supervised by dr. Merel van Goch</li>
+</ol></p>
 
   <h4 style="color:orange">2007-2013: Voorbereidend Wetenschappelijk Onderwijs (VWO) (8.1)</h4>
 
-<p><em>Christelijk Gymnasium Beyers Naudé, Leeuwarden</em>, profile Economics and Society</p>
+<p><em><a href="https://www.cgbn.nl/">Christelijk Gymnasium Beyers Naudé</a>, Leeuwarden</em>, profile Economics and Society</p>
 
 <h4 style="color:orange">Online courses</h4>
 
 <p>To gain some more relevant skills, I followed several online courses, including:
-
 </p>
 
 <ul>
-    <li>2019-2020: Specialization "Data Science: Foundations using R" - <i>Johns Hopkins University via <a href="https://www.coursera.org">Coursera</a></i></li>   
-    <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href="https://www.coursera.org">Coursera</a></i></li>
-    <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href="https://www.udemy.com">Udemy</a></i></li>
-    <li>2016: Several statistics courses (average grade: 92.6%): Basic statistics, Inferential statistics, quantitative methods - <i>University of Amsterdam via <a href="https://www.coursera.org">Coursera</a></i></li>
+    <li>2019-2020: Specialization "Data Science: Foundations using R" - <i>Johns Hopkins University via <a href="https://www.coursera.org/specializations/data-science-foundations-r">Coursera</a></i></li>   
+    <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href="https://www.coursera.org/learn/data-management">Coursera</a></i></li>
+    <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href="https://www.udemy.com/course/adobe-indesign-made-easy/">Udemy</a></i></li>
+    <li>2016: Several statistics courses (average grade: 92.6%): Basic statistics, Inferential statistics, quantitative methods - <i>University of Amsterdam via <a href="https://www.coursera.org/specializations/social-science">Coursera</a></i></li>
 </ul>
+
 
 </p>
 
@@ -116,7 +133,24 @@ header:
 
 <h4 style="color:blue">Software</h4>
 
-<p>In order of skill level:<ul>
+<p>In order of skill level:
+<div class="chart-wrap vertical">
+  <h2 class="title">Bar Chart HTML Example:  Using Only HTML And CSS</h2>
+  <div class="grid">
+      <div class="bar" style="--bar-value:85%;" data-name="Microsoft Office" title="Microsoft Office 85%"></div>
+      <div class="bar" style="--bar-value:50%;" data-name="Git(hub)" title="Git(hub) 50%"></div>
+     <div class="bar" style="--bar-value:75%;" data-name="Markdown" title="Markdown 75%"></div>
+      <div class="bar" style="--bar-value:60%;" data-name="Interactive presentation tools" title="Interactive presentation tools 60%"></div>
+      <div class="bar" style="--bar-value:35%;" data-name="R" title="R 35%"></div>
+      <div class="bar" style="--bar-value:25%;" data-name="E-prime" title="E-prime 25%"></div>
+      <div class="bar" style="--bar-value:15%;" data-name="Adobe InDesign" title="Adobe InDesign 15%"></div>
+      <div class="bar" style="--bar-value:10%;" data-name="Matlab" title="Matlab 10%"></div>  
+            <div class="bar" style="--bar-value:15%;" data-name="SPSS" title="SPSS 15%"></div>
+  </div>
+
+</div>
+
+<ul>
     <li>Microsoft Office and Google alternatives</li>
     <li>Git & GitHub</li>
     <li>Markdown</li>
@@ -127,6 +161,7 @@ header:
     <li>Matlab</li>
     <li>SPSS</li>
 </ul></p>
+
 
 <h4 style="color:blue">Competences</h4>
 
