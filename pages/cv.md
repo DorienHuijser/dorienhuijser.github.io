@@ -9,19 +9,10 @@ header:
     background-color: "#45b29d"
 ---
 
-
 <html>
 
-  <head>
-        <meta name="viewport" content="width-device-width, initial-scale=1">
-
-        <style>
-
-​      img{border-radius: 50%;}
-
-​    </style>
-
-  </head>
+<head>
+</head>
 
 </html>
 
@@ -133,33 +124,18 @@ Theses:
 
 <h4 style="color:blue">Software</h4>
 
-<p>In order of skill level:
-<div class="chart-wrap vertical">
-  <h2 class="title">Bar Chart HTML Example:  Using Only HTML And CSS</h2>
-  <div class="grid">
-      <div class="bar" style="--bar-value:85%;" data-name="Microsoft Office" title="Microsoft Office 85%"></div>
-      <div class="bar" style="--bar-value:50%;" data-name="Git(hub)" title="Git(hub) 50%"></div>
-     <div class="bar" style="--bar-value:75%;" data-name="Markdown" title="Markdown 75%"></div>
-      <div class="bar" style="--bar-value:60%;" data-name="Interactive presentation tools" title="Interactive presentation tools 60%"></div>
-      <div class="bar" style="--bar-value:35%;" data-name="R" title="R 35%"></div>
-      <div class="bar" style="--bar-value:25%;" data-name="E-prime" title="E-prime 25%"></div>
-      <div class="bar" style="--bar-value:15%;" data-name="Adobe InDesign" title="Adobe InDesign 15%"></div>
-      <div class="bar" style="--bar-value:10%;" data-name="Matlab" title="Matlab 10%"></div>  
-            <div class="bar" style="--bar-value:15%;" data-name="SPSS" title="SPSS 15%"></div>
-  </div>
-
-</div>
-
-<ul>
-    <li>Microsoft Office and Google alternatives</li>
-    <li>Git & GitHub</li>
-    <li>Markdown</li>
-    <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides</li>
-    <li>R</li>
-    <li>E-prime</li>
-    <li>Adobe InDesign</li>
-    <li>Matlab</li>
-    <li>SPSS</li>
+<p>
+    <ul>
+    <li>Microsoft Office and Google alternatives - 85%</li>
+    <li>Git & GitHub - 50%</li>
+    <li>Markdown 75%</li>
+    <li>HTML 20%</li>
+    <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides - 60%</li>
+    <li>R - 35%</li>
+    <li>E-prime - 25%</li>
+    <li>Adobe InDesign - 15%</li>
+    <li>Matlab - 10%</li>
+    <li>SPSS - 15%</li>
 </ul></p>
 
 
