@@ -28,7 +28,7 @@ header:
 
 
 
-<h2>Open science</h2>
+<h2 id="openscience">Open science</h2>
 
 <ul>
     <li>Aiding our research group in the transition towards open science practices, such as open access publishing, data sharing, preregistrering research, sharing research materials and code and working with open science tools</li>  
@@ -46,7 +46,7 @@ header:
 
 
 
-<h2>Data and lab management</h2>
+<h2 id="labdatamanagement">Lab and data management</h2>
 
 <ul>
     <li>Figure out and keep improving how we work with research data at the SYNC lab and the Leiden Consortium on Individual Development (L-CID) twin project</li>
@@ -55,8 +55,7 @@ header:
 </ul>
 
 
-
-<h2>Science communication & citizen science</h2>
+<h2 id="scicom">Science communication & citizen science</h2>
 
 <ul>
     <li>Writing blogs</li>
@@ -66,8 +65,7 @@ header:
 </ul>
 
 
-
-<h2>Research and education</h2>
+<h2 id="research">Research and education</h2>
 
 <ul>
     <li>Created the SYNC lab wiki together with colleague Eduard Klapwijk, which exhibits how we work and contains practical instructions on open science, data management, data analysis, general administration, etc. </li>
