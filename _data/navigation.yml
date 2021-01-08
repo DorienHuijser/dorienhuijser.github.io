@@ -2,10 +2,6 @@
   url: "/"
   side: right
 
-- title: About
-  url: "/bio/"
-  side: right
-
 - title: "What I do"
   url: "/what-i-do/"
   side: right
