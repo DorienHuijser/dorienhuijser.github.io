@@ -63,7 +63,18 @@ homepage: true
   left: 50%;
   transform: translate(-50%, -50%);
 }
-</style>
+
+.column {
+ float: left;
+ width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+ content: "";
+ display: table;
+ clear: both;
+}</style>
 
 <body>
 
@@ -77,14 +88,15 @@ homepage: true
 <p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p><br>
 
 <div class="row">
-  <div class="column" style="background-color:#FFFFFF;">
+    <div class="column">
          <ul>
       <li>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I help them get more information, look for new research tools and connect with other researchers and support staff about struggles we run into.</li></ul></div>
-<div class="column" style="background-color:#FFFFFF;">
+<div class="column">
     <ul>
       <li>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, I help with our <strong>citizen science</strong> initiative "YoungXperts", building a two-way bridge between our science and society.</li>  
     </ul>
     </div>
+
 
 <h2>
     Bio
