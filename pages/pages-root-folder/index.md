@@ -48,7 +48,7 @@ homepage: true
 <style>
     .container {
   position: relative;
-  text-align: center;
+  text-align: left;
 }
 
 .bottom-left {
