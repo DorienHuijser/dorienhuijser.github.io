@@ -80,7 +80,7 @@ homepage: true
 
 
 
-<figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure>
+<p><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></p>
 
 
 
