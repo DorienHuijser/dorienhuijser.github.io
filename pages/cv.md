@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-meta_title: "CV"
+meta_title: "Dorien's CV"
 permalink: "/cv/"
 breadcrumb: true
 sidebar: right
@@ -29,12 +29,21 @@ header:
  <h4 style="color:green">2020-current: Lab and data manager</h4>
 
 <p><em>Society, Youth and Neuroscience Connected (<a href="https://erasmus-synclab.nl/">SYNC</a>) lab, Erasmus University Rotterdam, Rotterdam</em></p> 
-<p>See the <a href="bio.md">About page</a> for more detailed information.</p>
+<p><ul>
+    <li>As <b>data manager</b>, I formulate ways to move towards <strong>open science practices</strong> and look at how we handle our research data (privacy, data structure, long-term access, etc.) and how we can improve that. In both data management and open science, I try to educate myself as much as possible and keep a close eye on international developments, connecting with researchers and support staff from national and international institutions.</li>
+    <li>As <b>lab manager</b>, I coordinate and support with all kinds of lab-wide events and initiatives, including (but not limited to):
+        <ul>
+            <li>organizing meetings</li>
+            <li>functioning as liaison between the SYNC lab and EUR's research support staff</li>
+            <li>improving how we work (incl. with data)</li>
+            <li>involvement in your citizen science platform, <a href="https://youngxperts.nl">"YoungXperts"</a>, where youth are actively involved in our research during brainstorms and cocreation sessions </li>
+        </ul>
+</ul></p>
 
  <h4 style="color:green">2020-current: Data manager</h4>
 
 <p><em>Leiden Consortium on Individual Development (<a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid">L-CID</a>), Leiden University, Leiden</em></p>
-<p>See the <a href="bio.md">About page</a> for more detailed information.</p>
+<p>As data manager for L-CID, a large multi-cohort twin study, I aim to make our data and metadata <a href="https://www.go-fair.org/fair-principles/">FAIR</a> and our documentation interpretable, in order for this amazing dataset to be useful and useable in the future.</p>
 
  <h4 style="color:green">2019-2020: Data manager</h4>
 
