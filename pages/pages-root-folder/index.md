@@ -43,33 +43,12 @@ homepage: true
 <html>
     <head>
         <meta name="viewport" content="width-device-width, initial-scale=1">
-        <style>
-            img{border-radius: 80%;}
-
-​            
-
-            figure {
-      border: 0px #cccccc solid;
-      padding: 0px;
-      margin: auto;
-    }
-    
-    figcaption {
-      background-color: white;
-      color: black;
-      font-style: italic;
-      padding: 2px;
-      text-align: center;
-    }
-        </style>
-            </head>
-
-
+        </head>
 <body>
 
 
 
-<p style="text-align:center;"><img src="images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px"></p>
+<figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure>
 
 
 
