@@ -6,13 +6,15 @@ permalink: "/cv/"
 breadcrumb: true
 sidebar: right
 header:
-    background-color: "#45b29d"
+    background-color: "$ci-2"
 ---
 
 <html>
 
 <head>
+    <link rel="stylesheet" href="../../assets/css/collapsible.scss">
 </head>
+
 
 </html>
 
@@ -23,6 +25,12 @@ header:
 <body>
 
 
+
+<button type="button" class="collapsible"><b>Work experience - test</b></button>
+
+<div class="content">
+2020-current: lab and data manager
+</div>
 
 <h2>Work experience</h2>
 
@@ -170,7 +178,10 @@ Theses:
     <li>Having a walk</li>
 </ul>
 
-<p style="text-align:center;"><a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+```
+<script type="text/javascript" src="../../assets/js/collapsible.js"></script>
+```
 
  
 
