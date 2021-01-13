@@ -27,11 +27,11 @@ $body-bg: 			#fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1: #307C6D;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
+$ci-2: #49C9B1;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-6: #307C6D;		// dark turquoise
 
 
 
@@ -107,14 +107,13 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: #307c6d;
-$footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-bg: $ci-2;
+$footer-color: #grey-8;
+$footer-link-color: $grey-13;
 
-
-$subfooter-bg: $grey-13;
+$subfooter-bg: $ci-1;
 $subfooter-color: $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-link-color: $grey-13;
 
 
 
