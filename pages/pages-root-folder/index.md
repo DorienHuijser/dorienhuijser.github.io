@@ -51,8 +51,6 @@ homepage: true
   position: relative;
   text-align: left;
 }
-
-
 .bottom-left {
   position: absolute;
   bottom: 8px;
@@ -121,7 +119,7 @@ homepage: true
 
 
 
-<p><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></p>
+<p><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="../../images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></p>
 
 
 
@@ -158,7 +156,6 @@ homepage: true
 /* script for creating a collapsible element */
     var coll = document.getElementsByClassName("collapsible");
 var i;
-
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
