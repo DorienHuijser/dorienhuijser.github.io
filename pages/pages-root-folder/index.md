@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: "Dorien Huijser"
-  # image_fullwidth: home.jpg
+  image_fullwidth: home.jpg
 widget1:
   title: "What I do"
   url: '/what-i-do/'
@@ -81,7 +81,7 @@ homepage: true
 /* Code to create collapsible */
 
 .collapsible {
-  background-color: $ci-2;
+  background-color: $ci-1;
   color: white;
   cursor: pointer;
   padding: 18px;
@@ -93,7 +93,7 @@ homepage: true
 }
 
 .active, .collapsible:hover {
-  background-color: $ci-1;
+  background-color: $ci-2;
 }
 
 .content {
@@ -101,6 +101,18 @@ homepage: true
   display: none;
   overflow: hidden;
   background-color: #fff;
+}
+
+.collapsible:after {
+  content: '\002B'; /* Unicode character for "plus" sign (+) */
+  font-size: 20px;
+  color: black;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212"; /* Unicode character for "minus" sign (-) */
 }
 
 </style>
