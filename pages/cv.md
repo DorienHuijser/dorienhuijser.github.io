@@ -7,7 +7,7 @@ breadcrumb: true
 sidebar: right
 header:
   title: "CV"    
-  background-color: "$ci-2"
+  background-color: "#49C9B1"
 ---
 
 <html>
