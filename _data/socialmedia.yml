@@ -18,13 +18,13 @@
 
 - name: Erasmus SYNC lab website
   url: https://erasmus-synclab.nl/dorien-huijser/
-  class: icon-synclab
+  class: icon-lab-flask
   title: "Erasmus SYNC lab website"
 - name: Erasmus University Rotterdam
   url: https://www.eur.nl/people/dorien-huijser
-  class: icon-erasmus
+  class: icon-mail
   title: "Erasmus University Rotterdam profile"
 - name: Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser
-  class: icon-universiteitleiden
+  class: icon-archive
   title: "Leiden University profile"
