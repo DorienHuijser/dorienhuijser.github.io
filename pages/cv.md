@@ -13,8 +13,48 @@ header:
 <html>
 
 <head>
-    <link rel="stylesheet" href="../../assets/css/collapsible.scss">
+  <!--  <link rel="stylesheet" href="../../assets/css/collapsible.scss"> -->
 </head>
+
+<style>
+  <!-- Collapsible CSS -->
+    .collapsible {
+  background-color: $ci-1;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: large;
+}
+
+.active, .collapsible:hover {
+  background-color: $ci-2;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.collapsible:after {
+  content: '\002B'; /* Unicode character for "plus" sign (+) */
+  font-size: 20px;
+  color: black;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212"; /* Unicode character for "minus" sign (-) */
+}
+</style>
+
+
 
 
 </html>
@@ -126,8 +166,6 @@ Theses:
 </ul>
 
 
-</p>
-
 <h2 id="skills">Skills</h2>
 
 <h4 style="color:blue">Languages</h4>
@@ -167,7 +205,6 @@ Theses:
     <li>Critical</li>
     <li>Eager to learn</li>
 </ul></p>
-
 <h2 id="hobbies">Hobbies</h2>
 
 <ul>
@@ -183,10 +220,6 @@ Theses:
 ```
 <script type="text/javascript" src="../../assets/js/collapsible.js"></script>
 ```
-
- 
-
- 
 
 </body>  
 
