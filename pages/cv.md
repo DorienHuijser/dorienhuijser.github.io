@@ -75,7 +75,7 @@ header:
 <div class="content">
 <h4 style="color:green">2020-current: Lab and data manager</h4>
     <p><em>Society, Youth and Neuroscience Connected (<a href="https://erasmus-synclab.nl/">SYNC</a>) lab, Erasmus University Rotterdam, Rotterdam</em></p> 
-<p><ul>
+<ul>
     <li>As <b>data manager</b>, I formulate ways to move towards <strong>open science practices</strong> and look at how we handle our research data (privacy, data structure, long-term access, etc.) and how we can improve that. In both data management and open science, I try to educate myself as much as possible and keep a close eye on international developments, connecting with researchers and support staff from national and international institutions.</li>
     <li>As <b>lab manager</b>, I coordinate and support with all kinds of lab-wide events and initiatives, including (but not limited to):
         <ul>
@@ -83,8 +83,7 @@ header:
             <li>functioning as liaison between the SYNC lab and EUR's research support staff</li>
             <li>improving how we work (incl. with data)</li>
             <li>involvement in your citizen science platform, <a href="https://youngxperts.nl">"YoungXperts"</a>, where youth are actively involved in our research during brainstorms and cocreation sessions </li>
-        </ul>
-</ul></p>
+        </ul></li></ul>
  <h4 style="color:green">2020-current: Data manager</h4>
 <p><em>Leiden Consortium on Individual Development (<a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid">L-CID</a>), Leiden University, Leiden</em></p>
 <p>As data manager for L-CID, a large multi-cohort twin study, I aim to make our data and metadata <a href="https://www.go-fair.org/fair-principles/">FAIR</a> and our documentation interpretable, in order for this amazing dataset to be useful and useable in the future.</p>
@@ -95,17 +94,16 @@ header:
 <p><em><a href="https://www.umcutrecht.nl/en/educational-expertise">Utrecht University Medical Center</a> and <a href="https://www.ivd-utrecht.nl/en">Animal Welfare Body</a>, Utrecht.</em></p>
 <p>In the development and testing phase of the learning track <a href="https://www.uu.nl/en/events/my-animal-research-experimental-design-fully-booked">"My Animal Research: Experimental Design"</a>, a learning track for PhD students who are setting up an animal experiment, I developed the contents of the online learning environment and functioned as e-moderator during the pilot phase of the project (Sept.-Dec. 2019), keeping contact with all involved participants, teachers and coordinators.</p>
  <h4 style="color:green">2010-2019: Several side-jobs</h4>
-<p>During my secondary school and university studies, I had several side jobs, including:
+During my secondary school and university studies, I had several side jobs, including:
 <ul>
     <li>2016-2019: Tutor for several secondary school pupils in several subjects (e.g, maths, chemistry, Latin, Greek)</li>
     <li>2018-2019: Student assistant on the <a href="https://juniorhersenen.nl/onderzoeken/brainlinks/">Brainlinks</a> project at the <a href="https://brainanddevelopment.nl/">Brain and Development Research Center</a>, Leiden University</li>
     <li>2016: <a href="https://www.studiekring.nl/samenwerken/zomerschool">Summer school</a> tutor (maths and Latin): pupils had the chance to still go to the next year if they passed a test after two weeks of additional study in the summer</li>
     <li>2014-2016: Sales employee at <a href="https://www.blokker.nl/">Blokker</a>, Utrecht</li>
     <li>2012-2013: Cashier at <a href="https://www.jumbo.com/">Jumbo</a> supermarket, Leeuwarden</li>
-</ul></p>
-</div>
+    </ul></div>
 
-
+<br>
 
 <button type="button" class="collapsible"><b>Education</b></button>
 
