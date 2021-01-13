@@ -6,55 +6,15 @@ permalink: "/cv/"
 breadcrumb: true
 sidebar: right
 header:
-	title: "CV"    
-	background-color: "$ci-2"
+  title: "CV"    
+  background-color: "$ci-2"
 ---
 
 <html>
 
 <head>
-  <!--  <link rel="stylesheet" href="../../assets/css/collapsible.scss"> -->
+  <link rel="stylesheet" href="../../assets/css/collapsible.scss">
 </head>
-
-<style>
-  <!-- Collapsible CSS -->
-    .collapsible {
-  background-color: $ci-1;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: large;
-}
-
-.active, .collapsible:hover {
-  background-color: $ci-2;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #fff;
-}
-
-.collapsible:after {
-  content: '\002B'; /* Unicode character for "plus" sign (+) */
-  font-size: 20px;
-  color: black;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212"; /* Unicode character for "minus" sign (-) */
-}
-</style>
-
-
 
 
 </html>
@@ -217,9 +177,27 @@ Theses:
 </ul>
 
 
-```
-<script type="text/javascript" src="../../assets/js/collapsible.js"></script>
-```
+
+
+<script>
+/* script for creating a collapsible element */
+    var coll = document.getElementsByClassName("collapsible");
+var i;
+    for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+
 
 </body>  
 
