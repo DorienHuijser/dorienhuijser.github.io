@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: "Dorien Huijser"
-  image_fullwidth: home.jpg
+  # image_fullwidth: home.jpg
 widget1:
   title: "What I do"
   url: '/what-i-do/'
@@ -89,7 +89,7 @@ homepage: true
   border: none;
   text-align: left;
   outline: none;
-  font-size: medium;
+  font-size: large;
 }
 
 .active, .collapsible:hover {
@@ -140,27 +140,6 @@ homepage: true
 <p>After my master's, I started as <b>data manager</b> at the Brain and Development Research Center ánd as <b>educational content creator and e-moderator</b> at University Medical Center Utrecht (UMC). In these positions, I was able to combine promoting good research practices with creating educational scientific content for a PhD audience.</p></p>
 <p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (see above).</p></div></div>
 </div>
-
-
-
-<h2> OLD Bio</h2>
-
-
-
-<div class="row">
-    <div class="column">
-<p><div class="container">
-  <img src="../../images/las2.jpg" style="zoom:100%;" >
-  <div class="bottom-left"><h3 style="color:white">Studies</h3></div>
-</div>
-<p>I started my career at Utrecht University in the bachelor <a href="https://www.uu.nl/bachelors/liberal-arts-and-sciences">Liberal Arts and Sciences</a>. Here, I learned about the importance of <b>interdisciplinary cooperation</b> as a way to solve society's larger issues. Additionally, I dove into <b>Cognitive and neurobiological psychology</b> (major) and <b>Language development</b> (minor).</p></p>
-    <p>In my master <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition">Neuroscience and Cognition</a>, I conducted two <b>research projects</b> in both cognitive (9 months) and developmental psychology (6 months). Additionally, I completed a minor in <b>science education and communication</b>, where I gained skills in communicating science to different audiences.</p></div>
-    <div class="column"><p><div class="container">
-  <img src="../../images/work.jpg" style="zoom:100%">
-  <div class="bottom-left"><h3 style="color:white">Work</h3></div>
-</div>
-<p>After my master's, I started as <b>data manager</b> at the Brain and Development Research Center ánd as <b>educational content creator and e-moderator</b> at University Medical Center Utrecht (UMC). In these positions, I was able to combine promoting good research practices with creating educational scientific content for a PhD audience.</p></p>
-<p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (see above).</p></div></div>
 
 
 <script>
