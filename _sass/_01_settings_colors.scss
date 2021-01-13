@@ -26,12 +26,12 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #307C6D;		// dark turquoise
+$ci-1: #399180;		// dark turquoise
 $ci-2: #49C9B1;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #307C6D;		// dark turquoise
+$ci-6: #399180;		// dark turquoise
 
 
 
@@ -65,7 +65,7 @@ $grey-12: #3E3E3E;
 $grey-13: #313131;
 $grey-14: #242424;
 $grey-15: #171717;
-$grey-16: #0B0B0B;
+$grey-16: #0B0B0B; // black
 
 
 
@@ -90,7 +90,6 @@ $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-2;
 
-
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
@@ -108,8 +107,8 @@ $topbar-menu-icon-color-toggled: $ci-6;
 ------------------------------------------------------------------- */
 
 $footer-bg: $ci-2;
-$footer-color: #grey-8;
-$footer-link-color: $grey-13;
+$footer-color: #grey-13;
+$footer-link-color: $grey-8;
 
 $subfooter-bg: $ci-1;
 $subfooter-color: $grey-8;
