@@ -6,7 +6,8 @@ permalink: "/cv/"
 breadcrumb: true
 sidebar: right
 header:
-    background-color: "$ci-2"
+	title: "CV"    
+	background-color: "$ci-2"
 ---
 
 <html>
@@ -32,7 +33,7 @@ header:
 2020-current: lab and data manager
 </div>
 
-<h2>Work experience</h2>
+<h2 id="work-experience">Work experience</h2>
 
  <h4 style="color:green">2020-current: Lab and data manager</h4>
 
@@ -77,7 +78,7 @@ header:
 
 
 
-<h2>Education</h2>
+<h2 id="education">Education</h2>
 
  <h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition/study-programme">(8.5)</a></h4>
 
@@ -127,7 +128,7 @@ Theses:
 
 </p>
 
-<h2>Skills</h2>
+<h2 id="skills">Skills</h2>
 
 <h4 style="color:blue">Languages</h4>
 
@@ -167,7 +168,7 @@ Theses:
     <li>Eager to learn</li>
 </ul></p>
 
-<h2>Hobbies</h2>
+<h2 id="hobbies">Hobbies</h2>
 
 <ul>
     <li>Playing guitar and ukulele</li>
