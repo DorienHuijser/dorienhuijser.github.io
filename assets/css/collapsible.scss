@@ -4,6 +4,10 @@ sitemap:
 ---
 /* Code to create collapsible */
 
+```
+@import "_sass/_01_settings_colors";
+```
+
 .collapsible {
   background-color: $ci-1;
   color: white;
