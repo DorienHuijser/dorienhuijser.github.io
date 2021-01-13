@@ -1,27 +1,30 @@
-- name: GitHub
-  url: https://github.com/DorienHuijser
-  class: icon-github # refers to assets/fonts/svg-files-for-custom-font
-  title: Github profile
-
+- name: ORCID
+  url: https://orcid.org/0000-0003-3282-8083
+  class: icon-orcid
+  title: "ORCID ID"
 - name: Twitter
   url: https://twitter.com/DorienHuijser
   class: icon-twitter
   title: "Twitter profile"
-
-
 - name: LinkedIn
   url: https://www.linkedin.com/in/dorienhuijser/
   class: icon-linkedin
   title: "LinkedIn profile"
+- name: GitHub
+  url: https://github.com/DorienHuijser
+  class: icon-github # refers to assets/fonts/svg-files-for-custom-font
+  title: "Github profile"
+
+
+- name: Erasmus SYNC lab website
+  url: https://erasmus-synclab.nl/dorien-huijser/
+  class: icon-synclab
+  title: "Erasmus SYNC lab website"
 - name: Erasmus University Rotterdam
   url: https://www.eur.nl/people/dorien-huijser
-  class: icon-network
+  class: icon-erasmus
   title: "Erasmus University Rotterdam profile"
 - name: Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser
-  class: icon-network
+  class: icon-universiteitleiden
   title: "Leiden University profile"
-- name: Erasmus SYNC lab website
-  url: https://erasmus-synclab.nl/dorien-huijser/
-  class: icon-network
-  title: "Erasmus SYNC lab website"
