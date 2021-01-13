@@ -64,6 +64,10 @@
     
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
+            
+            <!-- embed ORCID -->
+            <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3282-8083" href="https://orcid.org/0000-0003-3282-8083" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3282-8083</a></div>
+            
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}
