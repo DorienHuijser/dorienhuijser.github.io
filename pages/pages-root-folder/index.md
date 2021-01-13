@@ -9,20 +9,20 @@ header:
   title: "Dorien Huijser"
   image_fullwidth: home.jpg
 widget1:
-  title: "Bio"
-  url: '/bio/'
-  image: nov2020_squarebw2.jpg
-  text: 'Read more about my journey so far.'
-widget2:
   title: "What I do"
   url: '/what-i-do/'
-  text: 'Read more about what I do.'
   image: bridgesq.jpg
-widget3:
+  text: 'Read more about what I do.'
+widget2:
   title: "Testimonials"
   url: '/testimonials/'
+  text: 'Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page.'
   image: talkingsq.jpg
-  text: 'Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page'
+widget3:
+  title: "CV"
+  url: '/cv/'
+  image: nov2020_squarebw2.jpg
+  text: 'Checkout all my qualifications and work experience here.'
 # Use the call for action to show a button on the frontpage
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
