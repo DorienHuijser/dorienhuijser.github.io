@@ -143,56 +143,52 @@ Theses:
 
 
 
-<h2 id="skills">Skills</h2>
+<button type="button" class="collapsible"><b>Skills</b></button>
 
-<h4 style="color:blue">Languages</h4>
-
-<p><ul>
+<div class="content">
+    <h4 style="color:blue">Languages</h4>
+    <ul>
     <li>Dutch (native)</li>
     <li>English (competent in writing, understanding, speaking)</li>
     <li>French, German, Frisian (basic)</li>
-</ul></p>
-
-
-
-<h4 style="color:blue">Software</h4>
-
-<p>
+</ul>
+    <h4 style="color:blue">Software</h4>
     <ul>
-    <li>Microsoft Office and Google alternatives - 85%</li>
-    <li>Git & GitHub - 50%</li>
-    <li>Markdown 75%</li>
-    <li>HTML 20%</li>
-    <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides - 60%</li>
-    <li>R - 35%</li>
-    <li>E-prime - 25%</li>
-    <li>Adobe InDesign - 15%</li>
-    <li>Matlab - 10%</li>
-    <li>SPSS - 15%</li>
-</ul></p>
-
-
-<h4 style="color:blue">Competences</h4>
-
-<p>Please also see the <a href="testimonials.md">Testimonial page</a><ul>
+        <li>Microsoft Office and Google alternatives - 85%</li>
+        <li>Git & GitHub - 50%</li>
+        <li>Markdown 75%</li>
+        <li>HTML 20%</li>
+        <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides - 60%</li>
+        <li>R - 35%</li>
+        <li>E-prime - 25%</li>
+        <li>Adobe InDesign - 15%</li>
+        <li>Matlab - 10%</li>
+        <li>SPSS - 15%</li>
+    </ul>
+    <h4 style="color:blue">Competences</h4>
+    <p>Please also see the <a href="testimonials.md">Testimonial page</a></p>
+    <ul>
     <li>Organization</li>
     <li>Collaboration</li>
     <li>Communication</li>
     <li>Solution- and result-oriented</li>
     <li>Critical</li>
     <li>Eager to learn</li>
-</ul></p>
-<h2 id="hobbies">Hobbies</h2>
+    </ul></div>
 
-<ul>
+<br>
+
+<button type="button" class="collapsible"><b>Hobbies</b></button>
+
+<div class="content">
+    <ul>
     <li>Playing guitar and ukulele</li>
     <li>Coloring</li>
     <li>Swimming</li>
     <li>Reading popular-scientific articles and books</li>
     <li>Baking</li>
     <li>Having a walk</li>
-</ul>
-
+    </ul></div>
 
 
 
