@@ -17,7 +17,6 @@ header: no
 
 <style>
     /* Code to create collapsible */
-
 .collapsible {
   background-color: $ci-1;
   color: white;
@@ -206,6 +205,17 @@ var i;
 }
 </script>
 
+
+/* script for making a page toc */
+  
+<script src="../assets/js/table-of-contents.js" type="text/javascript"></script>
+<script>
+	tableOfContents('[data-content]', '[data-toc]', {
+		heading: 'Page contents', // Change the headings
+		listType: 'ul', // Change the list type
+		levels: 'h2, h3' // Change the levels used
+	});
+</script>
 
 </div>
 
