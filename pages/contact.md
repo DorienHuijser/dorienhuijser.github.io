@@ -3,7 +3,6 @@ layout: page
 title: "Contact"
 meta_title: "Contact | Dorien Huijser"
 permalink: "/contact/"
-breadcrumb: true
 sidebar: true
 header: no
 ---
