@@ -4,8 +4,7 @@ layout: page
 title: "Search"
 sitemap: false
 breadcrumb: true
-header:
-    background-color: "#45b29d"
+header: no
 ---
 
 {% include _google_search.html %}

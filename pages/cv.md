@@ -1,13 +1,11 @@
 ---
 layout: page
 title: "CV"
-meta_title: "Dorien's CV"
+meta_title: "CV | Dorien Huijser"
 permalink: "/cv/"
 breadcrumb: true
 sidebar: right
-header:
-  title: "CV"    
-  background-color: "#49C9B1"
+header: no
 ---
 
 <html>

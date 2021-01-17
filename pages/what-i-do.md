@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "What I do"
-meta_title: "What I do - my work activities"
+meta_title: "What I do | Dorien Huijser"
 subheadline: "Work activities and output"
 permalink: "/what-i-do/"
 breadcrumb: true
 sidebar: right
-header:
-    background-color: "#45b29d"
+header: no
 ---
 
 
