@@ -5,15 +5,6 @@
 - title: "What I do"
   url: "/what-i-do/"
   side: left
-  dropdown:
-  - title: "Open science"
-    url: "/what-i-do/"
-  - title: "Lab and data management"
-    url: "/what-i-do/"
-  - title: "Science communication & citizen science"
-    url: "/what-i-do/"
-  - title: "Research and education"
-    url: "/what-i-do/"
   
 - title: "Testimonials"
   url: "/testimonials/"
