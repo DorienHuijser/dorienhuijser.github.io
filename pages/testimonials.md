@@ -34,7 +34,7 @@ header:
 
 <h2>Family and friends describe me as</h2>
 
-<iframe src="https://answergarden.ch/embed/1547073" width="500px" height="300px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/1547073">Go to AnswerGarden</a></p></iframe>
+<iframe src="https://answergarden.ch/embed/1547073" width="640px" height="400px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/1547073">Go to AnswerGarden</a></p></iframe>
 
 
 
