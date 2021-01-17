@@ -1,10 +1,10 @@
 - title: Home
   url: "/"
-  side: right
+  side: left
 
 - title: "What I do"
   url: "/what-i-do/"
-  side: right
+  side: left
   dropdown:
   - title: "Open science"
     url: "/what-i-do/"
@@ -17,11 +17,11 @@
   
 - title: "Testimonials"
   url: "/testimonials/"
-  side: right
+  side: left
   
 - title: CV
   url: "/cv/"
-  side: right
+  side: left
   
 - title: "Search"
   url: "/search/"
@@ -29,4 +29,4 @@
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: left
