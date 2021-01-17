@@ -10,7 +10,6 @@ header:
     background-color: "#45b29d"
 ---
 
-
 <html>
 
   <head>
@@ -28,6 +27,7 @@ header:
 
 
 
+<div data-content>
 <p>I generally don't like talking about myself. In fact, you will probably get a better impression of me through my colleagues, friends and family. Therefore, I collected some data and summarized the results on this page <a href="#section1">[1]</a>.</p>
 
 
@@ -55,6 +55,8 @@ This part will be filled with testimonials that I am still collecting.
 ```
 <p id="section1">[1] I created a <a href="https://forms.gle/W2JS3bbmcUcjYYCV9">google form questionnaire</a> that I asked everyone to fill out if they had the time.</p>
 ```
+
+</div>
 
 </body>  
 

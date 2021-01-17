@@ -26,7 +26,7 @@ header:
 
 <body>
 
-
+<div data-content>
 
 <h2 id="openscience">Open science</h2>
 
@@ -72,6 +72,7 @@ header:
     <li>In September 2019, conducted a literature review which formed the basis of this report for the Dutch Educational Board (Onderwijsraad) about gender differences in cognitive development</li>
     <li>Developed an educational module for PhD students in animal research about Experimental Design</li>
 </ul>
+</div>
 
 </body>  
 
