@@ -4,7 +4,6 @@ title: "What I do"
 meta_title: "What I do | Dorien Huijser"
 subheadline: "Work activities and output"
 permalink: "/what-i-do/"
-breadcrumb: true
 sidebar: right
 header: no
 ---

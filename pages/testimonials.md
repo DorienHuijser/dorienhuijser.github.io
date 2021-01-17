@@ -4,7 +4,6 @@ title: "Testimonials"
 meta_title: "Testimonials | Dorien Huijser"
 subheadline: "What others say about me"
 permalink: "/testimonials/"
-breadcrumb: true
 sidebar: right
 header: no
 ---

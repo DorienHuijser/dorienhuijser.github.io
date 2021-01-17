@@ -3,7 +3,6 @@ layout: page
 title: "CV"
 meta_title: "CV | Dorien Huijser"
 permalink: "/cv/"
-breadcrumb: true
 sidebar: right
 header: no
 ---
