@@ -1,10 +1,14 @@
 <aside>
-	{% comment %} Tryout page table of contents {% endcomment %}
-<div class="panel radius" markdown="1">
-<h3>Page contents</h3>
-{: #toc }
-*  TOC
-{:toc}
+	{% comment %} Create TOC for page using table-of-contents.js {% endcomment %}
+<div data-toc></div>
+    <script src="../assets/js/table-of-contents.js"></script>
+<script>
+	tableOfContents('[data-content]', '[data-toc]', {
+		heading: 'Page contents', // Change the headings
+		listType: 'ul', // Change the list type
+		levels: 'h2, h3' // Change the levels used
+	});
+</script>
 </div>   
 
 
@@ -13,7 +17,7 @@
 
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius" style="alert" href="{{ url }} /contact/">Get in touch</a>
+            <a class="button small radius" style="alert" href="{{ url }} /contact/"> Get in touch </a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 </aside>
