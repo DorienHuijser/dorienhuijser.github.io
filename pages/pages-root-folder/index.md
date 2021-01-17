@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+meta_title: "Home | Dorien Huijser"
 header:
   title: "Dorien Huijser"
   image_fullwidth: home.jpg
@@ -30,7 +31,7 @@ widget3:
 #
 callforaction:
   url: /contact/
-  text: Get in touch! ›
+  text: Get in touch
   style: alert
 permalink: /index.html
 #
@@ -38,6 +39,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+
 ---
 
 <html>
