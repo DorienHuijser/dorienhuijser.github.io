@@ -63,6 +63,7 @@ format: frontpage
 
 {% comment %}
 *
+
 * First check, if there are any posts at all
 *
 {% endcomment %}
@@ -109,6 +110,16 @@ format: frontpage
     </div><!-- /.row -->
 {% endunless %}
 
-<h3 style="text-align:center">Follow me on Twitter!</h3>
+{% if page.sidebar == "right" %}
+<div class="medium-4 columns">
+	{% include _sidebar.html %}
+</div><!-- /.medium-4.columns -->
 
-<p style="text-align:center;"><a class="twitter-timeline" data-lang="en" data-width="250" data-height="350" data-theme="light" href="https://twitter.com/DorienHuijser?ref_src=twsrc%5Etfw">Tweets by DorienHuijser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+{% if page.sidebar == "left" %}
+<div class="medium-4 columns medium-pull-8">
+	{% include _sidebar.html %}
+</div><!-- /.medium-4.columns -->
+{% endif %}
+
+{% endif %}
