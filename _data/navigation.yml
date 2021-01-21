@@ -13,6 +13,9 @@
 - title: "Contact"
   url: "/contact/"
   side: left
+- title: "Sharing Guide"
+  url: "/sharing_guide.html/"
+  side: left
 - title: "Search"
   url: "/search/"
   side: right
