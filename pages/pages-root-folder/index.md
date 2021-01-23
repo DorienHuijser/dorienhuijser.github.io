@@ -85,7 +85,7 @@ homepage: true
   color: white;
   cursor: pointer;
   padding: 18px;
-  width: 100%;
+  width: 50%;
   border: none;
   text-align: left;
   outline: none;
@@ -128,7 +128,7 @@ homepage: true
 <h1 style="text-align:center"><p style="text-align:center;">Welcome!</p></h1>
 <p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p>
 
-<br>
+</br>
 
 
 
