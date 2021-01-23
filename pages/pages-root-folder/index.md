@@ -111,7 +111,7 @@ homepage: true
   margin-left: 5px;
 }
 
-.collapsible.active:after {
+.active:after {
   content: "\2212"; /* Unicode character for "minus" sign (-) */
 }
 
@@ -121,12 +121,14 @@ homepage: true
 
 
 
-<p><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="../../images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></p>
+<div><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="../../images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></div>
 
 <br>
 
-<h1 stye="text-align:center"><p style="text-align:center;">Welcome!</p></h1>
-<p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p><br>
+<h1 style="text-align:center"><p style="text-align:center;">Welcome!</p></h1>
+<p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p>
+
+<br>
 
 
 
