@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: page
 title: "First blogpost!"
 teaser: "This is my first blogpost. Read more about how I started this website."
-meta_description: "Dorien Huijser's first blogpost"
+meta_description: "This is my first blogpost. Read more about how I started this website"
 tags:
   - html
   - website
