@@ -119,7 +119,7 @@ homepage: true
 
 <body>
 
-
+<br>
 
 <div><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="../../images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></div>
 
@@ -128,11 +128,11 @@ homepage: true
 <h1 style="text-align:center"><p style="text-align:center;">Welcome!</p></h1>
 <p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p>
 
-</br>
+<br>
 
 
 
-<button type="button" class="collapsible"><b>Bio</b></button>
+<div><button type="button" class="collapsible"><b>Bio</b></button>
 
 <div class="content">
 <div class="row">
@@ -149,7 +149,8 @@ homepage: true
 </div>
 <p>After my master's, I started as <b>data manager</b> at the Brain and Development Research Center ánd as <b>educational content creator and e-moderator</b> at University Medical Center Utrecht (UMC). In these positions, I was able to combine promoting good research practices with creating educational scientific content for a PhD audience.</p></p>
 <p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (check out the <a href="../what-i-do">What I do page</a> for more info).</p></div></div>
-</div>
+</div></div>
+
 
 
 
