@@ -1,9 +1,9 @@
 ---
-layout: blog
+layout: page
 sidebar: right
-title: "First blogpost!"
-teaser: "This is my first blogpost. Read more about how I started this website."
-meta_description: "This is my first blogpost. Read more about how I started this website"
+title: "Creating my own website"
+teaser: "This is my first blogpost. Here, you can read more about how I started this website."
+meta_description: "This is my first blogpost. Here, you can read more about how I started this website."
 breadcrumb: true
 tags:
   - html
