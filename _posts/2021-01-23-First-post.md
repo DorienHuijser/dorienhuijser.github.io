@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 sidebar: right
 title: "First blogpost!"
 teaser: "This is my first blogpost. Read more about how I started this website."
