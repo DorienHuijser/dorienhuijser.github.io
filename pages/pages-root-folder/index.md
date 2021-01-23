@@ -111,7 +111,7 @@ homepage: true
   margin-left: 5px;
 }
 
-.active:after {
+.collapsible.active:after {
   content: "\2212"; /* Unicode character for "minus" sign (-) */
 }
 
@@ -123,15 +123,11 @@ homepage: true
 
 <p><figure style="border:0px #cccccc solid; padding:0px; margin:auto;text-align:center"><img src="../../images/nov2020_squarebw.jpg" alt="Profile picture" style="width:200px;border-radius:80%;"></figure></p>
 
-
+<br>
 
 <h1 stye="text-align:center"><p style="text-align:center;">Welcome!</p></h1>
 <p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p><br>
 
-<div class="row">
-    <div class="column">
-<p>As <strong>data manager</strong>, I am the bridge between developmental psychologists (at the <a href="http://erasmus-synclab.nl/">SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/sociale-wetenschappen/leiden-consortium-on-individual-development-l-cid">L-CID study</a>) and their aims to work more in line with principles of <strong>open science</strong>. I help them get more information, look for new research tools and connect with other researchers and support staff about struggles we run into.</p></div>
-    <div class="column"><p>As <strong>lab manager</strong>, I am the bridge between researchers and university-wide support staff to get practical things done. Moreover, I help with our <strong>citizen science</strong> initiative "YoungXperts", building a two-way bridge between our science and society.</p></div></div>
 
 
 <button type="button" class="collapsible"><b>Bio</b></button>
@@ -150,8 +146,9 @@ homepage: true
   <div class="bottom-left"><h3 style="color:white">Work</h3></div>
 </div>
 <p>After my master's, I started as <b>data manager</b> at the Brain and Development Research Center ánd as <b>educational content creator and e-moderator</b> at University Medical Center Utrecht (UMC). In these positions, I was able to combine promoting good research practices with creating educational scientific content for a PhD audience.</p></p>
-<p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (see above).</p></div></div>
+<p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (check out the <a href="../what-i-do">What I do page</a> for more info).</p></div></div>
 </div>
+
 
 
 <script>
