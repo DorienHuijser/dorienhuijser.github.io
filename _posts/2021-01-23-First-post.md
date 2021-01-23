@@ -12,6 +12,7 @@ tags:
   - first post
 comments: false
 show_meta: true
+header: no
 ---
 Welcome to my personal website! As this is my first blogpost, I'll try to explain why and how I created this website.
 
