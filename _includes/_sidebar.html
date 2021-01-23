@@ -1,5 +1,16 @@
 <aside>
-	{% comment %} Create TOC for page using table-of-contents.js {% endcomment %}
+    {% comment %} Create TOC for page using markdown {% endcomment %}
+    <div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+Page contents
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+    
+    {% comment %} Create TOC for page using table-of-contents.js {% endcomment %}
 <div data-toc></div>
     <script src="../assets/js/table-of-contents.js" type="text/javascript"></script>
 <script>
