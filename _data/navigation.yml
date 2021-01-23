@@ -12,7 +12,7 @@
   side: left
 - title: Contact
   url: "/contact/"
-  side: left
+  side: right
 - title: Blog
   url: "/blog"
   side: left
