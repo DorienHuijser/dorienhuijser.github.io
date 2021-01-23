@@ -1,12 +1,15 @@
 ---
 layout: page
+sidebar: right
 title: "First blogpost!"
 teaser: "This is my first blogpost. Read more about how I started this website."
 meta_description: "This is my first blogpost. Read more about how I started this website"
+breadcrumb: true
 tags:
   - html
   - website
   - git
+  - first post
 comments: false
 show_meta: true
 ---
@@ -47,3 +50,11 @@ Welcome to my personal website! As this is my first blogpost, I'll try to explai
 <h2>Want to do this too?</h2>
 
 If you only came here for yourself - who didn't? - I will soon write a short introductory tutorial that shows how I got things to work. Hopefully, that will save you some precious time. 
+
+
+
+
+
+```
+ {% include next-previous-post-in-category %}
+```
