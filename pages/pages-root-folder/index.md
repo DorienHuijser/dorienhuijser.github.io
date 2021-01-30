@@ -58,7 +58,6 @@ homepage: true
   bottom: 8px;
   left: 16px;
 }
-
 .centered {
   position: absolute;
   top: 50%;
@@ -84,10 +83,10 @@ homepage: true
   background-color: $ci-1;
   color: white;
   cursor: pointer;
-  padding: 18px;
-  width: 50%;
+  padding: 10px;
+  width: 30%;
   border: none;
-  text-align: left;
+  text-align: center;
   outline: none;
   font-size: large;
 }
@@ -101,6 +100,7 @@ homepage: true
   display: none;
   overflow: hidden;
   background-color: #fff;
+  text-align: left;
 }
 
 .collapsible:after {
@@ -132,7 +132,8 @@ homepage: true
 
 
 
-<div><button type="button" class="collapsible"><b>Bio</b></button>
+<div style="text-align:center"><button type="button" class="collapsible"><b>Bio</b></button>
+
 
 <div class="content">
 <div class="row">
@@ -141,7 +142,7 @@ homepage: true
   <img src="../../images/las2.jpg" style="zoom:100%;" >
   <div class="bottom-left"><h3 style="color:white">Studies</h3></div>
 </div>
-<p>I started my career at Utrecht University in the bachelor <a href="https://www.uu.nl/bachelors/liberal-arts-and-sciences">Liberal Arts and Sciences</a>. Here, I learned about the importance of <b>interdisciplinary cooperation</b> as a way to solve society's larger issues. Additionally, I dove into <b>Cognitive and neurobiological psychology</b> (major) and <b>Language development</b> (minor).</p></p>
+<p  style="text-align:left">I started my career at Utrecht University in the bachelor <a href="https://www.uu.nl/bachelors/liberal-arts-and-sciences">Liberal Arts and Sciences</a>. Here, I learned about the importance of <b>interdisciplinary cooperation</b> as a way to solve society's larger issues. Additionally, I dove into <b>Cognitive and neurobiological psychology</b> (major) and <b>Language development</b> (minor).</p></p>
     <p>In my master <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition">Neuroscience and Cognition</a>, I conducted two <b>research projects</b> in both cognitive (9 months) and developmental psychology (6 months). Additionally, I completed a minor in <b>science education and communication</b>, where I gained skills in communicating science to different audiences.</p></div>
     <div class="column"><p><div class="container">
   <img src="../../images/work.jpg" style="zoom:100%">
