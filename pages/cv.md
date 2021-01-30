@@ -173,7 +173,7 @@ header: no
         <li>HTML</li>
         <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides</li>
         <li>R</li>
-        <li>E-prime%</li>
+        <li>E-prime</li>
         <li>Adobe InDesign</li>
         <li>Matlab</li>
         <li>SPSS</li>
