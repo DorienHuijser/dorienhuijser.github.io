@@ -116,7 +116,18 @@ header: no
 <button type="button" class="collapsible"><b>Education</b></button>
 
 <div class="content">
-<h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition/study-programme">(8.5)</a></h4>
+<h4 style="color:orange">2016-2019: Online courses</h4>
+<details><summary style="font-size:small; color:grey">Read more</summary>
+<p>To gain some more relevant skills, I followed several online courses, including:
+</p>
+<ul>
+    <li>2019-2020: Specialization "Data Science: Foundations using R" - <i>Johns Hopkins University via <a href="https://www.coursera.org/specializations/data-science-foundations-r">Coursera</a></i></li>   
+    <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href="https://www.coursera.org/learn/data-management">Coursera</a></i></li>
+    <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href="https://www.udemy.com/course/adobe-indesign-made-easy/">Udemy</a></i></li>
+    <li>2016: Several statistics courses (average grade: 92.6%): Basic statistics, Inferential statistics, quantitative methods - <i>University of Amsterdam via <a href="https://www.coursera.org/specializations/social-science">Coursera</a></i></li>
+</ul>
+    </details>
+    <h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition/study-programme">(8.5)</a></h4>
     <em>Utrecht University, Utrecht</em>, incl. <a href="https://studyguidelifesciences.nl/profiles/communication-profile">minor</a> Science Education and Communication
     <details><summary style="color:grey">Additional activities</summary>
     <p><ul>
@@ -139,18 +150,9 @@ header: no
     </details>
   <h4 style="color:orange">2007-2013: Voorbereidend Wetenschappelijk Onderwijs (VWO) (8.1)</h4>
 <em><a href="https://www.cgbn.nl/">Christelijk Gymnasium Beyers Naudé</a>, Leeuwarden</em>, profile Economics and Society
-<h4 style="color:orange">Online courses</h4>
-<details><summary style="font-size:small; color:grey">Read more</summary>
-<p>To gain some more relevant skills, I followed several online courses, including:
-</p>
-<ul>
-    <li>2019-2020: Specialization "Data Science: Foundations using R" - <i>Johns Hopkins University via <a href="https://www.coursera.org/specializations/data-science-foundations-r">Coursera</a></i></li>   
-    <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href="https://www.coursera.org/learn/data-management">Coursera</a></i></li>
-    <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href="https://www.udemy.com/course/adobe-indesign-made-easy/">Udemy</a></i></li>
-    <li>2016: Several statistics courses (average grade: 92.6%): Basic statistics, Inferential statistics, quantitative methods - <i>University of Amsterdam via <a href="https://www.coursera.org/specializations/social-science">Coursera</a></i></li>
-</ul>
-    </details><br>
+<br>
 </div>
+
 
 
 
@@ -165,27 +167,28 @@ header: no
 </ul>
     <h4 style="color:blue">Software</h4>
     <ul>
-        <li>Microsoft Office and Google alternatives - 85%</li>
-        <li>Git & GitHub - 50%</li>
-        <li>Markdown - 75%</li>
-        <li>HTML - 20%</li>
-        <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides - 60%</li>
-        <li>R - 35%</li>
-        <li>E-prime - 25%</li>
-        <li>Adobe InDesign - 15%</li>
-        <li>Matlab - 10%</li>
-        <li>SPSS - 15%</li>
+        <li>Microsoft Office and Google alternatives</li>
+        <li>Git(hub)</li>
+        <li>Markdown</li>
+        <li>HTML</li>
+        <li>Interactive presentation tools, e.g., Miro, Slido, Mentimeter, Google Slides</li>
+        <li>R</li>
+        <li>E-prime%</li>
+        <li>Adobe InDesign</li>
+        <li>Matlab</li>
+        <li>SPSS</li>
     </ul>
     <h4 style="color:blue">Competences</h4>
     <p>Please also see the <a href="/testimonials">Testimonial page</a></p>
     <ul>
     <li>Organization</li>
-    <li>Collaboration</li>
-    <li>Communication</li>
-    <li>Solution- and result-oriented</li>
-    <li>Critical</li>
+    <li>Analytical</li>
+    <li>Collaborative</li>
+    <li>Goal-oriented</li>
     <li>Eager to learn</li>
+    <li>Communicative</li>
     </ul></div>
+
 
 
 <br>
@@ -198,9 +201,8 @@ header: no
     <li>Coloring</li>
     <li>Swimming</li>
     <li>Reading popular-scientific articles and books</li>
-    <li>Baking</li>
-    <li>Having a walk</li>
     </ul></div>
+
 
 
 
