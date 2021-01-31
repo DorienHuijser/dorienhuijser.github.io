@@ -16,10 +16,10 @@ header: no
         <style>
 ​      img{border-radius: 50%;}
 
-/* Float 3 columns side by side */
+/* Float 2 columns side by side */
 .column {
   float: left;
-  width: 33%;
+  width: 50%;
   padding: 0 10px;
 }
 
@@ -87,7 +87,7 @@ This part will be filled with testimonials that I am still collecting. Here's a 
       <p>Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have strong analytical skills and a great work attitude. She's a winner!</p>
       <cite>Friend and fellow student, anonymous</cite></blockquote></p>
     </div>
-  </div>
+</div></div>
 
 
 
