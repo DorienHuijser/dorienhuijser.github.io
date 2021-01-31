@@ -14,8 +14,41 @@ header: no
         <meta name="viewport" content="width-device-width, initial-scale=1">
 
         <style>
-
 ​      img{border-radius: 50%;}
+
+/* Float 3 columns side by side */
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: left;
+  background-color: #fff;
+}
 
 ​    </style>
 
@@ -47,9 +80,14 @@ header: no
 
 This part will be filled with testimonials that I am still collecting. Here's a preview:
 
-<blockquote><p>
-    Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have strong analytical skills and a great work attitude. She's a winner!</p>
-    <cite>Friend and fellow student, anonymous</cite></blockquote>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <p><blockquote>
+      <p>Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have strong analytical skills and a great work attitude. She's a winner!</p>
+      <cite>Friend and fellow student, anonymous</cite></blockquote></p>
+    </div>
+  </div>
 
 
 
