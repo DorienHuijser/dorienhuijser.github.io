@@ -18,7 +18,7 @@ header: no
 
 /* Float 2 columns side by side */
 .column {
-  float: left;
+  float: center;
   width: 50%;
   padding: 0 10px;
 }
