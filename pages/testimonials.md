@@ -48,8 +48,8 @@ header: no
 This part will be filled with testimonials that I am still collecting. Here's a preview:
 
 <blockquote><p>
-    Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have stron analytical skills and a great work attitude. She's a winner!</p>
-    <cite>- Friend and fellow student, anonymous</cite></blockquote>
+    Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have strong analytical skills and a great work attitude. She's a winner!</p>
+    <cite>Friend and fellow student, anonymous</cite></blockquote>
 
 
 
