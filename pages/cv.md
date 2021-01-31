@@ -48,7 +48,7 @@ header: no
   margin-left: 5px;
 }
 
-.active:after {
+.collapsible:active:after {
   content: "\2212"; /* Unicode character for "minus" sign (-) */
 }
 </style>
@@ -67,7 +67,6 @@ header: no
 
 <div data-content>
 <button type="button" class="collapsible"><b>Work experience</b></button>
-
 <div class="content">
 <h4 style="color:green">2020-current: Lab and data manager</h4>
     <em>Society, Youth and Neuroscience Connected (<a href="https://erasmus-synclab.nl/">SYNC</a>) lab, Erasmus University Rotterdam, Rotterdam</em>
@@ -110,6 +109,7 @@ header: no
     </ul>
     </details>
 </div>
+
 
 <br>
 
