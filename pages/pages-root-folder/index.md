@@ -111,7 +111,7 @@ homepage: true
   margin-left: 5px;
 }
 
-.active:after {
+.collapsible:active:after {
   content: "\2212"; /* Unicode character for "minus" sign (-) */
 }
 
