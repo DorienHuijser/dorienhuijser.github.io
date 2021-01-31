@@ -14,10 +14,10 @@ header: no
         <meta name="viewport" content="width-device-width, initial-scale=1">
 
         <style>
-/* Float 2 columns side by side */
+/* Float 1 columns side by side > change to 50 when more testimonials */
 .col {
   float: center;
-  width: 50%;
+  width: 100%;
   padding: 0 10px;
 }
 
