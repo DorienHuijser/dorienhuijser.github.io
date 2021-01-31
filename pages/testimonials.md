@@ -29,8 +29,7 @@ header: no
 <p>I generally don't like talking about myself. In fact, you will probably get a better impression of me through my colleagues, friends and family. Therefore, I collected some data and summarized the results on this page <a href="#section1">[1]</a>.</p>
 
 
-
-<h2>Family and friends describe me as</h2>
+<h2>Others describe me as</h2>
 
 <iframe src="https://answergarden.ch/embed/1547073" width="640px" height="400px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/1547073">Go to AnswerGarden</a></p></iframe>
 
@@ -46,7 +45,15 @@ header: no
 
 <h2>Testimonials</h2>
 
-This part will be filled with testimonials that I am still collecting.
+This part will be filled with testimonials that I am still collecting. Here's a preview:
+
+
+
+```html
+> Dorien is a great team plauer with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have stron analytical skills and a great work attitude. She's a winner!
+
+<cite>Friend and fellow student, anonymous</cite>
+```
 
 
 
