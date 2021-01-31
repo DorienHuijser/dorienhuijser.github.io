@@ -47,19 +47,16 @@ header: no
 
 This part will be filled with testimonials that I am still collecting. Here's a preview:
 
-
-
-```html
-> Dorien is a great team plauer with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have stron analytical skills and a great work attitude. She's a winner!
-
-<cite>Friend and fellow student, anonymous</cite>
-```
+<blockquote><p>
+    Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have stron analytical skills and a great work attitude. She's a winner!</p>
+    <cite>- Friend and fellow student, anonymous</cite></blockquote>
 
 
 
-```
-<p id="section1">[1] I created a <a href="https://forms.gle/W2JS3bbmcUcjYYCV9">google form questionnaire</a> that I asked everyone to fill out if they had the time.</p>
-```
+<p id="section1">[1] I created a <a href="https://forms.gle/W2JS3bbmcUcjYYCV9">google form questionnaire</a> that I asked everyone to fill out if they had the time.    
+</p>
+
+
 
 </div>
 
