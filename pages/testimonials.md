@@ -14,20 +14,18 @@ header: no
         <meta name="viewport" content="width-device-width, initial-scale=1">
 
         <style>
-​      img{border-radius: 50%;}
-
 /* Float 2 columns side by side */
-.column {
+.col {
   float: center;
   width: 50%;
   padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
+.roow {margin: 0 -5px;}
 
 /* Clear floats after the columns */
-.row:after {
+.roow:after {
   content: "";
   display: table;
   clear: both;
@@ -35,7 +33,7 @@ header: no
 
 /* Responsive columns */
 @media screen and (max-width: 600px) {
-  .column {
+  .col {
     width: 100%;
     display: block;
     margin-bottom: 20px;
@@ -80,8 +78,8 @@ header: no
 
 This part will be filled with testimonials that I am still collecting. Here's a preview:
 
-<div class="row">
-  <div class="column">
+<div class="roow">
+  <div class="col">
     <div class="card">
       <p><blockquote>
       <p>Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have strong analytical skills and a great work attitude. She's a winner!</p>
