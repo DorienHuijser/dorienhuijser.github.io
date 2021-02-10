@@ -177,7 +177,3 @@ The structure of your website is determined largely by the following files:
 
 
 **Good luck and have fun! Any questions are welcome.**
-
-```
-{% include next-previous-post-in-category %}
-```

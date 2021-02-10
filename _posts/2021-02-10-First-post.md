@@ -51,11 +51,3 @@ Welcome to my personal website! As this is my first blogpost, I'll try to explai
 <h2>Want to do this too?</h2>
 
 If you only came here for yourself - who didn't? - I also wrote a short [introductory tutorial](2021-02-10-How-to-build-a-Jekyll-website) that shows how I got things to work. Hopefully, that will save you some precious time. 
-
-
-
-
-
-```
- {% include next-previous-post-in-category %}
-```
