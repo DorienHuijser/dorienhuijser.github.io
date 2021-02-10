@@ -13,4 +13,9 @@
 - title: Contact
   url: "/contact/"
   side: left
-
+- title: Blog
+  url: "/blog"
+  side: left
+  dropdown:
+  - title: "Blog archive"
+    url: "/blog/archive"
