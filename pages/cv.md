@@ -107,43 +107,51 @@ header: no
 <button type="button" class="collapsible"><b>Education</b></button>
 
 <div class="content">
-<h4 style="color:orange">2016-2019: Online courses</h4>
-<details><summary style="font-size:small; color:grey">Read more</summary>
-<p>To gain some more relevant skills, I followed several online courses, including:
-</p>
-<ul>
-    <li>2019-2020: Specialization "Data Science: Foundations using R" - <i>Johns Hopkins University via <a href="https://www.coursera.org/specializations/data-science-foundations-r" target="_blank">Coursera</a></i></li>   
-    <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href="https://www.coursera.org/learn/data-management" target="_blank">Coursera</a></i></li>
-    <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href="https://www.udemy.com/course/adobe-indesign-made-easy/" target="_blank">Udemy</a></i></li>
-    <li>2016: Several statistics courses (average grade: 92.6%): Basic statistics, Inferential statistics, quantitative methods - <i>University of Amsterdam via <a href="https://www.coursera.org/specializations/social-science" target="_blank">Coursera</a></i></li>
-</ul>
+  <h4 style="color:orange">2016-2019: Online courses</h4>
+    <details><summary style="font-size:small; color:grey">Read more</summary>
+      <p>To gain some more relevant skills, I followed several online courses, including:</p>
+        <ul>
+          <li>2019-2020: Specialization "Data Science: Foundations using R" - <i>Johns Hopkins University via <a href="https://www.coursera.org/specializations/data-science-foundations-r" target="_blank">Coursera</a></i></li>   
+          <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href="https://www.coursera.org/learn/data-management" target="_blank">Coursera</a></i></li>
+          <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href="https://www.udemy.com/course/adobe-indesign-made-easy/" target="_blank">Udemy</a></i></li>
+          <li>2016: Several statistics courses (average grade: 92.6%): Basic statistics, Inferential statistics, quantitative methods - <i>University of Amsterdam via <a href="https://www.coursera.org/specializations/social-science" target="_blank">Coursera</a></i></li>
+        </ul>
     </details>
-    <h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition/study-programme" target="_blank">(8.5)</a></h4>
+  <h4 style="color:orange">2016-2019: MSc Neuroscience and Cognition <a href="https://www.uu.nl/masters/en/neuroscience-and-cognition/study-programme" target="_blank">(8.5)</a></h4>
     <em>Utrecht University, Utrecht</em>, incl. <a href="https://studyguidelifesciences.nl/profiles/communication-profile" target="_blank">minor</a> Science Education and Communication
-    <details><summary style="color:grey">Additional activities</summary>
+    <details><summary style="color:grey">Theses and reports</summary>
     <p><ul>
-    <li>2018-2019: Intern education - <i><a href="https://umu.nl/" target="_blank">Utrecht University Museum</a>, Utrecht</i><br> As part of my minor Science education and communication, I developed an <a href="https://umu.nl/onderwijs/vo/wetenschapsworkshop-aandacht-havo-vwo/" target="_blank">educational program</a> for the University Museum Utrecht for secondary school pupils (havo/vwo 1-2 and vmbo 1-3) about social sciences (attention), using the methods of inquiry-based learning (onderzoekend leren)</li>
-    <li>2018: Literature research: "Neural mechanisms of adolescent fear extinction and fear extinction during reconsolidation: a literature review", supervised by dr. Marieke Bos and prof. dr. Joke Baas</li>
-    <li>2017-2018: Research intern - <i><a href="https://brainanddevelopment.nl/" target="_blank">Brain and Development Research Center</a>, Leiden University, Leiden</i><br>During this internship, I set up, carried out and wrote about an fMRI study and planned and tested many adolescents (9-17 years old) for a large longitudinal research project (<a href="https://juniorhersenen.nl/onderzoeken/brainlinks/" target="_blank">Brainlinks</a>)</li>
-   <li>2017-2018: Author (<a href="http://journal.neuroscience-cognition.org/archive/19" target="_blank">2017: 11(1)</a>) and reviewer (<a href="http://journal.neuroscience-cognition.org/archive" target="_blank">2017: 11(1-2) & 2018: 12(1-2)</a>) at the Neuroscience and Cognition Journal</li>
-    <li>2016-2017: Secretary - <i><a href="https://www.mindthebrain.nl/" target="_blank">Mind the Brain</a> symposium, Utrecht University, Utrecht</i><br>With 8 students, we organized a two-day neuroscience symposium, themed "Criminal Minds"</li>
-    <li>2016-2017: Research intern - <i><a href="https://www.uu.nl/medewerkers/organogram/FSW/54/269" target="_blank">Experimental Psychology</a>, Utrecht University, Utrecht</i><br>During this project, I set up, carried out and wrote about a longitudinal experiment into unilateral hearing loss and sound localization among healthy adults</li></ul></p>
+      <li>Huijser, D.C. (2018). Neural mechanisms of adolescent fear extinction and fear extinction during reconsolidation: a literature review. <i>Master thesis</i>, <a href="https://dspace.library.uu.nl/handle/1874/401338" target="_blank">link to thesis</a>.</li>
+      <li>Huijser, D.C. (2018). Tapping Trust Task (TTT): Investigating the mechanisms of interpersonal synchrony in the trust game. <i>Internship report</i>, <a href="http://dspace.library.uu.nl/handle/1874/401911" target="_blank">link to report</a>.</li>
+      <li>Huijser, D.C. (2017). Using audiovisual recalibration to restore spatial hearing in the human brainstem during asymmetrical hearing loss. <i>Internship report</i>. Embargoed.</li>
+      <li>Huijser, D.C. (2017). Functional connectivity changes and cognitive deficits in Alzheimer’s Disease. <i>Journal of Neuroscience and Cognition</i>, <a href="http://journal.neuroscience-cognition.org/archive/19" target="_blank"><i>11</i>(1)</a>, <a href="https://doi.org/10.31237/osf.io/853a7" target="_blank">link to review in Thesis commons</a>.</li>
+    </ul></p>
     </details>
+    <details><summary style="color:grey">Additional activities</summary>
+      <p><ul>
+        <li>2018-2019: Intern education - <i><a href="https://umu.nl/" target="_blank">Utrecht University Museum</a>, Utrecht</i><br> As part of my minor Science education and communication, I developed an <a href="https://umu.nl/onderwijs/vo/wetenschapsworkshop-aandacht-havo-vwo/" target="_blank">educational program</a> for the University Museum Utrecht for secondary school pupils (havo/vwo 1-2 and vmbo 1-3) about social sciences (attention), using the methods of inquiry-based learning (onderzoekend leren)</li>
+        <li>2018: Literature research: "Neural mechanisms of adolescent fear extinction and fear extinction during reconsolidation: a literature review", supervised by dr. Marieke Bos and prof. dr. Joke Baas.</li>
+        <li>2017-2018: Research intern - <i><a href="https://brainanddevelopment.nl/" target="_blank">Brain and Development Research Center</a>, Leiden University, Leiden</i><br>During this internship, I set up, carried out and wrote about an fMRI study and planned and tested many adolescents (9-17 years old) for a large longitudinal research project (<a href="https://juniorhersenen.nl/onderzoeken/brainlinks/" target="_blank">Brainlinks</a>)</li>
+        <li>2017-2018: Author (<a href="http://journal.neuroscience-cognition.org/archive/19" target="_blank">2017: 11(1)</a>) and reviewer (<a href="http://journal.neuroscience-cognition.org/archive" target="_blank">2017: 11(1-2) & 2018: 12(1-2)</a>) at the Journal of Neuroscience and Cognition</li>
+        <li>2016-2017: Secretary - <i><a href="https://www.mindthebrain.nl/" target="_blank">Mind the Brain</a> symposium, Utrecht University, Utrecht</i><br>With 8 students, we organized a two-day neuroscience symposium, themed "Criminal Minds"</li>
+        <li>2016-2017: Research intern - <i><a href="https://www.uu.nl/medewerkers/organogram/FSW/54/269" target="_blank">Experimental Psychology</a>, Utrecht University, Utrecht</i><br>During this project, I set up, carried out and wrote about a longitudinal experiment into unilateral hearing loss and sound localization among healthy adults</li></ul></p>
+    </details>
+
  <h4 style="color:orange">2013-2016: BSc Liberal Arts and Sciences <a href="https://www.uu.nl/bachelors/liberal-arts-and-sciences" target="_blank">(8.2)</a></h4>
 <em>Utrecht University, Utrecht</em>, incl. <a href="https://students.uu.nl/gw/las/studieprogramma/major/hoofdrichting" target="_blank">major</a> Cognitive and Neurobiological Psychology + <a href="https://students.uu.nl/gw/taalontwikkeling" target="_blank">minor</a> Language Development
 <details><summary style="color:grey">Theses</summary>
 <p><ol>
-        <li>Huijser, D.C., & Lichtenberg, L. (2016). Social Status and Status Motivations: The Association between the Wish for Popularity and Social Status in Late Childhood, doi: <a href="http://dspace.library.uu.nl/handle/1874/338248" target="_blank">http://dspace.library.uu.nl/handle/1874/338248</a><br>
-            Bachelor thesis (8.0), supervised by dr. Aart Franken</li>
-        <li>Huijser, D.C., Bakermans, M., Purkins, M. (2015). Looking down, moving up. An interdisciplinary approach to the consequences of the current language situation that has developed as a result of the elite status of the English language in India.<br>
-        Interdisciplinary thesis (7.9), supervised by dr. Merel van Goch</li>
+        <li>Huijser, D.C., & Lichtenberg, L. (2016). Social Status and Status Motivations: The Association between the Wish for Popularity and Social Status in Late Childhood. Bachelor thesis, <a href="http://dspace.library.uu.nl/handle/1874/338248" target="_blank">http://dspace.library.uu.nl/handle/1874/338248</a><br>
+            Thesis supervised by dr. Aart Franken, grade: 8.0/10</li>
+        <li>Huijser, D.C., Bakermans, M., Purkins, M. (2015). Looking down, moving up. An interdisciplinary approach to the consequences of the current language situation that has developed as a result of the elite status of the English language in India. Interdisciplinary bachelor thesis, <a href="http://dspace.library.uu.nl/handle/1874/340072" target="_blank">http://dspace.library.uu.nl/handle/1874/340072</a><br>
+        Thesis supervised by dr. Merel van Goch, grade: 7.9/10</li>
 </ol></p>
     </details>
   <h4 style="color:orange">2007-2013: Voorbereidend Wetenschappelijk Onderwijs (VWO) (8.1)</h4>
 <em><a href="https://www.cgbn.nl/" target="_blank">Christelijk Gymnasium Beyers Naudé</a>, Leeuwarden</em>, profile Economics and Society
 <br>
 </div>
-
+<br>
 <button type="button" class="collapsible"><b>Skills</b></button>
 
 <div class="content">
