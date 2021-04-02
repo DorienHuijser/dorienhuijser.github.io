@@ -11,19 +11,19 @@ header:
   image_fullwidth: home.jpg
 widget1:
   title: "What I do"
-  url: '/what-i-do/'
+  url: "/what-i-do/"
   image: bridgesq.jpg
-  text: 'Read more about what I do.'
+  text: "Read more about what I do."
 widget2:
   title: "Testimonials"
-  url: '/testimonials/'
-  text: 'Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page.'
+  url: "/testimonials/"
+  text: "Who better to say stuff about me than... <em>not me</em>? Read what others say about me on this page."
   image: talkingsq.jpg
 widget3:
   title: "CV"
-  url: '/cv/'
+  url: "/cv/"
   image: nov2020_squarebw2.jpg
-  text: 'Checkout all my qualifications and work experience here.'
+  text: "Checkout all my qualifications and work experience here."
 # Use the call for action to show a button on the frontpage
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
@@ -39,7 +39,6 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-
 ---
 
 <html>
@@ -47,6 +46,7 @@ homepage: true
     <head>
         <meta name="viewport" content="width-device-width, initial-scale=1">
         </head>
+
 <style>
     /* Columns on a page */
     .container {
@@ -126,14 +126,11 @@ homepage: true
 <br>
 
 <h1 style="text-align:center"><p style="text-align:center;">Welcome!</p></h1>
-<p style="text-align:center;">You have landed on my personal website, congratulations! <br> On this website, you can read more about me and what I do. </p>
+<p style="text-align:center;">You have landed on my personal website! <br> Here, you can read more about me and what I do. </p>
 
 <br>
 
-
-
 <div style="text-align:center"><button type="button" class="collapsible"><b>Bio</b></button>
-
 
 <div class="content">
 <div class="row">
@@ -152,9 +149,6 @@ homepage: true
 <p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (check out the <a href="../what-i-do">What I do page</a> for more info).</p></div></div>
 </div></div>
 
-
-
-
 <script>
 /* script for creating a collapsible element */
     var coll = document.getElementsByClassName("collapsible");
@@ -171,8 +165,6 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
-
 
 </body>
 
