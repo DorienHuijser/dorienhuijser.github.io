@@ -50,24 +50,17 @@ talks:
     slideslink: "https://docs.google.com/presentation/d/1i6N1aYju6SDXYkeYmsXkr1u8tfG_ePtGB3jsBf_XXyM/edit?usp=sharing"
     abstractlink: ~
     recordinglink: ~
-    links:
-      - linktype: "slides"
-        URL: "https://docs.google.com/presentation/d/1i6N1aYju6SDXYkeYmsXkr1u8tfG_ePtGB3jsBf_XXyM/edit?usp=sharing"
 
   - talkname: "Introduction to sharing brain MRI data"
     location: "Open Science Community Rotterdam"
     when: "2020/10/07"
-    links:
-      - linktype: "abstract"
-        URL: "https://www.openscience-rotterdam.com/2020/10/07/sharing-mri-oct2020/"
-      - linktype: "slides"
-        URL: "https://docs.google.com/presentation/d/1f3cue5V5ketJn5hgpXOczQi2mswas5uvL2K2gNJkP1E/edit?usp=sharing"
+    slideslink: "https://docs.google.com/presentation/d/1f3cue5V5ketJn5hgpXOczQi2mswas5uvL2K2gNJkP1E/edit?usp=sharing"
+    abstractlink: "https://www.openscience-rotterdam.com/2020/10/07/sharing-mri-oct2020/"
+    recordinglink: ~
 
   - talkname: "Sharing MRI data while protecting participants’ privacy: Two ways to get started"
     location: "OHBM Open Science room"
     when: "2020/06/23"
-    links:
-      - linktype: "abstract"
-        URL: "https://github.com/ohbm/osr2020/issues/55"
-      - linktype: "slides"
-        URL: "https://doi.org/10.5281/zenodo.3905949"
+    slideslink: "https://doi.org/10.5281/zenodo.3905949"
+    abstractlink: "https://github.com/ohbm/osr2020/issues/55"
+    recordinglink: ~
