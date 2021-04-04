@@ -2,39 +2,21 @@
 layout: page
 title: "What I do"
 meta_title: "What I do | Dorien Huijser"
-subheadline: "Current work activities and output"
 permalink: "/what-i-do/"
 sidebar: right
 header: no
 ---
 
-<html>
+<p>Note: most of my output can also be viewed on my <a href="https://orcid.org/0000-0003-3282-8083" target="_blank">ORCID profile</a>.</p>
 
-  <head>
-        <meta name="viewport" content="width-device-width, initial-scale=1">
+{% include what-i-do.html %}
 
-<style>
-
-​ img{border-radius: 50%;}
-
-​ </style>
-
-  </head>
-
-<body>
-
-<div data-content>
-<p>
-    Note: most of my output can also be viewed on my <a href="https://orcid.org/0000-0003-3282-8083" target="_blank">ORCID profile</a>. 
-    </p>
-
-<h2>Open science & data management</h2>
-
-<p>
-    As a data manager for the <a href="https://erasmus-synclab.nl/open-science/" target="_blank">Erasmus SYNC lab</a> and the <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">L-CID twin study</a>, I guide these groups of researchers in their transition towards better data management and more open science practices, such as creating metadata, taking care of privacy issues, making data increasingly <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a>, aiding with open access publishing and data and code sharing.</p>
-<h4>Related activities</h4>
+<h1> OLD </h1>
 <ul>
-        <li>We created a <a href="https://doi.org/10.5281/zenodo.3822289" target="_blank">flow chart</a> for researchers who want to share MRI data. This started with a hackathon in October 2019 from the Open Science Community Leiden (<a href="https://github.com/DorienHuijser/MRIsharingguide" target="_blank">more info</a>)</li>
+    <li>We created a <a href='https://doi.org/10.5281/zenodo.3822289' target='_blank'>flow chart</a> for researchers who want to share MRI data. This started with a hackathon
+        in October 2019 from the Open Science Community Leiden (<a href='https://github.com/DorienHuijser/MRIsharingguide' target='_blank'>more info</a>)",
+        "I am involved in the project <a href='https://individualdevelopment.nl/2020/06/11/funding-for-harmonized-metadata-infrastructure/' target='_blank'><i>Connecting Data in Child Development</i></a>,
+        which aims to create a digital infrastructure with harmonized metadata for six longitudinal youth cohorts</li>
     <li>I am involved in the project <a href="https://individualdevelopment.nl/2020/06/11/funding-for-harmonized-metadata-infrastructure/" target="_blank">"Connecting Data in Child Development"</a>, which aims to create a digital infrastructure with harmonized metadata for six longitudinal youth cohorts</li>
     <li>I sometimes give talks, e.g.,:</li>
     <ul>
@@ -67,18 +49,3 @@ header: no
     <li>I was editor for the SYNC e-magazine for societal partners and policy makers that will soon appear</li>
     <li>In September 2019, helped conduct a <a href="https://www.onderwijsraad.nl/publicaties/rapporten/2020/10/07/studie-ontwikkeling-vaardigheden-jongens-en-meisjes" target="_blank">literature review</a> which formed the basis of <a href="https://www.onderwijsraad.nl/publicaties/adviezen/2020/10/07/verkenning-sekseverschillen-onderwijs" target="_blank">this report</a> for the Dutch Educational Board (Onderwijsraad) about gender differences in cognitive development (<a href="https://www.onderwijsraad.nl/actueel/nieuws/2020/10/7/denkbeelden-jongens-en-meiden-leiden-tot-verschillen-in-school--en-beroepsloopbanen" target="_blank">press release</a>)</li>
 </ul>
-
-</div>
-
-   <script src="../assets/js/table-of-contents.js" type="text/javascript"></script>
-<script>
-	tableOfContents('[data-content]', '[data-toc]', {
-		heading: 'Page contents', // Change the headings
-		listType: 'ul', // Change the list type
-		levels: 'h2, h3' // Change the levels used
-	});
-</script>
-
-</body>
-
-</html>

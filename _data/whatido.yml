@@ -1,0 +1,14 @@
+activities:
+  - activityname: "Open science & data management"
+    linkname: "open-science"
+    description:
+      "As a data manager for the <a href='https://erasmus-synclab.nl/open-science/' target='_blank'>Erasmus SYNC lab</a> and the
+      <a href='https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid' target='_blank'>L-CID twin study</a>,
+      I guide these groups of researchers in their transition towards better data management and more open science practices, such as creating metadata, taking care of privacy issues, making data increasingly
+      <a href='https://www.go-fair.org/fair-principles/' target='_blank'>FAIR</a>, aiding with open access publishing and data and code sharing"
+    relatedactivities: { "activity 1", "activity 2" }
+    location: ~
+    when: ~
+    links:
+      - linktype: ~ # e.g., slides, recording, talk summary
+        URL: ~
