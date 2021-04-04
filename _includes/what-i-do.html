@@ -3,7 +3,6 @@
     <div data-content>
 
     {% for activity in site.data.whatido.activities %}
-        <section>
             <h2 id="{{ activity.linkname }}"> {{ activity.activityname }} </h2>
             <p> {{ activity.description }} </p>
             {% if activity.relatedactivities %}
@@ -14,9 +13,18 @@
                     {% endfor %}
                 </ul>
             {% endif %}
-        </section>
     {% endfor %}
 
+    <h2 id="talks">Talks</h2>
+    <ul> 
+        {% for talk in site.data.whatido.talks %}
+        <li>{{ talk.when}} - <b>{{ talk.talkname }}</b>, {{ talk.location }}, <a href="{{ talk.slideslink }}" target="_blank">slides</a>
+        <!-- {% for link in site.data.whatido.talks.links %}
+            <a href="{{ link.URL }}" target="_blank"> {{ link.linktype }} </a>
+            {% endfor %} -->
+        </li>
+    </ul>
+    {% endfor %}
     </div>
 </body>
 

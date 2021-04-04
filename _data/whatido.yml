@@ -6,9 +6,68 @@ activities:
       <a href='https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid' target='_blank'>L-CID twin study</a>,
       I guide these groups of researchers in their transition towards better data management and more open science practices, such as creating metadata, taking care of privacy issues, making data increasingly
       <a href='https://www.go-fair.org/fair-principles/' target='_blank'>FAIR</a>, aiding with open access publishing and data and code sharing"
-    relatedactivities: ~ # { "activity 1", "activity 2" }
-    location: ~
-    when: ~
+    relatedactivities: {
+        "We created a <a href='https://doi.org/10.5281/zenodo.3822289' target='_blank'>flow chart</a> for researchers who want to share MRI data. This started with a hackathon
+        in October 2019 from the Open Science Community Leiden (<a href='https://github.com/DorienHuijser/MRIsharingguide' target='_blank'>more info</a>)",
+        "I am involved in the project <a href='https://individualdevelopment.nl/2020/06/11/funding-for-harmonized-metadata-infrastructure/' target='_blank'>Connecting Data in Child Development</a>,
+        which aims to create a digital infrastructure with harmonized metadata for six longitudinal youth cohorts",
+        "I sometimes give talks (see the <a href='#talks'>Talks section</a>)",
+        "I am a member of the organizing committee of the <a href='https://openmrbenelux.github.io/' target='_blank'>OpenMR Benelux</a> 2021 symposium",
+        "I am an active member of the <a href='https://brainhack.org/' target='_blank'>Brainhack</a> community",
+      }
+
+  - activityname: "Lab management"
+    linkname: "lab-management"
+    description:
+      "As lab manager, my activities are very diverse. Many tasks are coordinating ones, such as organizing labmeetings, improving how we work, keeping in touch with university support staff,
+      administrative tasks, coordinating the <a href='https://erasmus-synclab.nl/category/blog/' target='_blank'>SYNC blogs</a>, keeping websites up to date, aiding with our citizen science initiative
+      <a href='https://youngxperts.nl'>YoungXperts</a>, etc."
+    relatedactivities: {
+        "Together with my colleague <a href='https://www.eur.nl/people/eduard-klapwijk' target='_blank'>Eduard Klapwijk</a>, we created the <a href='https://eur-synclab.github.io/' target='_blank'>SYNC lab wiki</a>,
+        which exhibits how we work and contains practical information on open science, data management, data analysis, general administration, etc. We also wrote out
+        <a href='https://eur-synclab.github.io/about/contribute' target='_blank'>how to contribute</a> so that all members can contribute to the wiki being up to date",
+      }
+
+  - activityname: "Science communication"
+    linkname: "science-communication"
+    description:
+      "Science communication is a personal interest of mine. I therefore try to involve it as much as possible in my job and encourage researchers to think about the meaning of their work for society.
+      I am also very interested in how to involve a more diverse audience in scientific activities."
+    relatedactivities: {
+        "I help with the organization and maintenance of our <a href='https://youngxperts.nl' target='_blank'>YoungXperts</a> citizen science platform and with evaluating our citizen science activities",
+        "I co-manage the <a href='https://twitter.com/SYNClabEUR' target='_blank'>SYNC lab Twitter account</a>",
+        "I sometimes write <a href='http://www.dorienhuijser.com/blog/' target='_blank'>blogs</a>",
+        "I was editor for the SYNC e-magazine for societal partners and policy makers",
+        "In September 2019, helped conduct a <a href='https://www.onderwijsraad.nl/publicaties/rapporten/2020/10/07/studie-ontwikkeling-vaardigheden-jongens-en-meisjes' target='_blank'>literature review</a>
+        which formed the basis of <a href='https://www.onderwijsraad.nl/publicaties/adviezen/2020/10/07/verkenning-sekseverschillen-onderwijs' target='_blank'>this report</a> for the Dutch Educational Board
+        (Onderwijsraad) about gender differences in cognitive development (<a href='https://www.onderwijsraad.nl/actueel/nieuws/2020/10/7/denkbeelden-jongens-en-meiden-leiden-tot-verschillen-in-school--en-beroepsloopbanen' target='_blank'>press release</a>)",
+      }
+
+talks:
+  - talkname: "Open science: just science done right"
+    location: "Leiden Institute of Brain and Cognition"
+    when: "2020/12/03"
+    slideslink: "https://docs.google.com/presentation/d/1i6N1aYju6SDXYkeYmsXkr1u8tfG_ePtGB3jsBf_XXyM/edit?usp=sharing"
+    abstractlink: ~
+    recordinglink: ~
     links:
-      - linktype: ~ # e.g., slides, recording, talk summary
-        URL: ~
+      - linktype: "slides"
+        URL: "https://docs.google.com/presentation/d/1i6N1aYju6SDXYkeYmsXkr1u8tfG_ePtGB3jsBf_XXyM/edit?usp=sharing"
+
+  - talkname: "Introduction to sharing brain MRI data"
+    location: "Open Science Community Rotterdam"
+    when: "2020/10/07"
+    links:
+      - linktype: "abstract"
+        URL: "https://www.openscience-rotterdam.com/2020/10/07/sharing-mri-oct2020/"
+      - linktype: "slides"
+        URL: "https://docs.google.com/presentation/d/1f3cue5V5ketJn5hgpXOczQi2mswas5uvL2K2gNJkP1E/edit?usp=sharing"
+
+  - talkname: "Sharing MRI data while protecting participants’ privacy: Two ways to get started"
+    location: "OHBM Open Science room"
+    when: "2020/06/23"
+    links:
+      - linktype: "abstract"
+        URL: "https://github.com/ohbm/osr2020/issues/55"
+      - linktype: "slides"
+        URL: "https://doi.org/10.5281/zenodo.3905949"
