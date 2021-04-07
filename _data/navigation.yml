@@ -10,12 +10,12 @@
 - title: CV
   url: "/cv/"
   side: left
-- title: Contact
-  url: "/contact/"
-  side: left
 - title: Blog
   url: "/blog"
   side: left
-  dropdown:
-  - title: "Blog archive"
-    url: "/blog/archive"
+  #dropdown:
+  #  - title: "Blog archive"
+  #    url: "/blog/archive"
+- title: Contact
+  url: "/contact/"
+  side: left
