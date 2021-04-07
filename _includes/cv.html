@@ -1,5 +1,3 @@
-<!--TODO: loop through dropdowns in case there are multiple dropdown entries (e.g., under Education > N&C)-->
-
 <html>
 <body>
     <div data-content>
@@ -8,14 +6,20 @@
         <button type="button" class="collapsible"><b>Work experience</b></button>
         <div class="content">
             
-        {% for job in site.data.cv.jobs %}
-        <h4 style="color:green" id="{{ job.joblinkname }}">{{ job.jobtime }}: {{ job.jobtitle }}</h4>
-        <em>{{ job.joblocation }}</em>
+        {% for job in site.data.cv.jobs %} <!-- for each job -->
+        <h4 style="color:green" id="{{ job.joblinkname }}">{{ job.jobtime }}: {{ job.jobtitle }}</h4> <!-- time: jobtitle-->
+        {% if job.joblocation %} <em>{{ job.joblocation }}</em><br> {% endif %} <!-- job location, if present -->
 
-        <details>
-            <summary style="font-size:medium; color:grey">🔽 {{ job.jobdescriptionname }}</summary>
-            <p>{{ job.jobdescription }}</p>
-        </details>
+        {% if job.jobinfo %} {{ job.jobinfo }} {% endif %} <!-- add jobinfo, if present -->
+
+            {% if job.jobdescription %} <!-- If there is a job description -->
+                {% for description in job.jobdescription %} <!-- For each entry in the job description -->
+                 <details>
+                    <summary style="font-size:medium; color:grey">🔽 {{ description[0] }}</summary> <!-- Title of description dropdown -->
+                    <p>{{ description[1] }}</p> <!-- Description in the dropdown -->
+                </details>
+                {% endfor %}
+             {% endif %}
 
         {% endfor %}
 
@@ -29,14 +33,16 @@
 
         {% for education in site.data.cv.educations %}
         <h4 style="color:orange" id="{{ education.educationlinkname }}">{{ education.educationtime }}: {{ education.educationtitle }}</h4>
-        <em>{{ education.educationlocation }}</em>
-        {% if education.educationinfo %} <p>{{ education.educationinfo}}</p> {% endif %}
+        {% if education.educationlocation %}<em>{{ education.educationlocation }}</em><br> {% endif %}
+        {% if education.educationinfo %} {{ education.educationinfo}} {% endif %}
 
         {% if education.educationdescription %}
-            <details>
-                <summary style="font-size:medium; color:grey">🔽 {{ education.educationdescriptionname }}</summary>
-                <p>{{ education.educationdescription }}</p>
-            </details>
+            {% for description in education.educationdescription %}
+                <details>
+                    <summary style="font-size:medium; color:grey">🔽 {{ description[0] }}</summary>
+                    <p>{{ description[1] }}</p>
+                </details>
+            {% endfor %}
         {% endif %}
 
         {% endfor %}
@@ -49,32 +55,20 @@
         <button type="button" class="collapsible"><b>Skills</b></button>
         <div class="content">
 
-            {% for skill in site.data.cv.skills %}
-            <h4 style="color:blue" id="{{ skill.skilllinkname }}">{{ skill.skillcategory }}</h4>
-            {% if skill.skilldescription %} <p>{{ skill.skilldescription }}</p> {% endif %}
+        {% for skill in site.data.cv.skills %}
+        <h4 style="color:blue" id="{{ skill.skilllinkname }}">{{ skill.skillcategory }}</h4>
+        {% if skill.skilldescription %} {{ skill.skilldescription }} {% endif %}
     
-            {% if skill.skilllist %}
+        {% if skill.skilllist %}
+            <details>
+                <summary style="font-size:medium; color:grey">🔽 Expand</summary>
                 <p>{{ skill.skilllist }}</p>
-            {% endif %}
+            </details>
+        {% endif %}
     
-            {% endfor %}
+        {% endfor %}
     
         </div>
-        
-        <br>
-
-        <!-- Hobbies -->
-        <button type="button" class="collapsible"><b>Hobbies</b></button>
-        <div class="content" id="hobbies">
-
-            <ul>
-            {% for hobby in site.data.cv.hobbies %}
-            <li>{{ hobby.hobbyname }}</li>
-            {% endfor %}
-            </ul>
-
-        </div> 
-
 
     </div>
 
