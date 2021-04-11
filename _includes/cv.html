@@ -7,9 +7,8 @@
         <div class="content">
             
         {% for job in site.data.cv.jobs %} <!-- for each job -->
-        <h4 style="color:green" id="{{ job.joblinkname }}">{{ job.jobtime }}: {{ job.jobtitle }}</h4> <!-- time: jobtitle-->
-        {% if job.joblocation %} <i>{{ job.joblocation }}</i><br> {% endif %} <!-- job location, if present -->
-
+        <h4 style="color:green" id="{{ job.joblinkname }}">{{ job.jobtime }}: {{ job.jobtitle }}</h4> <!-- time: jobtitle -->
+        {% if job.joblocation %}<em>{{ job.joblocation }}</em><br> {% endif %} <!-- job location, if present -->
         {% if job.jobinfo %} {{ job.jobinfo }} {% endif %} <!-- add jobinfo, if present -->
 
             {% if job.jobdescription %} <!-- If there is a job description -->
