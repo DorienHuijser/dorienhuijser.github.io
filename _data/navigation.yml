@@ -11,11 +11,11 @@
   url: "/cv/"
   side: left
 - title: Blog
-  url: "/blog"
+  url: "/blog/"
   side: left
   #dropdown:
   #  - title: "Blog archive"
-  #    url: "/blog/archive"
+  #    url: "/blog/archive/"
 - title: Contact
   url: "/contact/"
   side: left
