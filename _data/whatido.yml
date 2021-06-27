@@ -1,32 +1,34 @@
 activities:
-  - activityname: "Open science & data management"
-    linkname: "open-science"
+  - activityname: "Research data management"
+    linkname: "rdm"
     description:
-      "As a data manager for the <a href='https://erasmus-synclab.nl/open-science/' target='_blank'>Erasmus SYNC lab</a> and the
-      <a href='https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid' target='_blank'>L-CID twin study</a>,
-      I guide these groups of researchers in their transition towards better data management and more open science practices, such as creating metadata, taking care of privacy issues, making data increasingly
-      <a href='https://www.go-fair.org/fair-principles/' target='_blank'>FAIR</a>, aiding with open access publishing and data and code sharing"
+      "As a data steward, my job is to help researchers with their research data management questions and issues. 
+      For different labs, this can mean different things. For example, I may help them with creating metadata, 
+      taking care of privacy issues, making data <a href='https://www.go-fair.org/fair-principles/' target='_blank'>FAIR</a>, 
+      helping to write a data management plan and thinking about code and software sharing."
     relatedactivities: {
-        "We created a <a href='https://doi.org/10.5281/zenodo.3822289' target='_blank'>flow chart</a> for researchers who want to share MRI data. This started with a hackathon
-        in October 2019 from the Open Science Community Leiden (<a href='https://github.com/DorienHuijser/MRIsharingguide' target='_blank'>more info</a>)",
-        "I am involved in the project <a href='https://individualdevelopment.nl/2020/06/11/funding-for-harmonized-metadata-infrastructure/' target='_blank'>Connecting Data in Child Development</a>,
+        "In my last job, we created a <a href='https://doi.org/10.5281/zenodo.3822289' target='_blank'>flow chart</a> for researchers who want to share brain MRI data. 
+        See also the <a href='https://www.dorienhuijser.com/MRIsharingguide/' target='_blank'>interactive version</a> on this website",
+        "I used to be involved in the project <a href='https://individualdevelopment.nl/2020/06/11/funding-for-harmonized-metadata-infrastructure/' target='_blank'>Connecting Data in Child Development</a>,
         which aims to create a digital infrastructure with harmonized metadata for six longitudinal youth cohorts",
-        "I sometimes give talks (see the <a href='#talks'>Talks section</a>)",
-        "I am a member of the organizing committee of the <a href='https://openmrbenelux.github.io/' target='_blank'>OpenMR Benelux</a> 2021 symposium",
-        "I am an active member of the <a href='https://brainhack.org/' target='_blank'>Brainhack</a> community",
+        "I sometimes give talks on open science, research data management and/or data sharing (see the <a href='#talks'>Talks section</a>)",
+        "I used to be an active member of the <a href='https://brainhack.org/' target='_blank'>Brainhack</a> community and am also active in the national <a href='https://www.lcrdm.nl/' target='_blank'>Research Data Management network</a>",
       }
 
-  - activityname: "Lab management"
-    linkname: "lab-management"
-    description:
-      "As lab manager, my activities are very diverse. Many tasks are coordinating ones, such as organizing labmeetings, improving how we work, keeping in touch with university support staff,
-      administrative tasks, coordinating the <a href='https://erasmus-synclab.nl/category/blog/' target='_blank'>SYNC blogs</a>, keeping websites up to date, aiding with our citizen science initiative
-      <a href='https://youngxperts.nl'>YoungXperts</a>, etc."
+  - activityname: "Open science"
+    linkname: "open-science"
+    description: 
+      "I see research data management as part of open science, but not the entire story. There is more to open science than 'just' data sharing.
+      For example, I think that open science means collaborating instead of competing, and being inclusive and transparent across the
+      entire research cycle. See also Utrecht University's <a href='https://www.uu.nl/en/research/open-science' target='_blank'>vision on open science</a>, which is a good reflection of my own views."
     relatedactivities: {
-        "Together with my colleague <a href='https://www.eur.nl/people/eduard-klapwijk' target='_blank'>Eduard Klapwijk</a>, we created the <a href='https://eur-synclab.github.io/' target='_blank'>SYNC lab wiki</a>,
-        which exhibits how we work and contains practical information on open science, data management, data analysis, general administration, etc. We also wrote out
-        <a href='https://eur-synclab.github.io/about/contribute' target='_blank'>how to contribute</a> so that all members can contribute to the wiki being up to date",
-      }
+        "Together with my now ex-colleague <a href='https://www.eur.nl/people/eduard-klapwijk' target='_blank'>Eduard Klapwijk</a>, we created the <a href='https://eur-synclab.github.io/' target='_blank'>SYNC lab wiki</a>,
+        which exhibits how we worked in my previous workplace and contains practical information on open science, data management, data analysis, general administration, etc. We also wrote out
+        <a href='https://eur-synclab.github.io/about/contribute' target='_blank'>contributing guidelines</a> so that all lab members could contribute",
+        "I was a co-author on a couple community papers on the <a href='https://doi.org/10.1016/j.neuron.2021.04.001' target='_blank'>BrainHack conference</a> 
+        and <a href='https://doi.org/10.31234/osf.io/vj5tu' target='_blank'>Inclusivity in online conferences</a>",
+        "I am a member of the organizing committee of <a href='https://openmrbenelux.github.io/' target='_blank'>OpenMR Benelux</a>",
+        }
 
   - activityname: "Science communication"
     linkname: "science-communication"
@@ -34,8 +36,8 @@ activities:
       "Science communication is a personal interest of mine. I therefore try to involve it as much as possible in my job and encourage researchers to think about the meaning of their work for society.
       I am also very interested in how to involve a more diverse audience in scientific activities."
     relatedactivities: {
-        "I help with the organization and maintenance of our <a href='https://youngxperts.nl' target='_blank'>YoungXperts</a> citizen science platform and with evaluating our citizen science activities",
-        "I co-manage the <a href='https://twitter.com/SYNClabEUR' target='_blank'>SYNC lab Twitter account</a>",
+        "I used to help with the organization and maintenance of our <a href='https://youngxperts.nl' target='_blank'>YoungXperts</a> citizen science platform and with evaluating our citizen science activities",
+        "I used to co-manage the <a href='https://twitter.com/SYNClabEUR' target='_blank'>SYNC lab</a> and <a href='https://twitter.com/openmrbenelux' target='_blank'>OpenMR Benelux</a> Twitter accounts",
         "I sometimes write <a href='http://www.dorienhuijser.com/blog/' target='_blank'>blogs</a>",
         "I was editor for the <a href='https://heyzine.com/flip-book/fef3045cd3.html#page/1' target='_blank'>SYNC e-magazine</a> for societal partners and policy makers",
         "In September 2019, helped conduct a <a href='https://www.onderwijsraad.nl/publicaties/rapporten/2020/10/07/studie-ontwikkeling-vaardigheden-jongens-en-meisjes' target='_blank'>literature review</a>
@@ -44,21 +46,28 @@ activities:
       }
 
 talks:
+  - talkname: "Data sharing in neuroscience: a few recommendations"
+    location: "Dutch Neuroscience Meeting 2021"
+    when: "2021/06/10"
+    slideslink: "https://osf.io/h7k35/"
+    abstractlink: "https://dnm21.azuleon.org/illustrated-programme"
+    recordinglink: ~
+
   - talkname: "Open science: just science done right"
     location: "Leiden Institute of Brain and Cognition"
     when: "2020/12/03"
-    slideslink: "https://docs.google.com/presentation/d/1i6N1aYju6SDXYkeYmsXkr1u8tfG_ePtGB3jsBf_XXyM/edit?usp=sharing"
+    slideslink: "https://osf.io/gue9z/"
     abstractlink: ~
     recordinglink: ~
 
   - talkname: "Introduction to sharing brain MRI data"
     location: "Open Science Community Rotterdam"
     when: "2020/10/07"
-    slideslink: "https://docs.google.com/presentation/d/1f3cue5V5ketJn5hgpXOczQi2mswas5uvL2K2gNJkP1E/edit?usp=sharing"
+    slideslink: "https://osf.io/rzqcj/"
     abstractlink: "https://www.openscience-rotterdam.com/2020/10/07/sharing-mri-oct2020/"
     recordinglink: ~
 
-  - talkname: "Sharing MRI data while protecting participants’ privacy: Two ways to get started"
+  - talkname: "Sharing MRI data while protecting participants’ privacy: Two tools to get started"
     location: "OHBM Open Science room"
     when: "2020/06/23"
     slideslink: "https://doi.org/10.5281/zenodo.3905949"
