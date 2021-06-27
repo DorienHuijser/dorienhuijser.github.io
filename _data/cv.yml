@@ -94,7 +94,7 @@ educations:
     educationlinkname: "onlinecourses"
     educationtime: "2016-2021"
     educationlocation: ~
-    educationinfo: "To gain some more relevant skills, I somtimes follow online courses, most of them in my free time"
+    educationinfo: "To gain some more relevant skills, I sometimes follow online courses, most of them in my free time"
     educationdescription: {
       ? "List of courses"
       : "<ul>
