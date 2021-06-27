@@ -145,8 +145,8 @@ homepage: true
   <img src="../../images/work.jpg" style="zoom:100%">
   <div class="bottom-left"><h3 style="color:white">Work</h3></div>
 </div>
-<p>After my master's, I started as <b>data manager</b> at the Brain and Development Research Center ánd as <b>educational content creator and e-moderator</b> at University Medical Center Utrecht (UMC). In these positions, I was able to combine promoting good research practices with creating educational scientific content for a PhD audience.</p></p>
-<p>Currently, I work as a research assistant at Erasmus University Rotterdam (<a href="https://www.eur.nl/people/dorien-huijser">EUR</a>) and Leiden University <a href="https://www.universiteitleiden.nl/en/staffmembers/dorien-huijser">LU</a>), fullfilling the tasks of <b>data and lab manager</b> (check out the <a href="../what-i-do">What I do page</a> for more info).</p></div></div>
+<p>After my master's, I started as educational content creator and e-moderator at UMC Utrecht, and as a data manager at the Brain and Development Research Center. In these positions, I was able to combine promoting good research practices with creating educational scientific content for a PhD audience. Later, I continued my job as a data manager at the same developmental neuroscience group at Erasmus University Rotterdam and Leiden University.</p></p>
+<p>Currently, I work as a data steward at the Utrecht University Library. In this position, I help researchers with their research data management questions and issues. Check out the <a href="../what-i-do">What I do page</a> for more info.</p></div></div>
 </div></div>
 
 <script>
