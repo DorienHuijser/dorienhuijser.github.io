@@ -1,35 +1,47 @@
 # WORK EXPERIENCE
 jobs:
+  - jobtitle: "Data steward"
+    joblinkname: "datasteward"
+    jobtime: "2021-current"
+    joblocation: "Utrecht University Library, Utrecht University, Utrecht, The Netherlands"
+    jobinfo: ~
+    jobdescription: {
+      ? "Job description"
+      : "As a data steward, I will help researchers in different research groups with their
+      data management and open data-related problems and questions. Moreover, I will collaborate
+      on a large project that aims to make handling privacy-sensitive data easier for researchers",
+      }
+
   - jobtitle: "Lab and data manager"
     joblinkname: "labdatamanager"
-    jobtime: "2020-current"
+    jobtime: "2020-2021"
     joblocation: "Society, Youth and Neuroscience Connected (<a href='https://erasmus-synclab.nl/' target='_blank'>SYNC</a>) lab, Erasmus University Rotterdam, Rotterdam, The Netherlands"
     jobinfo: ~
     jobdescription: {
       ? "Job description"
       : "<ul>
-      <li>As <b>data manager</b>, I formulate ways to move towards <strong>open science practices</strong> and look at how we handle our research data (privacy, data structure, long-term access, etc.) 
-      and how we can improve that. In both data management and open science, I try to educate myself as much as possible and keep a close eye on international developments, connecting with researchers and 
+      <li>As <b>data manager</b>, I formulated ways to move towards <strong>open science practices</strong> and looked at how the group handled their research data (privacy, data structure, long-term access, etc.) 
+      and how we could improve that. In both data management and open science, I tried to educate myself as much as possible and keep a close eye on international developments, connecting with researchers and 
       support staff from national and international institutions.</li>
-      <li>As <b>lab manager</b>, I coordinate and support with all kinds of lab-wide events and initiatives, including (but not limited to):<ul>
+      <li>As <b>lab manager</b>, I coordinated and supported all kinds of lab-wide events and initiatives, including (but not limited to):<ul>
       <li>organizing meetings</li>
       <li>functioning as liaison between the SYNC lab and EUR's research support staff</li>
-      <li>improving how we work (incl. with data)</li>
-      <li>involvement in your citizen science platform, <a href='https://youngxperts.nl' target='_blank'>YoungXperts</a>, where youth are actively involved in our research during brainstorms and cocreation sessions</li>
+      <li>improving how we worked (incl. with data)</li>
+      <li>involvement in the citizen science platform, <a href='https://youngxperts.nl' target='_blank'>YoungXperts</a>, where youth are actively involved in the group's research during brainstorms and cocreation sessions</li>
       </ul></li></ul>",
       }
 
   - jobtitle: "Data manager"
     joblinkname: "datamanagerSU"
-    jobtime: "2020-current"
+    jobtime: "2020-2021"
     joblocation: "Leiden Consortium on Individual Development 
     (<a href='https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid' target='_blank'>L-CID</a>), 
     Leiden University, Leiden, The Netherlands"
     jobinfo: ~
     jobdescription: {
       ? "Job description"
-      : "As data manager for L-CID, a large multi-cohort twin study, I aim to make our data and metadata 
-      <a href='https://www.go-fair.org/fair-principles/' target='_blank'>FAIR</a> and our documentation interpretable, in order for this amazing dataset to be useful and useable in the future.",
+      : "As data manager for L-CID, a large multi-cohort twin study, I helped make the data and metadata 
+      <a href='https://www.go-fair.org/fair-principles/' target='_blank'>FAIR</a> and their documentation interpretable, in order for this amazing dataset to be useful and useable in the future.",
     }
 
   - jobtitle: "Data manager"
@@ -80,12 +92,13 @@ jobs:
 educations:
   - educationtitle: "Online courses"
     educationlinkname: "onlinecourses"
-    educationtime: "2016-2019"
+    educationtime: "2016-2021"
     educationlocation: ~
-    educationinfo: "To gain some more relevant skills, I followed several online courses, most of them in my free time"
+    educationinfo: "To gain some more relevant skills, I somtimes follow online courses, most of them in my free time"
     educationdescription: {
       ? "List of courses"
       : "<ul>
+          <li>2021: Introduction to programming in Python - <i>Center for Digital Scholarship, Leiden University</i>, see the <a href='https://cdsleiden.github.io/python-tutorial/Welcome.html' target='_blank'>materials here</a></li>
           <li>2019-2020: Specialization Data Science: Foundations using R - <i>Johns Hopkins University via <a href='https://www.coursera.org/specializations/data-science-foundations-r' target='_blank'>Coursera</a></i></li>
           <li>2019: Research data management and sharing (grade: 89.7%) - <i>UNC & University of Edinburgh via <a href='https://www.coursera.org/learn/data-management' target='_blank'>Coursera</a></i></li>
           <li>2019: Adobe InDesign Made Easy: A Beginners Guide to InDesign - <i>Infinite Skills via <a href='https://www.udemy.com/course/adobe-indesign-made-easy/' target='_blank'>Udemy</a></i></li>
