@@ -16,6 +16,9 @@
   #dropdown:
   #  - title: "Blog archive"
   #    url: "/blog/archive/"
+- title: Brain MRI data sharing guide
+  url: "https://www.dorienhuijser.com/MRIsharingguide/"
+  side: left
 - title: Contact
   url: "/contact/"
   side: left
