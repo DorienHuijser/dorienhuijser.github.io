@@ -1,15 +1,15 @@
 # WORK EXPERIENCE
 jobs:
-  - jobtitle: "Data steward"
-    joblinkname: "datasteward"
+  - jobtitle: "Research data manager"
+    joblinkname: "datamanager"
     jobtime: "2021-current"
     joblocation: "Utrecht University Library, Utrecht University, Utrecht, The Netherlands"
     jobinfo: ~
     jobdescription: {
       ? "Job description"
-      : "As a data steward, I will help researchers in different research groups with their
-      data management and open data-related problems and questions. Moreover, I will collaborate
-      on a large project that aims to make handling privacy-sensitive data easier for researchers",
+      : "As a research data manager, I support researchers at the university with their
+      data management and open data-related issues. Typical topics include data storage,
+      privacy, metadata, making data and software FAIR, reproducibility, version control, etc.",
       }
 
   - jobtitle: "Lab and data manager"
@@ -167,32 +167,14 @@ skills:
   - skillcategory: "Languages"
     skilllinkname: "languages"
     skilldescription: ~
-    skilllist: "<ul>
-    <li>⭐⭐⭐⭐⭐ 🇳🇱 Dutch (native)</li>
-    <li>⭐⭐⭐⭐ 🇬🇧 English (competent in writing, understanding, speaking)</li>
-    <li>⭐⭐ 🇫🇷 French, 🇩🇪 German, ❤️ Frisian (basic)</li></ul>"
+    skilllist: "Dutch (native), English (competent in writing, understanding, speaking), French (basic), German (basic), Frisian (basic)"
 
   - skillcategory: "Software"
     skilllinkname: "software"
     skilldescription: ~
-    skilllist: "<ul>
-        <li>⭐⭐⭐⭐ Microsoft Office and Google alternatives</li>
-        <li>⭐⭐⭐⭐ (Interactive) presentation tools</li>
-        <li>⭐⭐⭐Markdown</li>
-        <li>⭐⭐⭐Git(hub)</li>
-        <li>⭐⭐HTML</li>
-        <li>⭐R</li>
-        <li>⭐Adobe InDesign</li>
-        <li>⭐Matlab</li>
-        <li>⭐SPSS</li></ul>"
+    skilllist: "Microsoft Office and Google alternatives, (interactive) presentation tools, Markdown, Git(hub), HTML, R, SPSS"
 
   - skillcategory: "Competences"
     skilllinkname: "competences"
     skilldescription: "Please also see the <a href='/testimonials' target='_blank'>Testimonial page</a>"
-    skilllist: "<ul>
-    <li>Organization</li>
-    <li>Analytical</li>
-    <li>Collaborative</li>
-    <li>Goal-oriented</li>
-    <li>Eager to learn</li>
-    <li>Communicative</li></ul>"
+    skilllist: "Organization, analytical, collaborative, goal-oriented, eager to learn, communicative"
