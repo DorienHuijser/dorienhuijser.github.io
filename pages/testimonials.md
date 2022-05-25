@@ -57,42 +57,49 @@ header: no
 
 
 <div data-content>
-<p>I generally don't like talking about myself. In fact, you will probably get a better impression of me through my colleagues, friends and family. Therefore, I collected some data and summarized the results on this page <a href="#section1">[1]</a>.</p>
-
-
-<h2>Others describe me as</h2>
+<p>I generally don't like talking about myself. In fact, you will probably get a better impression of me through my colleagues, friends and family. Therefore, I collected some data and summarized the results on this page.</p>
 
 <iframe src="https://answergarden.ch/embed/1547073" width="640px" height="400px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/1547073">Go to AnswerGarden</a></p></iframe>
-
-
-
-
-<h2>What others value about me</h2>
-
+<br>
 <iframe src="https://answergarden.ch/embed/1670175" width="640px" height="400px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/1670175">Go to AnswerGarden</a></p></iframe>
 
 
-
-
 <h2>Testimonials</h2>
-
-This part will be filled with testimonials that I am still collecting. Here's a preview:
 
 <div class="roow">
   <div class="col">
     <div class="card">
       <p><blockquote>
       <p>Dorien is a great team player with good communication skills. We were both part of a committee to organize a two-day symposium. Dorien always had her work in order, communicated well with the rest of the team and helped others where necessary. During her studies, she has proven herself to have strong analytical skills and a great work attitude. She's a winner!</p>
-      <cite>Friend and fellow student, anonymous</cite></blockquote></p>
+      <cite>Friend and fellow student</cite></blockquote></p>
     </div>
-</div></div>
-
-
-
-<p id="section1">[1] I created a <a href="https://forms.gle/W2JS3bbmcUcjYYCV9">google form questionnaire</a> that I asked everyone to fill out if they had the time.    
-</p>
-
-
+  </div>
+</div>
+<div class = "roow">
+  <div class = "col">
+    <div class="card">
+      <p><blockquote>
+      <p>Dorien has been a valuable addition to the team, both in terms of her personal strengths and knowledge in RDM. Her strengths include being organized, reliable, efficient, prompt. Generally, this allows her maintain a healthy pace and momentum in her tasks and projects. While Dorien works well independently, she is also a good team-player: she’s pleasant and good-natured, she cooperates and collaborates well, she actively communicates/participates with the team, she gets involved and contributes where she can/helps out if needed.</p>
+      <cite>Colleague</cite></blockquote></p>
+    </div>
+  </div>
+  <div class = "col">
+    <div class="card">
+      <p><blockquote>
+      <p>Dorien knows to find her way quickly in complex material, and collaborates well
+      with different specialists. In the Data Privacy Project, she shows to be a great
+      project manager, who is approachable and communicates in a nice way.</p>
+      <cite>Colleague</cite></blockquote></p>
+    </div>
+  </div>
+  <div class = "col">
+    <div class="card">
+      <p><blockquote>
+      <p>If something needs arranging, Dorien is going to tackle things hands-on immediately.</p>
+      <cite>Friend</cite></blockquote></p>
+    </div>
+  </div>
+</div>
 
 </div>
 
