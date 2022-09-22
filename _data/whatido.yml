@@ -59,6 +59,13 @@ activities:
       }
 
 talks:
+  - talkname: "Data sharing 2032: Data sharing in practice"
+    location: "Think Open days at CIMeC and LawTech Group at the University of Trento, Italy"
+    when: "2022/06/23"
+    slideslink: "https://doi.org/10.5281/zenodo.6759094"
+    abstractlink: "https://webmagazine.unitn.it/en/evento/cimec/110249/think-open-days"
+    recordinglink: "https://www.youtube.com/watch?v=T8CnuUa7WnA&list=PLiX54geLkpPJdw_p6ZDh7KOx0IoP_spZS&index=2"
+
   - talkname: "First steps to making your data FAIR (co-presented)"
     location: "ONWAR Annual PhD Meeting"
     when: "2021/11/25"
@@ -71,7 +78,7 @@ talks:
     when: "2021/06/10"
     slideslink: "https://osf.io/h7k35/"
     abstractlink: "https://dnm21.azuleon.org/illustrated-programme"
-    recordinglink: ~
+    recordinglink: "https://www.youtube.com/watch?v=CGAehAMv9wY&list=PLvYm9o6tx99O-1Ko9-Fvlo77VoUy-oaw7&index=3"
 
   - talkname: "Open science: just science done right"
     location: "Leiden Institute of Brain and Cognition"
@@ -87,7 +94,7 @@ talks:
     abstractlink: "https://www.openscience-rotterdam.com/2020/10/07/sharing-mri-oct2020/"
     recordinglink: ~
 
-  - talkname: "Sharing MRI data while protecting participants’ privacy: Two tools to get started"
+  - talkname: "Sharing MRI data while protecting participants' privacy: Two tools to get started"
     location: "OHBM Open Science room"
     when: "2020/06/23"
     slideslink: "https://doi.org/10.5281/zenodo.3905949"
