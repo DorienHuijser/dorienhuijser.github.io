@@ -41,4 +41,4 @@ By now, I hope that you agree with me that research data management is an import
 - <a href="https://twitter.com/hlrdmp/status/1357368172568076288" target="_blank">Header image</a>
 - <a href="https://dataedo.com/kb/data-glossary/what-is-metadata" target="_blank">Metadat cat</a>
 
-<i>This blog was originally posted on the <a href="https://erasmus-synclab.nl/what-the-hack-bringing-about-a-practical-tool-through-open-collaboration/" target="_blank">Erasmus SYNC lab website</a></i>
+<i>This blog was originally posted on the <a href="https://erasmus-synclab.nl/why-research-data-management-is-critical-for-open-science/" target="_blank">Erasmus SYNC lab website</a></i>
