@@ -1,0 +1,11 @@
+---
+title: "What I do"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: grid
+  categories: true
+  feed: false
+---
+
+Here I've highlighted a couple of projects and core activities I am or have been doing as part of my job. Note that most of my output can also be viewed on my [ORCID profile](https://orcid.org/0000-0003-3282-8083).

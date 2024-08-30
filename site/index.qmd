@@ -1,0 +1,41 @@
+---
+title: "Dorien Huijser"
+about:
+  template: trestles
+  image: assets/IMG-20240718-WA0005.jpg
+  links:
+    - icon: person-vcard
+      href: https://orcid.org/0000-0003-3282-8083
+    - icon: github
+      href: https://github.com/DorienHuijser
+    - icon: linkedin
+      href: https://www.linkedin.com/in/dorienhuijser/
+    - icon: briefcase
+      href: https://www.uu.nl/staff/DCHuijser
+    - icon: mastodon
+      href: https://akademienl.social/@dorienhuijser
+---
+
+Dorien Huijser is research data manager at the University Library at Utrecht University, the Netherlands. She provides support for researchers concerning the management of their research data. 
+
+> As a research data manager, my job is to help researchers with their research data management questions and issues.
+For different projects, this can mean different things. For example, I can help with writing a Data Management Plan, adding documentation and metadata, 
+taking care of privacy issues, making data [FAIR](https://www.go-fair.org/fair-principles/), working with version control, and writing reproducible code and articles.
+
+<!--
+## Education
+
+MSc Neuroscience and Cognition | Utrecht University, Utrecht, the Netherlands | Sept 2016 - Feb 2019
+
+BSc Liberal Arts and Sciences  | Utrecht University, Utrecht, the Netherlands | Sept 2013 - Aug 2016
+
+## Experience
+
+Utrecht University Library | Research data manager | July 2021 - present
+
+Erasmus University Rotterdam | Lab & data manager | March 2020 - June 2021
+
+Leiden University | Data manager | Feb 2019 - June 2021
+
+University Medical Center Utrecht | Educational content developer & e-moderator | Feb 2019 - March 2020
+-->

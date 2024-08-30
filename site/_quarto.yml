@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: "../docs"
+
+website:
+  title: "Dorien Huijser"
+  site-url: https://www.dorienhuijser.com/
+  description: "Dorien Huijser's website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: What I do
+      - href: blog.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

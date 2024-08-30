@@ -1,0 +1,18 @@
+---
+title: "Data Privacy Project"
+description: "A community project about privacy in research"
+image: "https://utrechtuniversity.github.io/dataprivacyhandbook/img/cover-image-dph.png"
+---
+
+Between July 2021 and June 2023, I led a university-wide project about privacy in research. Together with many colleagues from different disciplines (data management, privacy, security, open science, ethics, communication), we worked on four deliverables which I am now still maintaining.
+
+- The [Data Privacy Handbook](https://uu.nl/privacyhandbook) [[DOI](https://doi.org/10.5281/zenodo.8005847)], an open source wiki about privacy in research for Utrecht University researchers and beyond.
+- A [survey and one-on-one interviews](https://utrechtuniversity.github.io/dataprivacysurvey/) [[DOI]( https://doi.org/10.5281/zenodo.7253451)] to ask researchers about their struggles and needs with respect to privacy in research.
+- An [overview of tools](https://github.com/utrechtUniversity/privacy-engineering-tools) [[DOI](https://doi.org/10.5281/zenodo.7950409)] that can help when working with personal data
+- An online module [Privacy Basics for Researchers](https://uu.nl/privacybasics) [[DOI](https://doi.org/10.5281/zenodo.7930571)] which is now part of the RDM Support curriculum.
+
+Besides these deliverables, the project had a positive effect on the data support community at Utrecht University. It allowed us to form new collaborations or strengthen existing ones. 
+
+:::{.callout-tip}
+Please have a look at the [dedicated project website](https://utrechtuniversity.github.io/dataprivacyproject/) for more information about the project, the people involved, and blogs we wrote.
+:::
