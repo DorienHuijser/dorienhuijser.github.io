@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2023-01-21-the-privacy-monster.html",
-      "/blog/2021-03-08-rdm-for-open-science.html",
-      "/blog/2021-02-10-First-post.html",
-      "/blog/2021-02-10-How-to-build-a-Jekyll-website.html",
-      "/blog/2020-07-06-What-the-hack.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/cd2.html",
@@ -17,6 +7,16 @@
       "/projects/education.html",
       "/projects/neuroscience.html",
       "/projects/talks.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2023-01-21-the-privacy-monster.html",
+      "/blog/2021-03-08-rdm-for-open-science.html",
+      "/blog/2021-02-10-First-post.html",
+      "/blog/2021-02-10-How-to-build-a-Jekyll-website.html",
+      "/blog/2020-07-06-What-the-hack.html"
     ]
   }
 ]
