@@ -1,0 +1,182 @@
+---
+title: Curriculum Vitae
+format:
+  modern2-cv-pdf: default
+author: Dorien Huijser
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+cvcolor: 
+  main: 8ae0bc
+  accent: 59b18d
+jobtitle: Research Data Manager
+sidebar:
+  image: ../site/assets/IMG-20240718-WA0005.jpg
+  bullets:
+    - analytical
+    - social
+    - eager to learn
+    - goal-oriented
+    - organization-sensitive
+  sections: 
+    - name: Contact
+      items:
+        - icon: orcid
+          text: 0000-0003-3282-8083
+          href: https://orcid.org/0000-0003-3282-8083
+        - icon: github
+          text: "@dorienhuijser"
+          href: https://github.com/dorienhuijser
+        - icon: linkedin
+          text: "in/dorienhuijser"
+          href: https://www.linkedin.com/in/dorienhuijser/
+        - icon: mastodon
+          text: akademienl.social/@dorienhuijser
+          href: https://akademienl.social/@dorienhuijser
+    - name: Software
+      items:
+        - text: R & RStudio
+          exp: 
+            text: "3 yrs"
+            num: 0.7
+        - text: git & GitHub
+          exp: 
+            text: "4 yrs"
+            num: 0.5
+        - text: R markdown, Jupyter notebooks, Quarto
+          exp: 
+            text: "3 yrs"
+            num: 0.7
+        - text: HTML & CSS
+          exp: 
+            text: "4 yrs"
+            num: 0.4
+        - text: markdown
+          exp: 
+            text: "5 yrs"
+            num: 1
+        - text: shell
+          exp: 
+            text: "1 yr"
+            num: 0.1
+        - text: Python
+          exp: 
+            text: "1- yr"
+            num: 0.1
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: cvevents
+cvevents <- function(tbl, when, what, where, descr) {
+
+    command_start <- "\\cvevent"
+    tbl[[where]] <- gsub("\n", " \\\\newline ", tbl[[where]])
+    res <- paste0(
+        command_start, "{", tbl[[when]], "}", 
+        "{", tbl[[what]], "}",
+        "{", tbl[[where]], "}",
+        "{", tbl[[descr]], "}"
+        )
+
+    cat(res, sep = "\n\n\n")
+}
+
+cvproj <- function(tbl,what,role,items){
+    command_start <- "\\cvproj"
+    res <- paste0(
+        command_start, "{", tbl[[what]], "}",
+        "{", tbl[[role]], "}",
+        "{", sapply(tbl[[items]], function(x)paste0(x,collapse = ", ")), "}"
+    )
+
+    cat(res, sep = "\n\n\n")
+}
+```
+
+# About
+
+I love working with scientists to learn about their research while simultaneously helping them make their work more open, reproducible and compliant.
+I enjoy having a variety of tasks, including teaching, consulting, and in-depth data management work.
+Collaborating with other data support staff and with researchers are among the highlights of my working week.
+I am an excellent organizer, very eager to learn and to help others, goal-oriented and a reliable and dedicated colleague.
+
+# Experience
+
+```{r}
+#| label: experience
+#| output: asis
+tibble::tribble(
+    ~role, ~institution, ~dates, ~details,
+    # Research data manager UU
+    "Research data manager / Specialist Scientific Information", 
+    "Research Data Support, University Library\nUtrecht University, the Netherlands",
+    "07/2021 - Present", 
+    "As a team, we support researchers with their data management practices 
+    through consultancy (DMP and dataset review, answering questions, etc.),
+    workshops, and developing services and policy. Besides these team tasks, 
+    I maintain the open source Data Privacy Handbook, was involved in setting 
+    up a CKAN metadata catalogue for developmental psychology datasets, 
+    and am sometimes embedded in research projects. All while regularly 
+    liaising with colleagues across the university and beyond.",
+    
+    # Eur-Sync lab
+    "Lab and data manager", 
+    "Erasmus SYNC lab\nErasmus University Rotterdam",
+    "04/2020 - 06/2021",
+    "As data manager, I helped this research group with their open science 
+    and data management practices. As lab manager, I coordinated and 
+    supported lab-wide initiatives.",
+    
+    # Data manager LU
+    "Data manager", 
+    "Leiden Consortium on Individual Development\nLeiden University", 
+    "03/2020 - 06/2021", 
+    "For a large multi-cohort, multidisciplinary twin study, I helped make 
+    the (meta)data FAIR and the documentation interpretable for future users.",
+    
+    # BDRC
+    "Data manager", 
+    "Brain and Development Research Center\nLeiden University", 
+    "02/2019 - 02/2020", 
+    "I helped researchers with cleaning up their data and informed them about 
+    data management and open science practices.",
+    
+    # E-learning
+    "Content developer and e-moderator",
+    "UMC Utrecht and Animal Welfare Body, Utrecht",
+    "03/2019 - 02/2020", 
+    "I developed the contents of an online learning track for PhD students 
+    performing animal research, and was the e-moderator during the pilot phase,
+    keeping contact with all involved participants, teachers and coordinators."
+) |>
+    cvevents(when = "dates", what = "role", where = "institution", descr = "details")
+```
+
+\pagebreak
+
+# Education
+
+```{r}
+#| label: proj
+#| output: asis
+tibble::tribble(
+    ~what, ~role, ~items,
+    # N&C
+    "Msc Neuroscience and Cognition (09/2016 - 02/2019)", 
+    "Utrecht University", 
+    c("Research internship (9 mo., psychophysics and EEG, Utrecht) | Research internship (6 mo., functional MRI, Leiden) | Minor Science Education and Communication (6 mo., Utrecht) | Secretary for a two-day symposium committee"),
+    
+    # LAS
+    "BA Liberal Arts and Sciences (09/2013 - 08/2016)", 
+    "Utrecht University", 
+    c("Major Cognitive and Neurobiological Psychology | Minor Language Development"),
+    
+    # Conference visits and presentations
+    "Voorbereidend Wetenschappelijk Onderwijs (VWO) (08/2007 - 08/2013", 
+    "Christelijk Gymnasium Beyers Naudé, Leeuwarden",
+    c("Profile Economics and Society"),
+
+) |>
+    cvproj(what = "what", role = "role", items = "items")
+
+```
