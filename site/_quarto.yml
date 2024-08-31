@@ -6,6 +6,10 @@ website:
   title: "Dorien Huijser"
   site-url: https://www.dorienhuijser.com/
   description: "Dorien Huijser's website"
+  page-footer:
+    border: true
+    background: light
+    center: "Website created with <i class='bi bi-suit-heart-fill'></i>, [<i class='bi bi-github'></i>](https://github.com/dorienhuijser/dorienhuijser.github.io) and [Quarto](https://quarto.org/)."
   navbar:
     left:
       - href: index.qmd
@@ -22,8 +26,9 @@ website:
         href: index.xml
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+    - journal
+    - styles.scss
     toc: true
 
 
