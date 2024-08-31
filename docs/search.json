@@ -175,13 +175,6 @@
     "text": "The privacy monster\n\n\n\n\n\nWhile privacy professionals see the GDPR as lenient towards research, researchers often seem to experience the reverse. Why, and what can we do to tame the privacy monster?\n\n\n\n\n\nJan 21, 2023\n\n\nDorien Huijser\n\n\n\n\n\n\n\n\n\n\n\n\nWhy research data management is critical for open science\n\n\n\n\n\nWhen it comes to open science, researchers aiming for reproducible research are most likely to steal the show, for example by sharing data, code and materials. In the meantime, research data management, i.e., how you deal with your data, often goes relatively unnoticed. However, it is my humble (yet perhaps biased) opinion that without good research data management, open science would not lead to much durable scientific progress at all.\n\n\n\n\n\nMar 8, 2021\n\n\nDorien Huijser\n\n\n\n\n\n\n\n\n\n\n\n\nCreating my own website\n\n\n\n\n\nThis is my first blogpost. Here, you can read more about how I started this website.\n\n\n\n\n\nFeb 10, 2021\n\n\nDorien Huijser\n\n\n\n\n\n\n\n\n\n\n\n\nHow to for dummies: creating a static website with Jekyll and GitHub Pages\n\n\n\n\n\nWant to know how to get started with a website just like this one? Follow the steps described here!\n\n\n\n\n\nFeb 10, 2021\n\n\nDorien Huijser\n\n\n\n\n\n\n\n\n\n\n\n\nWhat the hack? Bringing about a practical tool through open collaboration\n\n\n\n\n\nRecently, we released an MRI data sharing guide for Dutch researchers. This is a tool for researchers who want to share brain MRI data but do not know where to start. Such a practical tool is an output form that we as researchers are not very much used to. Creating this guide was therefore a very different process compared to regular research. Specifically, it involved a lot less planning, first-time hackathon experiences and many teachable moments.\n\n\n\n\n\nJul 6, 2020\n\n\nDorien Huijser\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "```"
-  },
-  {
     "objectID": "projects/cd2.html",
     "href": "projects/cd2.html",
     "title": "Connecting Data in Child Development (CD2)",
