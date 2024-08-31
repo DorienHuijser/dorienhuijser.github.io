@@ -1,0 +1,8 @@
+---
+title: "CV"
+---
+
+```{=html}
+<iframe src="assets/cv.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf"></iframe>
+```
+```

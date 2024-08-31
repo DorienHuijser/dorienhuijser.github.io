@@ -1,0 +1,7 @@
+---
+title: "Connecting Data in Child Development (CD2)"
+description: "Creating a metadata catalogue"
+image: "https://individualdevelopment.nl/wp-content/uploads/sites/99/2021/06/CID-landkaartje.png"
+---
+
+In the [Connecting Data in Child Development (CD2)](https://individualdevelopment.nl/2020/06/11/funding-for-harmonized-metadata-infrastructure/) project, which ran from 2020 to 2024, we created a CKAN metadata catalogue for 6 longitudinal child cohort studies in the Netherlands. My role was to coordinate with cohort data managers and researchers, and to collect and quality control the relevant metadata. The live version of the catalogue can be found here: <https://data.individualdevelopment.nl/>

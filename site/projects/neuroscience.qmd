@@ -1,0 +1,13 @@
+---
+title: "RDM and inclusivity in neuroscience"
+description: "A selection of activities from my previous job"
+image: "https://erasmus-synclab.nl/wp-content/uploads/2021/12/photo-1522071820081-009f0129c71c-1024x683.jpg"
+---
+
+With my background in cognitive neuroscience, I started my career as a data manager in a developmental neuroscience research group.
+Here is a selection of contributions I made to this discipline during that time:
+
+- As described in [this blog post](TODO), I co-created a data sharing guide for neuroscientists collecting MRI data. There is both a [static version](https://doi.org/10.5281/zenodo.3822289) as well as an [online interactive version](https://www.dorienhuijser.com/MRIsharingguide/)
+- Together with my now ex-colleague [Eduard Klapwijk](https://www.eur.nl/people/eduard-klapwijk), we created the [SYNC lab wiki](https://eur-synclab.github.io/), which exhibits how we worked in my previous workplace and contains practical information on open science, data management, data analysis, general administration, etc. We also wrote out [contributing guidelines](https://eur-synclab.github.io/about/contribute) target so that all lab members could contribute.
+- I used to be an active member of the [Brainhack community](https://brainhack.org/). Within this community, I got the opportunity to co-author on a couple community papers on the [BrainHack conference](https://doi.org/10.1016/j.neuron.2021.04.001) and [Inclusivity in online conferences](https://doi.org/10.31234/osf.io/vj5tu).
+- I was a member of the organizing committee of the online [OpenMR Benelux conference](https://openmrbenelux.github.io/) in 2021.

@@ -1,0 +1,9 @@
+---
+title: "What I do"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: grid
+  categories: true
+  feed: false
+---
