@@ -30,7 +30,7 @@ format:
   html:
     theme:
     - journal
-    - styles.scss
+    - assets/styles.scss
     toc: true
 
 
