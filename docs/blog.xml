@@ -10,7 +10,31 @@
 <atom:link href="https://www.dorienhuijser.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Dorien Huijser&#39;s website</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Fri, 20 Jan 2023 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 31 Oct 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Work-related updates on the sol blog</title>
+  <dc:creator>Dorien Huijser</dc:creator>
+  <link>https://www.dorienhuijser.com/blog/2024-11-01-working-out-loud.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A while ago, our colleague <a href="https://danrudmann.com/">Dan Rudmann</a> had the nice suggestion to make the work and activities ongoing in our department (Research Data Support @ Utrecht University Library) more visible. He called this “working out loud” and created a new website for our department, where we can all put our work-related updates.</p>
+<p>I recently wrote 2 posts for that website, they can be found here:</p>
+<ul>
+<li>A <a href="https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html">summary of a meet-up</a> we had with data and software support staff from TU Delft.</li>
+<li>A <a href="https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html">bit of background</a> about the creation of a guide for research with human-related big data at the Faculty of Humanities that I was involved in creating.</li>
+</ul>
+<p>I am sure many more posts will follow, both from me as well as from my colleagues. If you want to learn more about our activities, <a href="https://utrechtuniversity.github.io/sol/">keep an eye out on the department blog</a>!</p>
+
+
+
+ ]]></description>
+  <guid>https://www.dorienhuijser.com/blog/2024-11-01-working-out-loud.html</guid>
+  <pubDate>Thu, 31 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://cdn.archilovers.com/projects/b_730_d55077e241fa430ca25bb6cffd823724.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The privacy monster</title>
   <dc:creator>Dorien Huijser</dc:creator>

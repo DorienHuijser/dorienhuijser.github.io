@@ -1,0 +1,42 @@
+---
+title: "Roles starting with data don't mean the same thing"
+description: "Data manager, data steward, data engineer, data scientist, data analyst... there are so many job titles with the word data in it. In this blog I am trying to make sense of these roles..."
+author: "Dorien Huijser"
+date: "2024-11-01"
+image: ""
+draft: true
+---
+
+There is a lot of confusion about what a data person in the university does with respect to supporting researchers. Or at least I know that *I* have this confusion of what is supposed to fall within the boundaries of my job and what isn't. So here I'm trying to make the distinction between different roles one could have where data plays a role.
+
+Important notes:
+
+- This is biased towards a university context and thus research data. Which is already totally different from business data!
+- In practice, positions can contain aspects of multiple (all?) of the roles described here.
+- By no means is this a complete overview.
+
+## Data consultant
+
+Gives advise, relatively one-off.
+Can give workshops about handling data responsibly.
+
+## Data steward 
+
+Advises about all things data management and FAIR data. Connects with other experts. Can help write policy. Reviews DMPs and datasets.
+
+## Data manager
+
+*Research* data manager: can be embedded in research projects. Works hands-on with the data. Data organization, cleaning, transformation and publishing.
+
+## Data engineer
+
+Creates data pipelines (like Extract-Transform-Load or Extract-Load-Transform). Knows about databases (and related data repositories like data warehouses, data marts, data lakes). Everything automation surrounding the data workflow, getting data from one system to another. Preparing data to get it into a nice format so that others (for example data analysts) can use it.
+
+## Data scientist
+
+Comes up with research questions to answer, use available data sources to answer that question, performs statistical analysis or does some modelling, and, like most scientists, writes up results in a research paper (hopefully publishes the data and materials as well ;)).
+
+## Data architect (TODO)
+
+This one I still have to figure out. But I guess it's someone who designs the whole data infrastructure (like a database). And people like data engineers, data stewards and data scientists then use that infrastructure in their work.
+

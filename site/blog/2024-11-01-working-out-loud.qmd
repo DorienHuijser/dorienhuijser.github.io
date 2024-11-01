@@ -1,0 +1,17 @@
+---
+title: "Work-related updates on the sol blog"
+description: "Our department created a 'department blog' to make our work more explicit and visible to the outside world."
+author: "Dorien Huijser"
+date: "2024-11-01"
+image: "https://cdn.archilovers.com/projects/b_730_d55077e241fa430ca25bb6cffd823724.jpg"
+image-alt: "The inside of the University Library at the Utrecht Science Park"
+---
+
+A while ago, our colleague [Dan Rudmann](https://danrudmann.com/) had the nice suggestion to make the work and activities ongoing in our department (Research Data Support @ Utrecht University Library) more visible. He called this "working out loud" and created a new website for our department, where we can all put our work-related updates. 
+
+I recently wrote 2 posts for that website, they can be found here:
+
+- A [summary of a meet-up](https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html) we had with data and software support staff from TU Delft.
+- A [bit of background](https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html) about the creation of a guide for research with human-related big data at the Faculty of Humanities that I was involved in creating.
+
+I am sure many more posts will follow, both from me as well as from my colleagues. If you want to learn more about our activities, [keep an eye out on the department blog](https://utrechtuniversity.github.io/sol/)!
