@@ -24,8 +24,8 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-#      - icon: rss
-#        href: index.xml
+      - icon: rss
+        href: blog.xml
 format:
   html:
     theme:
