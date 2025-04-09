@@ -1,7 +1,8 @@
 ---
 title: "Education"
 description: "Workshops and educational materials"
-image: "https://zenodo.org/records/11147887/files/DALLE_LEGO-scientist-sharing-data.jpg"
+image: "https://images.pexels.com/photos/256395/pexels-photo-256395.jpeg"
+image-alt: "Photo of an empty classroom with empty chairs and tables"
 ---
 
 I regularly (co)teach standard and custom workshops about Research Data Management, reproducibility, R programming, and working with Quarto. I am also involved in creating the materials for these workshops and making the materials publicly available under an open license.
