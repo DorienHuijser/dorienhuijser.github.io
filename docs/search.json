@@ -179,7 +179,7 @@
     "href": "projects/cd2.html",
     "title": "Connecting Data in Child Development (CD2)",
     "section": "",
-    "text": "In the Connecting Data in Child Development (CD2) project, which ran from 2020 to 2024, we created a CKAN metadata catalogue for 6 longitudinal child cohort studies in the Netherlands. My role was to coordinate with cohort data managers and researchers, and to collect and quality control the relevant metadata. The live version of the catalogue can be found here: https://data.individualdevelopment.nl/"
+    "text": "In the Connecting Data in Child Development (CD2) project, which ran from 2020 to 2024, we created a CKAN metadata catalogue for 6 longitudinal child cohort studies in the Netherlands. My role was to coordinate with cohort data managers and researchers, and to collect and quality control the relevant metadata. The live version of the catalogue can be found here: https://data.individualdevelopment.nl/. We also wrote a short blog post about the project on the ODISSEI website."
   },
   {
     "objectID": "projects/education.html",
@@ -193,39 +193,46 @@
     "href": "projects/talks.html",
     "title": "Talks",
     "section": "",
-    "text": "A metadata catalogue for child development cohorts: the Connecting Data in Child Development project [working title] (with Otto Lange and Coosje Veldkamp) | On location @ ODISSEI conference, Utrecht | 2024-12-10\nPrivacy support in reserach at Utrecht University (with Frans Huigen) | On location @ Research Data NL’s GDPR 4 Data Support, Den Haag | 2024-11-07 | slides\nCultivating Openness: From Community Resources to Institutional Acceptance (discussion session with Chris Hartgerink, Lena Karvovskaya and Esther Plomp) | On location @ National Open Science Festival 2024, Maastricht | 2024-10-22\nPrivacy in wetenschappelijk onderzoek: een online wiki en e-learning module (with Kasper de Bruijn) | On location @ SURF Security and Privacy conference 2024, Rotterdam | 2024-06-28 | slides\nCreating a metadata catalogue for multiple sensitive datasets: the Connecting Data in Child Development project (with Otto Lange & Coosje Veldkamp) | On location @ SURF Research Day 2024, Amersfoort | 2024-05-30 | slides\nA Day in the Life of a Data Steward at a university | On location @ Research Data NL’s Essenstials 4 Data Support, Utrecht | 2024-02-29 | slides\nTurn the GDPR burden into an asset: Sharing and reusing personal data (with Francisco Romero Pastrana) | On location @ Teaming Up Across Domains, Utrecht | 2024-02-27 | slides | abstract"
+    "text": "A Day in the Life of a Data Steward at a university | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2025-04-17\nUDCC Forum IV: Rethinking Data Management Plans (with Frans de Liagre Böhl) | On location @ Utrecht DCC Forum, Utrecht | 2025-04-08 | agenda item\nA metadata catalogue for child development cohorts: the Connecting Data in Child Development project (with Otto Lange) | On location @ Seminar FAIR data infrastructures for the SSH, Utrecht | 2025-02-13 | slides"
   },
   {
     "objectID": "projects/talks.html#section",
     "href": "projects/talks.html#section",
     "title": "Talks",
     "section": "",
-    "text": "A metadata catalogue for child development cohorts: the Connecting Data in Child Development project [working title] (with Otto Lange and Coosje Veldkamp) | On location @ ODISSEI conference, Utrecht | 2024-12-10\nPrivacy support in reserach at Utrecht University (with Frans Huigen) | On location @ Research Data NL’s GDPR 4 Data Support, Den Haag | 2024-11-07 | slides\nCultivating Openness: From Community Resources to Institutional Acceptance (discussion session with Chris Hartgerink, Lena Karvovskaya and Esther Plomp) | On location @ National Open Science Festival 2024, Maastricht | 2024-10-22\nPrivacy in wetenschappelijk onderzoek: een online wiki en e-learning module (with Kasper de Bruijn) | On location @ SURF Security and Privacy conference 2024, Rotterdam | 2024-06-28 | slides\nCreating a metadata catalogue for multiple sensitive datasets: the Connecting Data in Child Development project (with Otto Lange & Coosje Veldkamp) | On location @ SURF Research Day 2024, Amersfoort | 2024-05-30 | slides\nA Day in the Life of a Data Steward at a university | On location @ Research Data NL’s Essenstials 4 Data Support, Utrecht | 2024-02-29 | slides\nTurn the GDPR burden into an asset: Sharing and reusing personal data (with Francisco Romero Pastrana) | On location @ Teaming Up Across Domains, Utrecht | 2024-02-27 | slides | abstract"
+    "text": "A Day in the Life of a Data Steward at a university | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2025-04-17\nUDCC Forum IV: Rethinking Data Management Plans (with Frans de Liagre Böhl) | On location @ Utrecht DCC Forum, Utrecht | 2025-04-08 | agenda item\nA metadata catalogue for child development cohorts: the Connecting Data in Child Development project (with Otto Lange) | On location @ Seminar FAIR data infrastructures for the SSH, Utrecht | 2025-02-13 | slides"
   },
   {
     "objectID": "projects/talks.html#section-1",
     "href": "projects/talks.html#section-1",
     "title": "Talks",
-    "section": "2023",
-    "text": "2023\n\nGDPR-compliant open science: Privacy resources you should know | On location @ Open Science on Track 2023, internal Utrecht University event, Utrecht | 2023-12-13\nFAIRifying educational resources | On location @ Open Science Festival 2023, Rotterdam | 2023-08-31 | slides | socials\nThe Data Privacy Handbook: Everything about privacy in research in one place [lightning talk] | On location @ Society for the Improvement of Psychological Science (SIPS), Padova, Italy | 2023-06-23 | slides | socials\nOn a wild goose chase? Supporting researchers through their research lifecycle (with Elisa Rodenburg and Laura Zeeman) | On location @ UKB/LCRDM networking day, Maastricht | 2023-05-25 | slides | abstract\nSharing personal data and the GDPR (with Francisco Romero Pastrana) | On location @ SURF Research Day 2023, Amersfoort | 2023-05-23 | slides\nYour secrets are safe with us: Tools for research with sensitive data (presenter & co-organizer) | On location @ SURF and Utrecht University organized event | 2023-03-21 | slides | blog post"
+    "section": "2024",
+    "text": "2024\n\nA metadata catalogue for child development cohorts: the Connecting Data in Child Development project (with Otto Lange and Coosje Veldkamp) | On location @ ODISSEI conference, Utrecht | 2024-12-10 | slides\nPrivacy support in research at Utrecht University (with Frans Huigen) | On location @ Research Data NL’s GDPR 4 Data Support, Den Haag | 2024-11-07 | slides\nCultivating Openness: From Community Resources to Institutional Acceptance (discussion session with Chris Hartgerink, Lena Karvovskaya and Esther Plomp) | On location @ National Open Science Festival 2024, Maastricht | 2024-10-22 | blogpost\nPrivacy in wetenschappelijk onderzoek: een online wiki en e-learning module (with Kasper de Bruijn) | On location @ SURF Security and Privacy conference 2024, Rotterdam | 2024-06-28 | slides\nCreating a metadata catalogue for multiple sensitive datasets: the Connecting Data in Child Development project (with Otto Lange & Coosje Veldkamp) | On location @ SURF Research Day 2024, Amersfoort | 2024-05-30 | slides\nA Day in the Life of a Data Steward at a university | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2024-02-29 | slides\nTurn the GDPR burden into an asset: Sharing and reusing personal data (with Francisco Romero Pastrana) | On location @ Teaming Up Across Domains, Utrecht | 2024-02-27 | slides | abstract"
   },
   {
     "objectID": "projects/talks.html#section-2",
     "href": "projects/talks.html#section-2",
     "title": "Talks",
-    "section": "2022",
-    "text": "2022\n\nData sharing 2032: Data sharing in practice | Online @ Think Open days at CIMeC and LawTech Group at the University of Trento, Italy | 2022-06-23 | slides | abstract | recording"
+    "section": "2023",
+    "text": "2023\n\nGDPR-compliant open science: Privacy resources you should know | On location @ Open Science on Track 2023, internal Utrecht University event, Utrecht | 2023-12-13\nFAIRifying educational resources | On location @ Open Science Festival 2023, Rotterdam | 2023-08-31 | slides | socials\nThe Data Privacy Handbook: Everything about privacy in research in one place [lightning talk] | On location @ Society for the Improvement of Psychological Science (SIPS), Padova, Italy | 2023-06-23 | slides | socials\nOn a wild goose chase? Supporting researchers through their research lifecycle (with Elisa Rodenburg and Laura Zeeman) | On location @ UKB/LCRDM networking day, Maastricht | 2023-05-25 | slides | abstract\nSharing personal data and the GDPR (with Francisco Romero Pastrana) | On location @ SURF Research Day 2023, Amersfoort | 2023-05-23 | slides\nYour secrets are safe with us: Tools for research with sensitive data (presenter & co-organizer) | On location @ SURF and Utrecht University organized event | 2023-03-21 | slides | blog post"
   },
   {
     "objectID": "projects/talks.html#section-3",
     "href": "projects/talks.html#section-3",
     "title": "Talks",
-    "section": "2021",
-    "text": "2021\n\nFirst steps to making your data FAIR (with Jacques Flores) | On location @ ONWAR Annual PhD Meeting | 2021-11-25 | slides | abstract\nData sharing in neuroscience: a few recommendations | Online @ Dutch Neuroscience Meeting 2021 | 2021-06-10 | slides | abstract | recording"
+    "section": "2022",
+    "text": "2022\n\nData sharing 2032: Data sharing in practice | Online @ Think Open days at CIMeC and LawTech Group at the University of Trento, Italy | 2022-06-23 | slides | abstract | recording"
   },
   {
     "objectID": "projects/talks.html#section-4",
     "href": "projects/talks.html#section-4",
+    "title": "Talks",
+    "section": "2021",
+    "text": "2021\n\nFirst steps to making your data FAIR (with Jacques Flores) | On location @ ONWAR Annual PhD Meeting | 2021-11-25 | slides | abstract\nData sharing in neuroscience: a few recommendations | Online @ Dutch Neuroscience Meeting 2021 | 2021-06-10 | slides | abstract | recording"
+  },
+  {
+    "objectID": "projects/talks.html#section-5",
+    "href": "projects/talks.html#section-5",
     "title": "Talks",
     "section": "2020",
     "text": "2020\n\nOpen science: just science done right | Online @ Leiden Institute of Brain and Cognition | 2020-12-03 | slides\nIntroduction to sharing brain MRI data | Online @ Open Science Community Rotterdam | 2020-10-07 | slides | abstract\nSharing MRI data while protecting participants’ privacy: Two tools to get started | Online @ OHBM Open Science room | 2020-06-23 | slides | abstract | recording"
