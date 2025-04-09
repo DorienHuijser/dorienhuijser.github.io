@@ -4,13 +4,20 @@ description: "Talks and workshops at one-off events"
 image: ../assets/lightning-talk-sips-2023.jpg
 ---
 
+## 2025
+
+- **A Day in the Life of a Data Steward at a university** | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2025-04-17
+- **UDCC Forum IV: Rethinking Data Management Plans** (with Frans de Liagre Böhl) | On location @ Utrecht DCC Forum, Utrecht | 2025-04-08 | [agenda item](https://www.uu.nl/en/events/udcc-forum-8-april-data-management-plan)
+- **A metadata catalogue for child development cohorts: the Connecting Data in Child Development project** (with Otto Lange) | On location @ Seminar FAIR data infrastructures for the SSH, Utrecht | 2025-02-13 | [slides](https://doi.org/10.5281/zenodo.14499126)
+
 ## 2024
-- **A metadata catalogue for child development cohorts: the Connecting Data in Child Development project** [working title] (with Otto Lange and Coosje Veldkamp) | On location @ ODISSEI conference, Utrecht | 2024-12-10
-- **Privacy support in reserach at Utrecht University** (with Frans Huigen) | On location @ Research Data NL's GDPR 4 Data Support, Den Haag | 2024-11-07 | [slides](https://doi.org/10.5281/zenodo.14046114)
-- **Cultivating Openness: From Community Resources to Institutional Acceptance** (discussion session with Chris Hartgerink, Lena Karvovskaya and Esther Plomp) | On location @ National Open Science Festival 2024, Maastricht | 2024-10-22
+
+- **A metadata catalogue for child development cohorts: the Connecting Data in Child Development project** (with Otto Lange and Coosje Veldkamp) | On location @ ODISSEI conference, Utrecht | 2024-12-10 | [slides](https://doi.org/10.5281/zenodo.14499126)
+- **Privacy support in research at Utrecht University** (with Frans Huigen) | On location @ Research Data NL's GDPR 4 Data Support, Den Haag | 2024-11-07 | [slides](https://doi.org/10.5281/zenodo.14046114)
+- **Cultivating Openness: From Community Resources to Institutional Acceptance** (discussion session with Chris Hartgerink, Lena Karvovskaya and Esther Plomp) | On location @ National Open Science Festival 2024, Maastricht | 2024-10-22 | [blogpost](https://doi.org/10.54900/5ftry-a6r07)
 - **Privacy in wetenschappelijk onderzoek: een online wiki en e-learning module** (with Kasper de Bruijn) | On location @ SURF Security and Privacy conference 2024, Rotterdam | 2024-06-28 | [slides](https://doi.org/10.5281/zenodo.12627104)
 - **Creating a metadata catalogue for multiple sensitive datasets: the Connecting Data in Child Development project** (with Otto Lange & Coosje Veldkamp) | On location @ SURF Research Day 2024, Amersfoort | 2024-05-30 | [slides](https://doi.org/10.5281/zenodo.12699407)
-- **A Day in the Life of a Data Steward at a university** | On location @ Research Data NL's Essenstials 4 Data Support, Utrecht | 2024-02-29 | [slides](https://osf.io/6s2bt)
+- **A Day in the Life of a Data Steward at a university** | On location @ Research Data NL's Essentials 4 Data Support, Utrecht | 2024-02-29 | [slides](https://osf.io/6s2bt)
 - **Turn the GDPR burden into an asset: Sharing and reusing personal data** (with Francisco Romero Pastrana) | On location @ Teaming Up Across Domains, Utrecht |  2024-02-27 | [slides](https://doi.org/10.5281/zenodo.10726850) | [abstract](https://tdcc.nl/evenementen/teaming-up-across-domains/)
 
 ## 2023
