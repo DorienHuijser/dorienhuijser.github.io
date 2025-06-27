@@ -1,13 +1,16 @@
 ---
-title: "Roles starting with data don't mean the same thing"
-description: "Data manager, data steward, data engineer, data scientist, data analyst... there are so many job titles with the word data in it. In this blog I am trying to make sense of these roles..."
+title: "Data roles in scientific institutions"
+description: "Data manager, data steward, data engineer, data scientist, data analyst... there are so many job titles with the word data in it. In this blog I am trying to make sense of these roles in the context of scientific research institutions."
 author: "Dorien Huijser"
 date: "2024-11-01"
 image: ""
 draft: true
 ---
 
-There is a lot of confusion about what a data person in the university does with respect to supporting researchers. Or at least I know that *I* have this confusion of what is supposed to fall within the boundaries of my job and what isn't. So here I'm trying to make the distinction between different roles one could have where data plays a role.
+Lately I've experienced a lot of confusion with respect to job titles. 
+Specifically, the ever-increasing importance of data in any organization, brings with it an explosion of job titles relating to the handling of said data. 
+For me personally, this firstly brings some confusion concerning what is supposed to fall within the boundaries of my job and what isn't, and secondly, what roles are available to grow towards. 
+Therefore, in this post, I have tried to distinguish different data-related roles in a research context, insofar as even possible. 
 
 Important notes:
 
@@ -15,28 +18,175 @@ Important notes:
 - In practice, positions can contain aspects of multiple (all?) of the roles described here.
 - By no means is this a complete overview.
 
-## Data consultant
+
+## Data steward, data consultant
 
 Gives advise, relatively one-off.
 Can give workshops about handling data responsibly.
-
-## Data steward 
-
 Advises about all things data management and FAIR data. Connects with other experts. Can help write policy. Reviews DMPs and datasets.
 
-## Data manager
+Lewis (2023):
+> Data Steward: A data quality expert that oversees data governance in an organization."
+
+Marco (2024): 
+> formation and execution of policies for the management of data and metadata 
+> advising the organization on governance of categories of data, on definition of data and its usage, and on the implementation of data governance policies through the activities of stewards and data managers.
+> responsible for the quality of data and metadata
+> ensure that the data governance policies are focused at the enterprise level.
+
+Herzberg (2021):
+> Data Stewards play a crucial part in ensuring that the data in their care is of high quality and is fit for use by all data stakeholders in the organization who are concerned with that set of data.
+> A good Data Steward must have the ability to see beyond silos and implement rules and processes for the data under their care. Although they do not own the data, they must thoroughly understand how that data needs to be documented, stored, and protected.
+
+de Baat (n.d.):
+> "beheerder van de datakwaliteit en communicatie."
+> [...] "Sommigen zien het als een op zichzelf staande functie, terwijl anderen het zien als een taak binnen een functie."
+> "De data steward zorgt er namelijk voor dat de beschikbare data volledig, betrouwbaar en correct is."
+> "Een data steward zorgt voor de standaarden, processen en structuren die ervoor moeten zorgen dat de kwaliteit van de data behouden blijft."
+> "Als data steward ben je ook de contactpersoon tussen stakeholders." [...] "Om dit te doen heb je als data steward kennis nodig van de bedrijfsprocessen en structuren van de organisatie. Daarnaast heb je kennis nodig over hoe en waar jullie de data opslaan, bewerken en gebruiken."
+
+de Haas (2021):
+> waarborgen van de kwaliteit en geschiktheid van het gebruik van data en de beveiligingsrichtlijnen die hierbij horen.  Daarmee vormt zij eigenlijk de brug tussen de IT afdeling en de business kant van een organisatie.
+> monitort data en zorgt dat deze niet vervuild zijn. Zodat deze op aanvraag beschikbaar kunnen worden gesteld aan de juiste persoon en dat deze kunnen worden gebruikt voor waarde toevoegende inzichten.
+> Waar een steward in de luchtvaart ervoor zorgt dat een vliegreis goed verloopt, zorgt een data steward ervoor dat de datastroom in goede banen wordt geleid. Het is in feite een tactische functie omdat het met name over de korte termijn gaat en vaak heel specifiek gericht is.
+> Mogelijke werkzaamheden van een data steward zijn:
+- Onderzoeken hoe een organisatie data inricht en bewaart;
+- Het afstemmen van definities en beleid;
+- Communiceren over data governance, visie en doelen
+
+The Turing Way:
+> A Data Steward facilitates the quality, integrity and access to (meta)data in a manner that is consistent with the appropriate laws and institutional policies, ensuring professional treatment of data throughout all stages of the research project.
+> Each role is varied but the main activities are typically focused around data, stewardship, and advising researchers:
+- Leading policy development and implementation on research data management
+- Act as a spokesperson, create awareness for the added value of good data management
+- Assist in planning the collection, management and publication of data in research projects
+- Explore, analyse and assess trends in research data management at your institute/research group
+- Develop and run training events on research data management
+> The day-to-day tasks of a Data Steward could include:
+- Checking and advising on a Data Management Plan (see Data Management Plan for more information)
+- Providing support for grant proposals
+- Providing data management training
+- Guiding a researcher through the data sharing process
+- Leading discussions on what type of data to preserve for the long time and what data to share publicly
+- Planning for upcoming community information sessions, trainings, events
+- Providing information (through emails or on a website)
+- Writing a blog on a topic related to research data management
+- Being involved in international communities and working groups to improve the recommended practises or advocate for the importance of research data
+
+## Data manager or data custodian
 
 *Research* data manager: can be embedded in research projects. Works hands-on with the data. Data organization, cleaning, transformation and publishing.
+
+Data manager tasks (Lewis, 2023):
+> Writing or contributing to data management and sharing plans
+> Creating project and dataset level documentation (e.g., data dictionaries, protocols)
+> Building data collection and tracking tools
+> Creating reproducible data cleaning and validation pipelines
+ Note: Here, the goal of a data manager isn’t necessarily to create datasets for specific analyses, but rather to create datasets for general data sharing/archival purposes
+> Overseeing data sharing (e.g., working with repositories, responding to data requests)
+> Designing and overseeing workflows, ensuring the integrity of data every step of the way
+
+Lewis, 2023:
+> Yet, a data manager can also help build a data culture in your organization:
+> Create team level documentation (e.g., data governance documents, style guides, templates)
+> Train other staff in data management skills (e.g., onboarding, coding skills, best practices)
+> Help investigate and vet new data tools
+> Promote equitable data practices
+> Oversee all data policies (e.g., ownership, licensing, confidentiality)
+> Ensure standardization of practices across projects
+> Act as a data champion, guiding and inspiring team members to care about data management 
+
+
+Lewis 2023 skills of a data manager
+- Technical skills: vary based on users and data type(s):
+   > Understanding of database structure (i.e., how datasets are organized)
+   > Experience building reproducible data cleaning pipelines
+   > Coding experience
+   > Specific software/tool experience
+
+- Domain skills (e.g., experience with specific data type and regulations surrounding them e.g. privacy and security)
+- Experience, e.g. experience in research
+ > Some knowledge of data sharing best practices (e.g., metadata standards, FAIR principles) can also be very beneficial
+
+- Interpersonal skills, e.g, "Communication, Acute attention to detail, Comfortable with problem solving"
+
+Marco (2024):
+> AKA “data custodians”
+> implements the data delivery process in concert with the business representatives (the data stewards)
+> advise on the technologies used in data management, and enable the user community to access and manipulate the data. 
+> often in IT departments / often deep skills in technologies that support enterprise data management.
+
+
+de Haas (2021):
+>  databeheer van een organisatie en zorgt er dus eigenlijk voor dat een organisatie op een efficiënte en effectieve manier gebruik kan maken van data. 
+> verschaffen van toegang tot de data, het uitvoeren en monitoren van de opslag van data en het beheersen van de data,
+> - Het zorgdragen dat de juiste data en datakwaliteit goed worden opgeslagen in daarvoor bestemde systemen;
+- Het doorvoeren en inrichten van procesverbeteringen;
+- Het leveren van de juiste sturingsinformatie door data te analyseren en te optimaliseren;
+- Het inrichten en up to date houden van het dataplatform.
+
+WUR: 
+> "Generally, a data manager is someone that does the same thing as a WUR data steward but with practical hands-on support / tasks in data management (storing data, automating processes, designing workflows, curating data, checking data quality, etc.)."
+
+### Data custodian
+
+Marco (2024): "Data Custodians: Focus on the security and storage of data, ensuring that data assets are protected and accessible."
+
+Herzberg (2021): "A Data Custodian is responsible for implementing and maintaining security controls for a given data set in order to meet the requirements specified by the Data Owner in the Data Governance Framework."
 
 ## Data engineer
 
 Creates data pipelines (like Extract-Transform-Load or Extract-Load-Transform). Knows about databases (and related data repositories like data warehouses, data marts, data lakes). Everything automation surrounding the data workflow, getting data from one system to another. Preparing data to get it into a nice format so that others (for example data analysts) can use it.
 
+### Data wrangler
+
+I think this role exists mostly in (commercial) businesses. 
+
+Lewis (2023): "Data Wrangler: Someone who organizes data into shareable data products."
+
 ## Data scientist
 
 Comes up with research questions to answer, use available data sources to answer that question, performs statistical analysis or does some modelling, and, like most scientists, writes up results in a research paper (hopefully publishes the data and materials as well ;)).
+
+### Data analyst
+
+Marco (2024): "Data Analysts: Perform data analysis to support decision-making and derive insights from data."
 
 ## Data architect (TODO)
 
 This one I still have to figure out. But I guess it's someone who designs the whole data infrastructure (like a database). And people like data engineers, data stewards and data scientists then use that infrastructure in their work.
 
+## Data champion
+
+Lewis (2023): "Data Champion: Someone who drives data culture in an organization."
+
+## Comparisons...
+
+de Haas (2021): "We zien bijvoorbeeld dat een data steward een meer verbindende functie heeft tussen IT en business. Een data manager houdt zich hoofdzakelijk bezig met de data zelf, terwijl een data steward zich ook richt op definities en het beleid van de data, en daarmee dus betekenis geeft aan de data die de data manager beheert."
+
+## Does the label even matter?
+
+In my opinion, yes and no. Yes in the sense that job titles usually come with a paygrade and a specific positioning within an organization. Having clarity on which job title one has may give clarity on what the expected knowledge and skills are, and on which other positions one can move towards. No in the sense that the accurate description of a job matters a lot more than its title. The exact tasks will always differ at least a little bit between organizations or departments.  
+
+## Sources used atm
+
+List yet to nicely format (and cite via Zotero bib)
+
+- Lewis, Crystal (2023-07-07). "Hire a datamanager" https://cghlewis.com/blog/hire_datamgr/. Consulted 2024-11-10.
+- David P. Marco (2024-10-30). "Data Governance Roles and Responsibilities: Key Titles and Organizational Structure" https://www.ewsolutions.com/data-governance-organization-and-titles/ EWSolutions. Consulted 2024-11-10.
+- Ben Herzberg (2021-11-11). "The Datamasters: Data Owners vs. Data Stewards vs. Data Custodians" https://blog.satoricyber.com/the-datamasters-data-owners-vs-data-stewards-vs-data-custodians/ Consulted 2024-11-10.
+- de Baat, Dewi (N.D.) https://www.novalinq.nl/blog/wat-is-een-data-steward. Novalinq. Consulted 2024-11-10. 
+- de Haas, Sanne (2021-04-21). https://www.datajobs.nl/data-steward-en-data-manager-kenmerken-overeenkomsten-en-verschillen/. Consulted on 2024-11-10.
+- Wageningen Data Competence Center (n.d.). https://www.wur.nl/en/value-creation-cooperation/partnerships-collaborations/wdcc-2/research-data-management-wdcc/data-stewardship.htm Consulted on 2024-11-10.
+- The Turing Way Community (n.d.). https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-steward Consulted on 2024-11-10.
+
+## Sources yet to read
+
+- https://it.umich.edu/governance/data-governance/data-stewardship
+- Good one: https://www.eiminstitute.org/library/eimi-archives/volume-1-issue-13-march-2008-edition/a-rose-by-any-other-name-2013-titles-in-data-governance
+- https://www.informatica.com/nl/resources/articles/what-is-data-stewardship.html
+- https://en.wikipedia.org/wiki/Data_custodian
+- https://en.wikipedia.org/wiki/Data_steward
+- https://www.integrate.io/blog/the-essential-role-of-a-data-steward-in-modern-business-intelligence/
+- https://www.datasunrise.com/knowledge-center/data-owners-vs-data-stewards-vs-data-custodians/
+- https://zenodo.org/records/2669150
