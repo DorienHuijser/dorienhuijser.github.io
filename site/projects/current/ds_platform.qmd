@@ -1,0 +1,22 @@
+---
+title: "Data stewardship professionalization"
+description: "A national project to provide training and community resources for data professionals"
+image: "https://www.dtls.nl/wp-content/uploads/2022/03/rdnl-vierkant-logo.jpeg"
+image-alt: "Logo of Research Data Netherlands (RDNL)"
+---
+
+Since 2025, I have joined the Open Science NL-funded project "[National training and community platform for research data professionals](https://researchdata.nl/en/national-training-and-community-platform-for-research-data-professionals/)" which runs from 2025 until 2028 within the Research Data Netherlands consortium, consisting of 4TU.ResearchData, DANS-KNAW, SURF and Health-RI.
+
+This project consists of four work packages:
+
+- WP1: Project communication and coordination
+- WP2: 
+  - Developing a data steward curriculum and providing certification
+  - Developing new data steward training
+  - Teaching courses
+  - Developing train-the-trainer materials
+- WP3: Delivery of the platform
+- WP4: Sustainability and governance of the platform
+
+At the moment, my involvement is primarily in WP2.
+Feel free to check out the [project proposal](https://researchdata.nl/wp-content/uploads/2025/04/20250227-OSNL-Proposal-for-sharing-without-budget-and-personnel.pdf) or get in toch with me about this project.
