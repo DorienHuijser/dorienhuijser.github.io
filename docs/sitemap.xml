@@ -2,66 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.dorienhuijser.com/projects.html</loc>
-    <lastmod>2024-08-31T10:54:54.630Z</lastmod>
+    <lastmod>2025-06-27T14:05:24.498Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dorienhuijser.com/projects/neuroscience.html</loc>
-    <lastmod>2024-09-04T19:27:53.186Z</lastmod>
+    <loc>https://www.dorienhuijser.com/projects/previous/education.html</loc>
+    <lastmod>2025-06-27T14:18:07.462Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dorienhuijser.com/projects/data-privacy-project.html</loc>
-    <lastmod>2024-08-31T10:54:54.630Z</lastmod>
+    <loc>https://www.dorienhuijser.com/projects/previous/cd2.html</loc>
+    <lastmod>2025-04-09T09:33:22.515Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dorienhuijser.com/index.html</loc>
-    <lastmod>2024-09-04T19:27:53.186Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/contact.html</loc>
-    <lastmod>2024-09-04T19:13:50.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog/2023-01-21-the-privacy-monster.html</loc>
-    <lastmod>2024-08-31T10:54:54.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog/2021-02-10-How-to-build-a-Jekyll-website.html</loc>
-    <lastmod>2024-08-31T10:54:54.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog/2020-07-06-What-the-hack.html</loc>
-    <lastmod>2024-08-31T10:54:54.598Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog/2021-02-10-First-post.html</loc>
-    <lastmod>2024-08-31T10:54:54.598Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog/2021-03-08-rdm-for-open-science.html</loc>
-    <lastmod>2024-08-31T10:54:54.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog/2024-11-01-working-out-loud.html</loc>
-    <lastmod>2024-11-01T20:59:48.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.dorienhuijser.com/blog.html</loc>
-    <lastmod>2024-08-31T10:54:54.598Z</lastmod>
+    <loc>https://www.dorienhuijser.com/projects/current/ds_platform.html</loc>
+    <lastmod>2025-06-27T13:58:34.097Z</lastmod>
   </url>
   <url>
     <loc>https://www.dorienhuijser.com/cv.html</loc>
     <lastmod>2024-08-31T10:55:38.485Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dorienhuijser.com/projects/cd2.html</loc>
-    <lastmod>2025-04-09T09:33:22.515Z</lastmod>
+    <loc>https://www.dorienhuijser.com/blog.html</loc>
+    <lastmod>2024-08-31T10:54:54.598Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dorienhuijser.com/projects/education.html</loc>
-    <lastmod>2025-04-09T09:24:24.500Z</lastmod>
+    <loc>https://www.dorienhuijser.com/blog/2024-11-01-working-out-loud.html</loc>
+    <lastmod>2024-11-01T20:59:48.590Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dorienhuijser.com/projects/talks.html</loc>
-    <lastmod>2025-04-09T09:40:37.759Z</lastmod>
+    <loc>https://www.dorienhuijser.com/blog/2021-03-08-rdm-for-open-science.html</loc>
+    <lastmod>2024-08-31T10:54:54.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/blog/2021-02-10-First-post.html</loc>
+    <lastmod>2024-08-31T10:54:54.598Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/blog/2020-07-06-What-the-hack.html</loc>
+    <lastmod>2024-08-31T10:54:54.598Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/blog/2021-02-10-How-to-build-a-Jekyll-website.html</loc>
+    <lastmod>2024-08-31T10:54:54.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/blog/2023-01-21-the-privacy-monster.html</loc>
+    <lastmod>2024-08-31T10:54:54.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/contact.html</loc>
+    <lastmod>2024-09-04T19:13:50.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/index.html</loc>
+    <lastmod>2025-06-27T13:34:44.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/projects/current/talks.html</loc>
+    <lastmod>2025-06-27T14:06:51.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/projects/previous/data-privacy-project.html</loc>
+    <lastmod>2024-08-31T10:54:54.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dorienhuijser.com/projects/previous/neuroscience.html</loc>
+    <lastmod>2025-06-27T14:16:48.501Z</lastmod>
   </url>
 </urlset>

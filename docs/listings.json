@@ -2,11 +2,12 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/cd2.html",
-      "/projects/data-privacy-project.html",
-      "/projects/education.html",
-      "/projects/neuroscience.html",
-      "/projects/talks.html"
+      "/projects/current/ds_platform.html",
+      "/projects/current/talks.html",
+      "/projects/previous/cd2.html",
+      "/projects/previous/data-privacy-project.html",
+      "/projects/previous/neuroscience.html",
+      "/projects/previous/education.html"
     ]
   },
   {
