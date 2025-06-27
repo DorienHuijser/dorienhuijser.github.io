@@ -7,12 +7,12 @@ cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvcolor: 
   main: 8ae0bc
   accent: 59b18d
-jobtitle: Research Data Manager
+jobtitle: Training Coordinator
 sidebar:
   image: ../site/assets/IMG-20240718-WA0005.jpg
   bullets:
     - analytical
-    - social
+    - organized
     - eager to learn
     - goal-oriented
     - organization-sensitive
@@ -95,9 +95,8 @@ cvproj <- function(tbl,what,role,items){
 
 # About
 
-I love working with scientists to learn about their research while simultaneously helping them make their work more open, reproducible and compliant.
-I enjoy having a variety of tasks, including teaching, consulting, and in-depth data management work.
-Collaborating with other data support staff and with researchers are among the highlights of my working week.
+I am enthusiastic about contributing to more open, compliant and reproducible science, either by supporting researchers or my support staff colleagues.
+I enjoy having a variety of tasks, including teaching, consulting, collaborating with others, and in-depth data management work.
 I am an excellent organizer, very eager to learn and to help others, goal-oriented and a reliable and dedicated colleague.
 
 # Experience
@@ -107,17 +106,21 @@ I am an excellent organizer, very eager to learn and to help others, goal-orient
 #| output: asis
 tibble::tribble(
     ~role, ~institution, ~dates, ~details,
+        # Training coordinator
+    "Training coordinator Research Data Netherlands", 
+    "4TU.ResearchData, University Library\nDelft Utrecht of Technology, the Netherlands",
+    "06/2025 - Present", 
+    "As training coordinator, I work on the Research Data Netherlands (RDNL) project “National training and community platform for research data professionals”. 
+    This project focuses on creating a national data stewards curriculum, training, community resources and formalized recognition through badging - all with the aim to professionalize research data stewardship in The Netherlands.",
+    
     # Research data manager UU
     "Research data manager / Specialist Scientific Information", 
     "Research Data Support, University Library\nUtrecht University, the Netherlands",
-    "07/2021 - Present", 
-    "As a team, we support researchers with their data management practices 
-    through consultancy (DMP and dataset review, answering questions, etc.),
-    workshops, and developing services and policy. Besides these team tasks, 
-    I maintain the open source Data Privacy Handbook, was involved in setting 
-    up a CKAN metadata catalogue for developmental psychology datasets, 
-    and am sometimes embedded in research projects. All while regularly 
-    liaising with colleagues across the university and beyond.",
+    "07/2021 - 06/2025", 
+    "I supported researchers with their data management practices 
+    through consultancy (DMP and dataset review, answering questions, etc.), workshops, and developing services and policy. 
+    Besides these team tasks, I maintained the open source Data Privacy Handbook and was involved in setting up a CKAN metadata catalogue for developmental psychology datasets.
+    All while regularly liaising with colleagues across the university and beyond.",
     
     # Eur-Sync lab
     "Lab and data manager", 
@@ -152,7 +155,7 @@ tibble::tribble(
     cvevents(when = "dates", what = "role", where = "institution", descr = "details")
 ```
 
-\pagebreak
+<!-- \pagebreak --> 
 
 # Education
 
