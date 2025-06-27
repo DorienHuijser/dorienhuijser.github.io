@@ -11,13 +11,11 @@ about:
     - icon: linkedin
       href: https://www.linkedin.com/in/dorienhuijser/
     - icon: briefcase
-      href: https://www.uu.nl/staff/DCHuijser
+      href: https://www.tudelft.nl/en/staff/d.c.huijser/
     - icon: mastodon
       href: https://akademienl.social/@dorienhuijser
 ---
 
-Dorien Huijser is research data manager at the University Library at Utrecht University, the Netherlands. She provides support for researchers concerning the management of their research data. 
+Dorien Huijser is training coordinator for the Research Data Netherlands (RDNL) project "[National training and community platform for research data professionals](https://researchdata.nl/en/national-training-and-community-platform-for-research-data-professionals/)" at 4TU.ResearchData, in Delft, The Netherlands. This project focuses on creating a national data stewards curriculum, training, community resources and formalized recognition through badging - all with the aim to professionalize research data stewardship in The Netherlands.
 
-> As a research data manager, my job is to help researchers with their research data management questions and issues.
-For different projects, this can mean different things. For example, I can help with writing a Data Management Plan, adding documentation and metadata, 
-taking care of privacy issues, making data [FAIR](https://www.go-fair.org/fair-principles/), working with version control, and writing reproducible code and articles.
+Previously, Dorien worked as a data steward at Leiden University, Erasmus University Rotterdam, and Utrecht University, respectively, providing support for researchers concerning the management of their research data.
