@@ -1,0 +1,20 @@
+---
+title: "RDM education"
+description: "Workshops and educational materials"
+image: "https://images.pexels.com/photos/256395/pexels-photo-256395.jpeg"
+image-alt: "Photo of an empty classroom with empty chairs and tables"
+---
+
+As a data steward, I regularly (co)taught standard and custom workshops about Research Data Management, reproducibility, R programming, and working with Quarto. I was also involved in creating the materials for these workshops and making the materials publicly available under an open license.
+
+Here are the workshops that I taught:
+
+- Quickstart to Research Data Management ([materials](https://doi.org/10.5281/zenodo.7152332))
+- Introduction to R and Data ([materials](https://utrechtuniversity.github.io/workshop-introduction-to-R-and-data/))
+- Getting started with Yoda ([materials](https://doi.org/10.5281/zenodo.10785359))
+- Writing Reproducible Manuscripts with R and Python ([materials](https://utrechtuniversity.github.io/workshop-reproducible-manuscripts/))
+
+Here are the online educational materials that I (co)managed:
+
+- [Write your DMP](https://www.uu.nl/en/research/research-data-management/training-workshops/online-training-learn-to-write-your-dmp) ([online module](https://doi.org/10.5281/zenodo.15426403))
+- [Privacy Basics for Researchers](https://www.uu.nl/en/research/research-data-management/workshops/privacy-basics-online-training) ([online module](https://doi.org/10.5281/zenodo.7930571))
