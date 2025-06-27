@@ -6,8 +6,8 @@ image: ../assets/lightning-talk-sips-2023.jpg
 
 ## 2025
 
-- **A Day in the Life of a Data Steward at a university** | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2025-04-17
-- **UDCC Forum IV: Rethinking Data Management Plans** (with Frans de Liagre Böhl) | On location @ Utrecht DCC Forum, Utrecht | 2025-04-08 | [agenda item](https://www.uu.nl/en/events/udcc-forum-8-april-data-management-plan)
+- **A Day in the Life of a Data Steward at a university** | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2025-04-17 | [slides](https://osf.io/ceanf)
+- **UDCC Forum IV: Rethinking Data Management Plans** (with Frans de Liagre Böhl) | On location @ Utrecht DCC Forum, Utrecht | 2025-04-08 | [agenda item](https://www.uu.nl/en/events/udcc-forum-8-april-data-management-plan) | [blog post](https://www.uu.nl/en/news/udcc-forum-dialogue-vi-rethinking-the-dmp)
 - **A metadata catalogue for child development cohorts: the Connecting Data in Child Development project** (with Otto Lange) | On location @ Seminar FAIR data infrastructures for the SSH, Utrecht | 2025-02-13 | [slides](https://doi.org/10.5281/zenodo.14499126)
 
 ## 2024
