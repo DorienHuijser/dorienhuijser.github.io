@@ -6,6 +6,10 @@ image: ../../assets/lightning-talk-sips-2023.jpg
 
 ## 2025
 
+- **Help Shape the National Training Curriculum for Data Stewards** (workshop, with Fieke Schoots, Madeleine de Smaele, Marjan Grootveld and other RDNL colleagues) | On location @ Netherlands Open Science Festival 2025, Groningen | 2025-10-24 | [slides](https://doi.org/10.5281/zenodo.17456122), [blog post](https://researchdata.nl/en/2025/11/looking-back-on-the-open-science-festival-2025/)
+- **Curriculum design and learning paths** (pitch part of project presentation) | On location @ Research Data Netherlands Stakeholder Forum, Amsterdam | 2025-09-30  | [blog post](https://researchdata.nl/2025/10/first-rdnl-stakeholder-forum/)
+- **Training & Community platform for data professionals in NL** | Online @ RDA Professionalizing Data Stewardship Interest Group | 2025-09-23 | [slides](https://docs.google.com/presentation/d/10K-wWasHJ8SZ3OY9OZphGcMCgxh5laat/edit?usp=sharing&ouid=103910814264736404412&rtpof=true&sd=true)
+- **Training & Community platform for data professionals in NL** (lunch chat, with Simon Saldner) | On location @ RDA-NL community meet-up, Den Haag | 2025-09-03 | [slides](https://docs.google.com/presentation/d/1hbtZejwGFOVdF482jO-4vdf4v6zqfPu9baBqib_AkmE/edit?usp=sharing)
 - **A Day in the Life of a Data Steward at a university** | On location @ Research Data NL’s Essentials 4 Data Support, Utrecht | 2025-04-17 | [slides](https://osf.io/ceanf)
 - **UDCC Forum IV: Rethinking Data Management Plans** (with Frans de Liagre Böhl) | On location @ Utrecht DCC Forum, Utrecht | 2025-04-08 | [agenda item](https://www.uu.nl/en/events/udcc-forum-8-april-data-management-plan) | [blog post](https://www.uu.nl/en/news/udcc-forum-dialogue-vi-rethinking-the-dmp)
 - **A metadata catalogue for child development cohorts: the Connecting Data in Child Development project** (with Otto Lange) | On location @ Seminar FAIR data infrastructures for the SSH, Utrecht | 2025-02-13 | [slides](https://doi.org/10.5281/zenodo.14499126)
