@@ -1,0 +1,81 @@
+---
+title: "Taxila"
+description: "Taxila widget test page"
+---
+
+A test page for Taxila widgets.
+
+## Events table with sidebar
+<!--
+```{=html}
+<link rel="stylesheet" property="stylesheet" href="https://elixirtess.github.io/TeSS_widgets/css/tess-widget.css"/>
+<div id="tess-widget-events-table" class="tess-widget tess-widget-faceted-table"></div>
+<script>
+function initTeSSWidgets() {
+    TessWidget.Events(document.getElementById('tess-widget-events-table'),
+        'FacetedTable',
+        {
+            opts: {
+                columns: [{name: 'Date', field: 'start'},
+                    {name: 'Name', field: 'title'},
+                    {name: 'Provider', field: 'organizer'},
+                    {name: 'Location', field: 'location'}],
+                allowedFacets: ['scientific-topics', 'city', 'language', 'keyword'],
+                //facetOptionLimit: 5
+            },
+            params: {
+                //targetAudience: 'data steward', //filter not yet possible due to uncontrolled field OR just show events in the RDNL collection:
+                collections: ['Research Data Netherlands (RDNL)'],
+                //q: 'RDNL OR eScience OR DCC-PO OR LCRDM',
+                pageSize: 5,
+                includeExpired: true
+            },
+            baseUrl:'https://taxila.nl',
+            instanceName: 'Taxila',
+            emptyText: 'No trainings found'
+        });
+}
+
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+```
+-->
+
+## Events table with dropdowns
+
+```{=html}
+<link rel="stylesheet" property="stylesheet" href="https://elixirtess.github.io/TeSS_widgets/css/tess-widget.css"/>
+<div id="tess-widget-dropdown-table" class="tess-widget tess-widget-dropdown-table"></div>
+<script>
+function initTeSSWidgets() {
+    TessWidget.Events(document.getElementById('tess-widget-dropdown-table'),
+        'DropdownTable',
+        {
+            opts: {
+                columns: [{name: 'Date', field: 'start'},
+                    {name: 'Name', field: 'title'},
+                    {name: 'Provider', field: 'organizer'},
+                    {name: 'Location', field: 'location'}],
+                dropdowns: [{name: 'Type', field: 'event-types'},
+                    {name: 'City', field: 'city'},
+                    {name: 'Language', field: 'language'},
+                    {name: 'Topic', field: 'scientific-topics'}]
+            },
+            params: {
+                //targetAudience: 'data steward', //filter not yet possible due to uncontrolled field OR just show events in the RDNL collection:
+                collections: ['Research Data Netherlands (RDNL)'],
+                //q: 'RDNL OR eScience OR DCC-PO OR LCRDM',
+                pageSize: 5,
+                includeExpired: true
+            },
+            baseUrl:'https://taxila.nl',
+            instanceName: 'Taxila',
+            emptyText: 'No trainings found'
+        });
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+```
+

@@ -24,6 +24,8 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
+      - href: taxila.qmd
+        text: Temp
       - icon: rss
         href: blog.xml
 format:
