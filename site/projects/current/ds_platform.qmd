@@ -1,7 +1,7 @@
 ---
 title: "Data stewardship professionalization"
 description: "A national project to provide training and community resources for data professionals"
-image: "https://www.dtls.nl/wp-content/uploads/2022/03/rdnl-vierkant-logo.jpeg"
+image: "https://researchdata.nl/wp-content/uploads/2025/04/RDNL_Logo_RGB.svg"
 image-alt: "Logo of Research Data Netherlands (RDNL)"
 ---
 
@@ -13,10 +13,12 @@ This project consists of four work packages:
 - WP2: 
   - Developing a data steward curriculum and providing certification
   - Developing new data steward training
-  - Teaching courses
+  - Teaching RDNL courses "Essentials 4 Data Support" and "GDPR 4 Data Support"
   - Developing train-the-trainer materials
+  - Implementing a feedback loop
 - WP3: Delivery of the platform
 - WP4: Sustainability and governance of the platform
 
-At the moment, my involvement is primarily in WP2.
-Feel free to check out the [project proposal](https://researchdata.nl/wp-content/uploads/2025/04/20250227-OSNL-Proposal-for-sharing-without-budget-and-personnel.pdf) or get in toch with me about this project.
+At the moment, my involvement is primarily in WP 2.
+In March 2026, we delivered a [first version of the national curriculum](https://doi.org/10.5281/zenodo.17952685) (see also the [blog about the curriculum](https://researchdata.nl/en/2026/03/competency-to-capability-from-curriculum-to-training-programme-for-data-professionals/)).
+Feel free to check out the [project proposal](https://doi.org/10.5281/zenodo.17952713) or get in toch with me about this project.
