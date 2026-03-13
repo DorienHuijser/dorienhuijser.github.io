@@ -4,6 +4,10 @@ description: "Talks and workshops at one-off events"
 image: ../../assets/lightning-talk-sips-2023.jpg
 ---
 
+## 2026
+
+- **Interactive plenary: National training programme for data professionals** and **Workshop: Draw your learning path!** | On location @ Research Data Netherlands Community event | 2026-03-09 | [slides to come]()
+
 ## 2025
 
 - **Help Shape the National Training Curriculum for Data Stewards** (workshop, with Fieke Schoots, Madeleine de Smaele, Marjan Grootveld and other RDNL colleagues) | On location @ Netherlands Open Science Festival 2025, Groningen | 2025-10-24 | [slides](https://doi.org/10.5281/zenodo.17456122), [blog post](https://researchdata.nl/en/2025/11/looking-back-on-the-open-science-festival-2025/)
