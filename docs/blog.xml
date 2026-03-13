@@ -36,6 +36,15 @@
   <media:content url="https://cdn.archilovers.com/projects/b_730_d55077e241fa430ca25bb6cffd823724.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title></title>
+  <dc:creator>Dorien Huijser</dc:creator>
+  <link>https://www.dorienhuijser.com/blog/2024-11-XX-data-roles.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <guid>https://www.dorienhuijser.com/blog/2024-11-XX-data-roles.html</guid>
+  <pubDate>Thu, 31 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://www.dorienhuijser.com/blog" medium="image"/>
+</item>
+<item>
   <title>The privacy monster</title>
   <dc:creator>Dorien Huijser</dc:creator>
   <link>https://www.dorienhuijser.com/blog/2023-01-21-the-privacy-monster.html</link>
